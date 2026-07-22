@@ -1,0 +1,128 @@
+name: ColaTV Metadata Playlist v0.1.0
+
+on:
+  workflow_dispatch:
+    inputs:
+      scan_url:
+        description: "Trang chủ hoặc URL một trận"
+        required: true
+        default: "https://colatv77.live/"
+        type: string
+      max_matches:
+        description: "Số trang trận tối đa cần đọc metadata"
+        required: true
+        default: "30"
+        type: string
+      verify_streams:
+        description: "Kiểm tra URL trong authorized_streams.json"
+        required: true
+        default: true
+        type: boolean
+  schedule:
+    - cron: "7,37 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: colatv-metadata-playlist
+  cancel-in-progress: true
+
+jobs:
+  build-playlist:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 35
+    env:
+      PYTHONUNBUFFERED: "1"
+      TZ: Asia/Ho_Chi_Minh
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Static audit and tests
+        shell: bash
+        run: |
+          set -euo pipefail
+          python -m py_compile main.py
+          python -m unittest discover -s tests -v
+
+      - name: Build playlist
+        shell: bash
+        env:
+          INPUT_SCAN_URL: ${{ github.event.inputs.scan_url }}
+          INPUT_MAX_MATCHES: ${{ github.event.inputs.max_matches }}
+          INPUT_VERIFY: ${{ github.event.inputs.verify_streams }}
+        run: |
+          set -euo pipefail
+          SCAN_URL="${INPUT_SCAN_URL:-https://colatv77.live/}"
+          MAX_MATCHES="${INPUT_MAX_MATCHES:-30}"
+          VERIFY="${INPUT_VERIFY:-true}"
+          ARGS=("$SCAN_URL" --input authorized_streams.json --max-matches "$MAX_MATCHES")
+          if [ "$VERIFY" != "true" ]; then
+            ARGS+=(--no-verify)
+          fi
+          python -u main.py "${ARGS[@]}" 2>&1 | tee colatv-run.log
+
+      - name: Publish results to repository
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p results
+          cp -f colatv.m3u colatv_pipe.m3u colatv_debug.json results/
+          cat > results/README.md <<'EOF'
+          # Kết quả mới nhất
+
+          - `colatv.m3u`: playlist chuẩn.
+          - `colatv_pipe.m3u`: playlist có User-Agent/Referer/Origin sau dấu `|`.
+          - `colatv_debug.json`: metadata, lỗi đọc trang và kết quả kiểm tra URL.
+
+          Playlist chỉ chứa URL đã khai báo trong `authorized_streams.json`.
+          EOF
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f results/
+          if git diff --cached --quiet; then
+            echo "Không có thay đổi để commit."
+            exit 0
+          fi
+          git commit -m "Update authorized playlist [run ${GITHUB_RUN_NUMBER}]"
+          for attempt in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" || true
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              exit 0
+            fi
+            sleep $((attempt * 3))
+          done
+          echo "::error::Không thể push kết quả sau 3 lần."
+          exit 1
+
+      - name: Upload workflow artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: colatv-results-${{ github.run_number }}
+          path: |
+            colatv*.m3u
+            colatv_debug.json
+            colatv-run.log
+          if-no-files-found: warn
+          retention-days: 7
