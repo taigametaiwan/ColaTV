@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "match_url": "https://example.com/truc-tiep/doi-a-vs-doi-b-luc-2100-ngay-22-07-2026-demo",
+      "stream_url": "https://media.example.com/live/authorized-channel.m3u8",
+      "channel_name": "Kênh được cấp phép",
+      "logo": "",
+      "user_agent": "Mozilla/5.0",
+      "referer": "https://example.com/",
+      "origin": "https://example.com",
+      "enabled": true
+    }
+  ]
+}
