@@ -1,6 +1,6 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-07-25T14:36:36.015561+07:00",
+  "generated_at_vietnam": "2026-07-25T18:49:02.956505+07:00",
   "summary": {
     "discovered_match_pages": 9,
     "metadata_pages_read": 9,
@@ -11,83 +11,19 @@
   "discovery": {
     "start_url": "https://colatv77.live/",
     "match_urls": [
-      "https://colatv77.live/truc-tiep/dandenong-thunder-vs-altona-magic-luc-1400-ngay-25-07-2026-oj7x9ixzpwpi47g",
-      "https://colatv77.live/truc-tiep/nelson-giants-vs-tiep-theo-luc-1430-ngay-25-07-2026-vmqy6sn316wfgk9",
-      "https://colatv77.live/truc-tiep/dpmm-vs-clb-tampines-luc-1530-ngay-25-07-2026-jek33i843ndh9ko",
-      "https://colatv77.live/truc-tiep/qingdao-hainiu-fc-vs-tianjin-jinmen-tiger-luc-1630-ngay-25-07-2026-edq09illolxceqx",
       "https://colatv77.live/truc-tiep/myanmar-vs-malaysia-luc-1700-ngay-25-07-2026-xvkjoi834l3f879",
       "https://colatv77.live/truc-tiep/clb-pohang-steelers-vs-clb-jeonbuk-hyundai-motors-luc-1730-ngay-25-07-2026-g6763i56d96uo7r",
+      "https://colatv77.live/truc-tiep/shanghai-port-vs-shanghai-shenhua-luc-1835-ngay-25-07-2026-69759iggzgycgk2",
       "https://colatv77.live/truc-tiep/gimcheon-sangmu-fc-vs-daejeon-luc-1730-ngay-25-07-2026-527r3i4n9r0t47e",
       "https://colatv77.live/truc-tiep/dynamo-moscow-vs-clb-krylya-sovetov-luc-1800-ngay-25-07-2026-ndqmliwvonnhrkv",
-      "https://colatv77.live/truc-tiep/shanghai-port-vs-shanghai-shenhua-luc-1835-ngay-25-07-2026-69759iggzgycgk2"
+      "https://colatv77.live/truc-tiep/wuhan-three-towns-vs-cau-lac-bo-bong-da-tongliangloong-trung-khanh-luc-1900-ngay-25-07-2026-jek33i88g8es9ko",
+      "https://colatv77.live/truc-tiep/clb-persib-bandung-vs-arema-malang-luc-1930-ngay-25-07-2026-o07dni5ro8wtmkn",
+      "https://colatv77.live/truc-tiep/clb-degerfors-if-vs-djurgarden-luc-2000-ngay-25-07-2026-edq09ild5nnfeqx",
+      "https://colatv77.live/truc-tiep/lao-vs-thai-lan-luc-2000-ngay-25-07-2026-l6kegi80ov4uv75"
     ],
     "errors": {}
   },
   "matches": {
-    "https://colatv77.live/truc-tiep/dandenong-thunder-vs-altona-magic-luc-1400-ngay-25-07-2026-oj7x9ixzpwpi47g": {
-      "match_url": "https://colatv77.live/truc-tiep/dandenong-thunder-vs-altona-magic-luc-1400-ngay-25-07-2026-oj7x9ixzpwpi47g",
-      "name": "Dandenong Thunder vs Altona Magic",
-      "home_name": "Dandenong Thunder",
-      "away_name": "Altona Magic",
-      "date": "25/07/2026",
-      "time": "14:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/21b95f24eea9500e1147ed57a68a3ff8.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/5fe8e44d486217553612d132ac6346c6.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/nelson-giants-vs-tiep-theo-luc-1430-ngay-25-07-2026-vmqy6sn316wfgk9": {
-      "match_url": "https://colatv77.live/truc-tiep/nelson-giants-vs-tiep-theo-luc-1430-ngay-25-07-2026-vmqy6sn316wfgk9",
-      "name": "Nelson Giants vs Tiep Theo",
-      "home_name": "Nelson Giants",
-      "away_name": "Tiep Theo",
-      "date": "25/07/2026",
-      "time": "14:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/9b31beec1bba99785bda025ddeaeef10.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/1110dd15afde1c53e56e8227c9053422.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/dpmm-vs-clb-tampines-luc-1530-ngay-25-07-2026-jek33i843ndh9ko": {
-      "match_url": "https://colatv77.live/truc-tiep/dpmm-vs-clb-tampines-luc-1530-ngay-25-07-2026-jek33i843ndh9ko",
-      "name": "Dpmm vs Clb Tampines",
-      "home_name": "Dpmm",
-      "away_name": "Clb Tampines",
-      "date": "25/07/2026",
-      "time": "15:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/25dae24c4bfc4a6fdd53d090a39821dd.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/23dc72567ad2999491dfe56b50f7df62.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/qingdao-hainiu-fc-vs-tianjin-jinmen-tiger-luc-1630-ngay-25-07-2026-edq09illolxceqx": {
-      "match_url": "https://colatv77.live/truc-tiep/qingdao-hainiu-fc-vs-tianjin-jinmen-tiger-luc-1630-ngay-25-07-2026-edq09illolxceqx",
-      "name": "Qingdao Hainiu Fc vs Tianjin Jinmen Tiger",
-      "home_name": "Qingdao Hainiu Fc",
-      "away_name": "Tianjin Jinmen Tiger",
-      "date": "25/07/2026",
-      "time": "16:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/c1bc80f45a0bf86310ec6e56980c1757.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/e0080960b4e935d70f4037aaf3a0b917.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
     "https://colatv77.live/truc-tiep/myanmar-vs-malaysia-luc-1700-ngay-25-07-2026-xvkjoi834l3f879": {
       "match_url": "https://colatv77.live/truc-tiep/myanmar-vs-malaysia-luc-1700-ngay-25-07-2026-xvkjoi834l3f879",
       "name": "Myanmar vs Malaysia",
@@ -120,6 +56,22 @@
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
+    "https://colatv77.live/truc-tiep/shanghai-port-vs-shanghai-shenhua-luc-1835-ngay-25-07-2026-69759iggzgycgk2": {
+      "match_url": "https://colatv77.live/truc-tiep/shanghai-port-vs-shanghai-shenhua-luc-1835-ngay-25-07-2026-69759iggzgycgk2",
+      "name": "Shanghai Port vs Shanghai Shenhua",
+      "home_name": "Shanghai Port",
+      "away_name": "Shanghai Shenhua",
+      "date": "25/07/2026",
+      "time": "18:35",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/c4e143e537412003565cdb7c2d212538.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
     "https://colatv77.live/truc-tiep/gimcheon-sangmu-fc-vs-daejeon-luc-1730-ngay-25-07-2026-527r3i4n9r0t47e": {
       "match_url": "https://colatv77.live/truc-tiep/gimcheon-sangmu-fc-vs-daejeon-luc-1730-ngay-25-07-2026-527r3i4n9r0t47e",
       "name": "Gimcheon Sangmu Fc vs Daejeon",
@@ -144,24 +96,72 @@
       "date": "25/07/2026",
       "time": "18:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/4f2e51a4694f68360a19648b651b30ca.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/b7782a595f2f82ed8daca72fd1f102de.png!w80",
+      "home_logo": "https://colatv77.live/assets/images/logo.png",
+      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/shanghai-port-vs-shanghai-shenhua-luc-1835-ngay-25-07-2026-69759iggzgycgk2": {
-      "match_url": "https://colatv77.live/truc-tiep/shanghai-port-vs-shanghai-shenhua-luc-1835-ngay-25-07-2026-69759iggzgycgk2",
-      "name": "Shanghai Port vs Shanghai Shenhua",
-      "home_name": "Shanghai Port",
-      "away_name": "Shanghai Shenhua",
+    "https://colatv77.live/truc-tiep/wuhan-three-towns-vs-cau-lac-bo-bong-da-tongliangloong-trung-khanh-luc-1900-ngay-25-07-2026-jek33i88g8es9ko": {
+      "match_url": "https://colatv77.live/truc-tiep/wuhan-three-towns-vs-cau-lac-bo-bong-da-tongliangloong-trung-khanh-luc-1900-ngay-25-07-2026-jek33i88g8es9ko",
+      "name": "Wuhan Three Towns vs Cau Lac Bo Bong Da Tongliangloong Trung Khanh",
+      "home_name": "Wuhan Three Towns",
+      "away_name": "Cau Lac Bo Bong Da Tongliangloong Trung Khanh",
       "date": "25/07/2026",
-      "time": "18:35",
+      "time": "19:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/c4e143e537412003565cdb7c2d212538.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/9d520898f49a46e0a00feef82240cb80.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/5be93c1a6628d27de6d39fde9ea94b7a.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/clb-persib-bandung-vs-arema-malang-luc-1930-ngay-25-07-2026-o07dni5ro8wtmkn": {
+      "match_url": "https://colatv77.live/truc-tiep/clb-persib-bandung-vs-arema-malang-luc-1930-ngay-25-07-2026-o07dni5ro8wtmkn",
+      "name": "Clb Persib Bandung vs Arema Malang",
+      "home_name": "Clb Persib Bandung",
+      "away_name": "Arema Malang",
+      "date": "25/07/2026",
+      "time": "19:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/b2004093bf25a5a8d1768970d6e49d71.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/55cba4a142146e2cdc317d21eb4daf76.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/clb-degerfors-if-vs-djurgarden-luc-2000-ngay-25-07-2026-edq09ild5nnfeqx": {
+      "match_url": "https://colatv77.live/truc-tiep/clb-degerfors-if-vs-djurgarden-luc-2000-ngay-25-07-2026-edq09ild5nnfeqx",
+      "name": "Clb Degerfors If vs Djurgarden",
+      "home_name": "Clb Degerfors If",
+      "away_name": "Djurgarden",
+      "date": "25/07/2026",
+      "time": "20:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/3935aabcfa443b64677197fdb20af7cd.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/5d15445b5ebaaad062065f158f1d1fd8.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/lao-vs-thai-lan-luc-2000-ngay-25-07-2026-l6kegi80ov4uv75": {
+      "match_url": "https://colatv77.live/truc-tiep/lao-vs-thai-lan-luc-2000-ngay-25-07-2026-l6kegi80ov4uv75",
+      "name": "Lao vs Thai Lan",
+      "home_name": "Lao",
+      "away_name": "Thai Lan",
+      "date": "25/07/2026",
+      "time": "20:00",
+      "league": "",
+      "home_logo": "https://colatv77.live/assets/images/logo.png",
+      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
