@@ -1,19 +1,123 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-11T22:18:31.963340+07:00",
+  "generated_at_vietnam": "2026-08-12T01:39:27.817375+07:00",
   "summary": {
-    "discovered_match_pages": 0,
-    "metadata_pages_read": 0,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [],
+    "match_urls": [
+      "https://colatv77.live/truc-tiep/bodo-glimt-vs-union-saint-gilloise-luc-2300-ngay-11-08-2026-m2q15izyj2jie76",
+      "https://colatv77.live/truc-tiep/kauno-zalgiris-vs-dinamo-zagreb-luc-0000-ngay-12-08-2026-j374oi0g21yhgqo",
+      "https://colatv77.live/truc-tiep/apollon-limassol-vs-brann-luc-0000-ngay-12-08-2026-ndkz6i3pe3ptxq3",
+      "https://colatv77.live/truc-tiep/nec-nijmegen-vs-olympiakos-luc-0030-ngay-12-08-2026-vrqwni4dxo2c4qn",
+      "https://colatv77.live/truc-tiep/cska-1948-sofia-vs-panathinaikos-luc-0030-ngay-12-08-2026-edq09ilrvl6heqx",
+      "https://colatv77.live/truc-tiep/crvena-zvezda-vs-hapoel-beer-sheva-luc-0100-ngay-12-08-2026-ezk96i32vn9h1kn"
+    ],
     "errors": {}
   },
-  "matches": {},
+  "matches": {
+    "https://colatv77.live/truc-tiep/bodo-glimt-vs-union-saint-gilloise-luc-2300-ngay-11-08-2026-m2q15izyj2jie76": {
+      "match_url": "https://colatv77.live/truc-tiep/bodo-glimt-vs-union-saint-gilloise-luc-2300-ngay-11-08-2026-m2q15izyj2jie76",
+      "name": "Bodo Glimt vs Union Saint Gilloise",
+      "home_name": "Bodo Glimt",
+      "away_name": "Union Saint Gilloise",
+      "date": "11/08/2026",
+      "time": "23:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/98854ab97eadf3d2c7c6d657ad99df96.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/b796af8f1a3f43d5d56f4a4255b87260.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/kauno-zalgiris-vs-dinamo-zagreb-luc-0000-ngay-12-08-2026-j374oi0g21yhgqo": {
+      "match_url": "https://colatv77.live/truc-tiep/kauno-zalgiris-vs-dinamo-zagreb-luc-0000-ngay-12-08-2026-j374oi0g21yhgqo",
+      "name": "Kauno Zalgiris vs Dinamo Zagreb",
+      "home_name": "Kauno Zalgiris",
+      "away_name": "Dinamo Zagreb",
+      "date": "12/08/2026",
+      "time": "00:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/da6a0f9acc877204e8bc526a922066d6.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/b22d9b2c5fc8d98df9194a9c5d66ec83.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/apollon-limassol-vs-brann-luc-0000-ngay-12-08-2026-ndkz6i3pe3ptxq3": {
+      "match_url": "https://colatv77.live/truc-tiep/apollon-limassol-vs-brann-luc-0000-ngay-12-08-2026-ndkz6i3pe3ptxq3",
+      "name": "Apollon Limassol vs Brann",
+      "home_name": "Apollon Limassol",
+      "away_name": "Brann",
+      "date": "12/08/2026",
+      "time": "00:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/efd80175563b1750be1c1275ec409c6f.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/448b88beb6cdaf0accf126b280b177d9.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/nec-nijmegen-vs-olympiakos-luc-0030-ngay-12-08-2026-vrqwni4dxo2c4qn": {
+      "match_url": "https://colatv77.live/truc-tiep/nec-nijmegen-vs-olympiakos-luc-0030-ngay-12-08-2026-vrqwni4dxo2c4qn",
+      "name": "Nec Nijmegen vs Olympiakos",
+      "home_name": "Nec Nijmegen",
+      "away_name": "Olympiakos",
+      "date": "12/08/2026",
+      "time": "00:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/d22de494a1ff648e90892c249c5aed12.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/1df992d91eb0877558c872a18ea605f0.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/cska-1948-sofia-vs-panathinaikos-luc-0030-ngay-12-08-2026-edq09ilrvl6heqx": {
+      "match_url": "https://colatv77.live/truc-tiep/cska-1948-sofia-vs-panathinaikos-luc-0030-ngay-12-08-2026-edq09ilrvl6heqx",
+      "name": "Cska 1948 Sofia vs Panathinaikos",
+      "home_name": "Cska 1948 Sofia",
+      "away_name": "Panathinaikos",
+      "date": "12/08/2026",
+      "time": "00:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/182f01e096ad1f495cc88d2369c45224.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/bd7aa5be4c2c9a2f20e6597ee2c1738b.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/crvena-zvezda-vs-hapoel-beer-sheva-luc-0100-ngay-12-08-2026-ezk96i32vn9h1kn": {
+      "match_url": "https://colatv77.live/truc-tiep/crvena-zvezda-vs-hapoel-beer-sheva-luc-0100-ngay-12-08-2026-ezk96i32vn9h1kn",
+      "name": "Crvena Zvezda vs Hapoel Beer Sheva",
+      "home_name": "Crvena Zvezda",
+      "away_name": "Hapoel Beer Sheva",
+      "date": "12/08/2026",
+      "time": "01:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/61a1f9406cde098a265280a3683da9b7.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/8ec7fbdf73ede9a83738f1382bcc1353.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    }
+  },
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
