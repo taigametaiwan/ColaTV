@@ -1,123 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-12T19:36:43.818122+07:00",
+  "generated_at_vietnam": "2026-08-12T22:45:01.679756+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv77.live/truc-tiep/north-sunshine-eagles-vs-heidelberg-united-luc-1645-ngay-12-08-2026-l6kegi82j50av75",
-      "https://colatv77.live/truc-tiep/purefoods-star-hotshots-vs-phoenix-fuel-masters-luc-1830-ngay-12-08-2026-jek3psd0206u9qo",
-      "https://colatv77.live/truc-tiep/east-bengal-vs-al-arabi-luc-2030-ngay-12-08-2026-edq09ilz935ieqx",
-      "https://colatv77.live/truc-tiep/amkar-vs-pobeda-nizhniy-novgorod-luc-2100-ngay-12-08-2026-o07dni5zo3yumkn",
-      "https://colatv77.live/truc-tiep/arkadag-fk-vs-goa-luc-2200-ngay-12-08-2026-xvkjoi8y1loc879",
-      "https://colatv77.live/truc-tiep/gks-katowice-vs-hapoel-tel-aviv-luc-2300-ngay-12-08-2026-oj7x9ixg4mvc47g"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv77.live/truc-tiep/north-sunshine-eagles-vs-heidelberg-united-luc-1645-ngay-12-08-2026-l6kegi82j50av75": {
-      "match_url": "https://colatv77.live/truc-tiep/north-sunshine-eagles-vs-heidelberg-united-luc-1645-ngay-12-08-2026-l6kegi82j50av75",
-      "name": "North Sunshine Eagles vs Heidelberg United",
-      "home_name": "North Sunshine Eagles",
-      "away_name": "Heidelberg United",
-      "date": "12/08/2026",
-      "time": "16:45",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/56790766004b61c5ea6f82909cb64177.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/5cae62255ca170949672a7ce8999b094.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/purefoods-star-hotshots-vs-phoenix-fuel-masters-luc-1830-ngay-12-08-2026-jek3psd0206u9qo": {
-      "match_url": "https://colatv77.live/truc-tiep/purefoods-star-hotshots-vs-phoenix-fuel-masters-luc-1830-ngay-12-08-2026-jek3psd0206u9qo",
-      "name": "Purefoods Star Hotshots vs Phoenix Fuel Masters",
-      "home_name": "Purefoods Star Hotshots",
-      "away_name": "Phoenix Fuel Masters",
-      "date": "12/08/2026",
-      "time": "18:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/fe06f2d83effd9af1236bea3872b56a2.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/95c0060c118a7cdbf4ae5af32e2df905.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/east-bengal-vs-al-arabi-luc-2030-ngay-12-08-2026-edq09ilz935ieqx": {
-      "match_url": "https://colatv77.live/truc-tiep/east-bengal-vs-al-arabi-luc-2030-ngay-12-08-2026-edq09ilz935ieqx",
-      "name": "East Bengal vs Al Arabi",
-      "home_name": "East Bengal",
-      "away_name": "Al Arabi",
-      "date": "12/08/2026",
-      "time": "20:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/21649c3d173c8f4ec9d526432ad9f088.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/0d0ee7e6982f19a4a607590c2425f7c1.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/amkar-vs-pobeda-nizhniy-novgorod-luc-2100-ngay-12-08-2026-o07dni5zo3yumkn": {
-      "match_url": "https://colatv77.live/truc-tiep/amkar-vs-pobeda-nizhniy-novgorod-luc-2100-ngay-12-08-2026-o07dni5zo3yumkn",
-      "name": "Amkar vs Pobeda Nizhniy Novgorod",
-      "home_name": "Amkar",
-      "away_name": "Pobeda Nizhniy Novgorod",
-      "date": "12/08/2026",
-      "time": "21:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/6bc6b443e0a93517420542a1bf48540f.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/6bdcc5b3d67ecaadcf292a9aedc16b3f.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/arkadag-fk-vs-goa-luc-2200-ngay-12-08-2026-xvkjoi8y1loc879": {
-      "match_url": "https://colatv77.live/truc-tiep/arkadag-fk-vs-goa-luc-2200-ngay-12-08-2026-xvkjoi8y1loc879",
-      "name": "Arkadag Fk vs Goa",
-      "home_name": "Arkadag Fk",
-      "away_name": "Goa",
-      "date": "12/08/2026",
-      "time": "22:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/aad022bfac5c480bed8d0dc2a710281e.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/c510dae5d95168f431d517cb0d7fdad9.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/gks-katowice-vs-hapoel-tel-aviv-luc-2300-ngay-12-08-2026-oj7x9ixg4mvc47g": {
-      "match_url": "https://colatv77.live/truc-tiep/gks-katowice-vs-hapoel-tel-aviv-luc-2300-ngay-12-08-2026-oj7x9ixg4mvc47g",
-      "name": "Gks Katowice vs Hapoel Tel Aviv",
-      "home_name": "Gks Katowice",
-      "away_name": "Hapoel Tel Aviv",
-      "date": "12/08/2026",
-      "time": "23:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/eb9b870a25645ded21a7d5e41c207b0a.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/aac881cf177c83c85e6e31181aaf12c6.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
