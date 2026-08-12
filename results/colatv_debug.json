@@ -1,123 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-12T06:26:35.122013+07:00",
+  "generated_at_vietnam": "2026-08-12T12:19:20.364433+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv77.live/truc-tiep/fluminense-rj-vs-independiente-rivadavia-luc-0500-ngay-12-08-2026-o07dni5r1y0fmkn",
-      "https://colatv77.live/truc-tiep/boca-juniors-vs-deportivo-recoleta-luc-0500-ngay-12-08-2026-jr7owip03dpsgq0",
-      "https://colatv77.live/truc-tiep/charlotte-fc-vs-pachuca-luc-0630-ngay-12-08-2026-zrkn6i41p6ecwql",
-      "https://colatv77.live/truc-tiep/columbus-crew-vs-unam-pumas-luc-0630-ngay-12-08-2026-oj7x9ixmvpzs47g",
-      "https://colatv77.live/truc-tiep/indiana-fever-vs-new-york-liberty-luc-0630-ngay-12-08-2026-527rjswzzw0t4ke",
-      "https://colatv77.live/truc-tiep/cincinnati-vs-atlas-luc-0700-ngay-12-08-2026-vmqy9ivyx3lugk9"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv77.live/truc-tiep/fluminense-rj-vs-independiente-rivadavia-luc-0500-ngay-12-08-2026-o07dni5r1y0fmkn": {
-      "match_url": "https://colatv77.live/truc-tiep/fluminense-rj-vs-independiente-rivadavia-luc-0500-ngay-12-08-2026-o07dni5r1y0fmkn",
-      "name": "Fluminense Rj vs Independiente Rivadavia",
-      "home_name": "Fluminense Rj",
-      "away_name": "Independiente Rivadavia",
-      "date": "12/08/2026",
-      "time": "05:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/7e779bba58b944c8cfa786d857430383.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/boca-juniors-vs-deportivo-recoleta-luc-0500-ngay-12-08-2026-jr7owip03dpsgq0": {
-      "match_url": "https://colatv77.live/truc-tiep/boca-juniors-vs-deportivo-recoleta-luc-0500-ngay-12-08-2026-jr7owip03dpsgq0",
-      "name": "Boca Juniors vs Deportivo Recoleta",
-      "home_name": "Boca Juniors",
-      "away_name": "Deportivo Recoleta",
-      "date": "12/08/2026",
-      "time": "05:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/9ed2c4f6adc51975cdbd2a93093e6a43.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/f7e33bab2469f4e5b80d4d47cd92b381.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/charlotte-fc-vs-pachuca-luc-0630-ngay-12-08-2026-zrkn6i41p6ecwql": {
-      "match_url": "https://colatv77.live/truc-tiep/charlotte-fc-vs-pachuca-luc-0630-ngay-12-08-2026-zrkn6i41p6ecwql",
-      "name": "Charlotte Fc vs Pachuca",
-      "home_name": "Charlotte Fc",
-      "away_name": "Pachuca",
-      "date": "12/08/2026",
-      "time": "06:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/5c01731e3c513a3797c85b95c436e0d9.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/cff411edceeeb7c1677d9db65ce47164.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/columbus-crew-vs-unam-pumas-luc-0630-ngay-12-08-2026-oj7x9ixmvpzs47g": {
-      "match_url": "https://colatv77.live/truc-tiep/columbus-crew-vs-unam-pumas-luc-0630-ngay-12-08-2026-oj7x9ixmvpzs47g",
-      "name": "Columbus Crew vs Unam Pumas",
-      "home_name": "Columbus Crew",
-      "away_name": "Unam Pumas",
-      "date": "12/08/2026",
-      "time": "06:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/b6d8f81e8454813b3e672b179e627d3a.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/7654a95374767f93f6bec6a3d4819f76.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/indiana-fever-vs-new-york-liberty-luc-0630-ngay-12-08-2026-527rjswzzw0t4ke": {
-      "match_url": "https://colatv77.live/truc-tiep/indiana-fever-vs-new-york-liberty-luc-0630-ngay-12-08-2026-527rjswzzw0t4ke",
-      "name": "Indiana Fever vs New York Liberty",
-      "home_name": "Indiana Fever",
-      "away_name": "New York Liberty",
-      "date": "12/08/2026",
-      "time": "06:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/81e9f1f9d6393fd128c6c014783d9fa2.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/cincinnati-vs-atlas-luc-0700-ngay-12-08-2026-vmqy9ivyx3lugk9": {
-      "match_url": "https://colatv77.live/truc-tiep/cincinnati-vs-atlas-luc-0700-ngay-12-08-2026-vmqy9ivyx3lugk9",
-      "name": "Cincinnati vs Atlas",
-      "home_name": "Cincinnati",
-      "away_name": "Atlas",
-      "date": "12/08/2026",
-      "time": "07:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/1d14acf20b6647d3bf1f70959a875c8f.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/a3316e9ee8fe7b3a279a10d61d0b2f87.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
