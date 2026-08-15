@@ -1,19 +1,123 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-15T18:49:18.409598+07:00",
+  "generated_at_vietnam": "2026-08-15T20:44:30.814397+07:00",
   "summary": {
-    "discovered_match_pages": 0,
-    "metadata_pages_read": 0,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [],
+    "match_urls": [
+      "https://colatv77.live/truc-tiep/singapore-vs-thai-lan-luc-2000-ngay-15-08-2026-8lk2dir2d2xfz73",
+      "https://colatv77.live/truc-tiep/zhejiang-professional-vs-chengdu-rongcheng-luc-1835-ngay-15-08-2026-vmqy9ivvwv9fgk9",
+      "https://colatv77.live/truc-tiep/yunnan-yukun-vs-dalian-yingbo-fc-luc-1900-ngay-15-08-2026-jr7owipp1p9fgq0",
+      "https://colatv77.live/truc-tiep/shanghai-shenhua-vs-henan-songshan-longmen-luc-1900-ngay-15-08-2026-9gklzi11r1xcm7x",
+      "https://colatv77.live/truc-tiep/fc-bayern-mnchen-vs-rb-leipzig-luc-2030-ngay-15-08-2026-g6763i5og3jio7r",
+      "https://colatv77.live/truc-tiep/union-saint-gilloise-vs-zulte-waregem-luc-2100-ngay-15-08-2026-63kv9igel51cx7e"
+    ],
     "errors": {}
   },
-  "matches": {},
+  "matches": {
+    "https://colatv77.live/truc-tiep/singapore-vs-thai-lan-luc-2000-ngay-15-08-2026-8lk2dir2d2xfz73": {
+      "match_url": "https://colatv77.live/truc-tiep/singapore-vs-thai-lan-luc-2000-ngay-15-08-2026-8lk2dir2d2xfz73",
+      "name": "Singapore vs Thai Lan",
+      "home_name": "Singapore",
+      "away_name": "Thai Lan",
+      "date": "15/08/2026",
+      "time": "20:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/zhejiang-professional-vs-chengdu-rongcheng-luc-1835-ngay-15-08-2026-vmqy9ivvwv9fgk9": {
+      "match_url": "https://colatv77.live/truc-tiep/zhejiang-professional-vs-chengdu-rongcheng-luc-1835-ngay-15-08-2026-vmqy9ivvwv9fgk9",
+      "name": "Zhejiang Professional vs Chengdu Rongcheng",
+      "home_name": "Zhejiang Professional",
+      "away_name": "Chengdu Rongcheng",
+      "date": "15/08/2026",
+      "time": "18:35",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/cc1aef5e69e8d01ba3d3712f24040347.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/6ade4c9aaa615702eb7ec459e56d1968.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/yunnan-yukun-vs-dalian-yingbo-fc-luc-1900-ngay-15-08-2026-jr7owipp1p9fgq0": {
+      "match_url": "https://colatv77.live/truc-tiep/yunnan-yukun-vs-dalian-yingbo-fc-luc-1900-ngay-15-08-2026-jr7owipp1p9fgq0",
+      "name": "Yunnan Yukun vs Dalian Yingbo Fc",
+      "home_name": "Yunnan Yukun",
+      "away_name": "Dalian Yingbo Fc",
+      "date": "15/08/2026",
+      "time": "19:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/8c10b05df079cbf3efabd78675e6983f.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/0e5467034917e26c6e60a7162711c150.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/shanghai-shenhua-vs-henan-songshan-longmen-luc-1900-ngay-15-08-2026-9gklzi11r1xcm7x": {
+      "match_url": "https://colatv77.live/truc-tiep/shanghai-shenhua-vs-henan-songshan-longmen-luc-1900-ngay-15-08-2026-9gklzi11r1xcm7x",
+      "name": "Shanghai Shenhua vs Henan Songshan Longmen",
+      "home_name": "Shanghai Shenhua",
+      "away_name": "Henan Songshan Longmen",
+      "date": "15/08/2026",
+      "time": "19:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/f336520db254da6d6d5294b720d26d83.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/fc-bayern-mnchen-vs-rb-leipzig-luc-2030-ngay-15-08-2026-g6763i5og3jio7r": {
+      "match_url": "https://colatv77.live/truc-tiep/fc-bayern-mnchen-vs-rb-leipzig-luc-2030-ngay-15-08-2026-g6763i5og3jio7r",
+      "name": "Fc Bayern Mnchen vs Rb Leipzig",
+      "home_name": "Fc Bayern Mnchen",
+      "away_name": "Rb Leipzig",
+      "date": "15/08/2026",
+      "time": "20:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/26a59fe5653a96ba72f4f1e4e08b6d4b.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/union-saint-gilloise-vs-zulte-waregem-luc-2100-ngay-15-08-2026-63kv9igel51cx7e": {
+      "match_url": "https://colatv77.live/truc-tiep/union-saint-gilloise-vs-zulte-waregem-luc-2100-ngay-15-08-2026-63kv9igel51cx7e",
+      "name": "Union Saint Gilloise vs Zulte Waregem",
+      "home_name": "Union Saint Gilloise",
+      "away_name": "Zulte Waregem",
+      "date": "15/08/2026",
+      "time": "21:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/b796af8f1a3f43d5d56f4a4255b87260.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/1818ea30e1a1e461dd571d54e19962a0.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    }
+  },
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
