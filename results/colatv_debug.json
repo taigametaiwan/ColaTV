@@ -1,6 +1,6 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-15T20:44:30.814397+07:00",
+  "generated_at_vietnam": "2026-08-15T21:55:30.790260+07:00",
   "summary": {
     "discovered_match_pages": 6,
     "metadata_pages_read": 6,
@@ -12,10 +12,10 @@
     "start_url": "https://colatv77.live/",
     "match_urls": [
       "https://colatv77.live/truc-tiep/singapore-vs-thai-lan-luc-2000-ngay-15-08-2026-8lk2dir2d2xfz73",
-      "https://colatv77.live/truc-tiep/zhejiang-professional-vs-chengdu-rongcheng-luc-1835-ngay-15-08-2026-vmqy9ivvwv9fgk9",
-      "https://colatv77.live/truc-tiep/yunnan-yukun-vs-dalian-yingbo-fc-luc-1900-ngay-15-08-2026-jr7owipp1p9fgq0",
-      "https://colatv77.live/truc-tiep/shanghai-shenhua-vs-henan-songshan-longmen-luc-1900-ngay-15-08-2026-9gklzi11r1xcm7x",
+      "https://colatv77.live/truc-tiep/manchester-united-vs-ac-milan-luc-2145-ngay-15-08-2026-o17pjio8o6rhy7j",
+      "https://colatv77.live/truc-tiep/newcastle-united-vs-bayer-04-leverkusen-luc-2100-ngay-15-08-2026-jek33i843wdh9ko",
       "https://colatv77.live/truc-tiep/fc-bayern-mnchen-vs-rb-leipzig-luc-2030-ngay-15-08-2026-g6763i5og3jio7r",
+      "https://colatv77.live/truc-tiep/tottenham-hotspur-vs-tsg-1899-hoffenheim-luc-2100-ngay-15-08-2026-ndkz6i30xl1axq3",
       "https://colatv77.live/truc-tiep/union-saint-gilloise-vs-zulte-waregem-luc-2100-ngay-15-08-2026-63kv9igel51cx7e"
     ],
     "errors": {}
@@ -37,48 +37,32 @@
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/zhejiang-professional-vs-chengdu-rongcheng-luc-1835-ngay-15-08-2026-vmqy9ivvwv9fgk9": {
-      "match_url": "https://colatv77.live/truc-tiep/zhejiang-professional-vs-chengdu-rongcheng-luc-1835-ngay-15-08-2026-vmqy9ivvwv9fgk9",
-      "name": "Zhejiang Professional vs Chengdu Rongcheng",
-      "home_name": "Zhejiang Professional",
-      "away_name": "Chengdu Rongcheng",
+    "https://colatv77.live/truc-tiep/manchester-united-vs-ac-milan-luc-2145-ngay-15-08-2026-o17pjio8o6rhy7j": {
+      "match_url": "https://colatv77.live/truc-tiep/manchester-united-vs-ac-milan-luc-2145-ngay-15-08-2026-o17pjio8o6rhy7j",
+      "name": "Manchester United vs Ac Milan",
+      "home_name": "Manchester United",
+      "away_name": "Ac Milan",
       "date": "15/08/2026",
-      "time": "18:35",
+      "time": "21:45",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/cc1aef5e69e8d01ba3d3712f24040347.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/6ade4c9aaa615702eb7ec459e56d1968.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/d39ce586fd7278342dde33b3090b3f75.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/643ef4101b017dc1495dbd9e9d5cce28.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/yunnan-yukun-vs-dalian-yingbo-fc-luc-1900-ngay-15-08-2026-jr7owipp1p9fgq0": {
-      "match_url": "https://colatv77.live/truc-tiep/yunnan-yukun-vs-dalian-yingbo-fc-luc-1900-ngay-15-08-2026-jr7owipp1p9fgq0",
-      "name": "Yunnan Yukun vs Dalian Yingbo Fc",
-      "home_name": "Yunnan Yukun",
-      "away_name": "Dalian Yingbo Fc",
+    "https://colatv77.live/truc-tiep/newcastle-united-vs-bayer-04-leverkusen-luc-2100-ngay-15-08-2026-jek33i843wdh9ko": {
+      "match_url": "https://colatv77.live/truc-tiep/newcastle-united-vs-bayer-04-leverkusen-luc-2100-ngay-15-08-2026-jek33i843wdh9ko",
+      "name": "Newcastle United vs Bayer 04 Leverkusen",
+      "home_name": "Newcastle United",
+      "away_name": "Bayer 04 Leverkusen",
       "date": "15/08/2026",
-      "time": "19:00",
+      "time": "21:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/8c10b05df079cbf3efabd78675e6983f.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/0e5467034917e26c6e60a7162711c150.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/shanghai-shenhua-vs-henan-songshan-longmen-luc-1900-ngay-15-08-2026-9gklzi11r1xcm7x": {
-      "match_url": "https://colatv77.live/truc-tiep/shanghai-shenhua-vs-henan-songshan-longmen-luc-1900-ngay-15-08-2026-9gklzi11r1xcm7x",
-      "name": "Shanghai Shenhua vs Henan Songshan Longmen",
-      "home_name": "Shanghai Shenhua",
-      "away_name": "Henan Songshan Longmen",
-      "date": "15/08/2026",
-      "time": "19:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/f336520db254da6d6d5294b720d26d83.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/5dbe320855e3ba772dbce54f940c6fa5.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
@@ -95,6 +79,22 @@
       "league": "",
       "home_logo": "https://img.gvapi.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png!w80",
       "away_logo": "https://img.gvapi.cc/football/team/26a59fe5653a96ba72f4f1e4e08b6d4b.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/tottenham-hotspur-vs-tsg-1899-hoffenheim-luc-2100-ngay-15-08-2026-ndkz6i30xl1axq3": {
+      "match_url": "https://colatv77.live/truc-tiep/tottenham-hotspur-vs-tsg-1899-hoffenheim-luc-2100-ngay-15-08-2026-ndkz6i30xl1axq3",
+      "name": "Tottenham Hotspur vs Tsg 1899 Hoffenheim",
+      "home_name": "Tottenham Hotspur",
+      "away_name": "Tsg 1899 Hoffenheim",
+      "date": "15/08/2026",
+      "time": "21:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/8b22ab4041e666b996a2d96f20dea707.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/72ab7862a610b350aef7650ec0e06e06.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
