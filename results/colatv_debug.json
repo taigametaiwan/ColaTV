@@ -1,19 +1,123 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-16T16:56:10.663644+07:00",
+  "generated_at_vietnam": "2026-08-16T17:55:17.384434+07:00",
   "summary": {
-    "discovered_match_pages": 0,
-    "metadata_pages_read": 0,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [],
+    "match_urls": [
+      "https://colatv77.live/truc-tiep/yokohama-fc-vs-jubilo-iwata-luc-1600-ngay-16-08-2026-jek33i8rv2jh9ko",
+      "https://colatv77.live/truc-tiep/tokushima-vs-sagan-tosu-luc-1700-ngay-16-08-2026-vrqwni45gxvf4qn",
+      "https://colatv77.live/truc-tiep/den-haag-vs-groningen-luc-1715-ngay-16-08-2026-m2q15izxm24te76",
+      "https://colatv77.live/truc-tiep/bucheon-fc-1995-vs-jeonbuk-hyundai-motors-luc-1730-ngay-16-08-2026-xvkjoi80m11t879",
+      "https://colatv77.live/truc-tiep/ulsan-hyundai-vs-gangwon-luc-1730-ngay-16-08-2026-vmqy9ivl0y3hgk9",
+      "https://colatv77.live/truc-tiep/incheon-united-vs-gimcheon-sangmu-fc-luc-1730-ngay-16-08-2026-jr7owiprly0bgq0"
+    ],
     "errors": {}
   },
-  "matches": {},
+  "matches": {
+    "https://colatv77.live/truc-tiep/yokohama-fc-vs-jubilo-iwata-luc-1600-ngay-16-08-2026-jek33i8rv2jh9ko": {
+      "match_url": "https://colatv77.live/truc-tiep/yokohama-fc-vs-jubilo-iwata-luc-1600-ngay-16-08-2026-jek33i8rv2jh9ko",
+      "name": "Yokohama Fc vs Jubilo Iwata",
+      "home_name": "Yokohama Fc",
+      "away_name": "Jubilo Iwata",
+      "date": "16/08/2026",
+      "time": "16:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/97316a8300d28bfd97a6da0aff5dc0ea.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/771a47aa3a754d19f9f298fdf828e23b.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/tokushima-vs-sagan-tosu-luc-1700-ngay-16-08-2026-vrqwni45gxvf4qn": {
+      "match_url": "https://colatv77.live/truc-tiep/tokushima-vs-sagan-tosu-luc-1700-ngay-16-08-2026-vrqwni45gxvf4qn",
+      "name": "Tokushima vs Sagan Tosu",
+      "home_name": "Tokushima",
+      "away_name": "Sagan Tosu",
+      "date": "16/08/2026",
+      "time": "17:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/16abd42b0f397022049d05f786a6182d.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/0d7b400b61ad77a72d5d6d7db03077e7.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/den-haag-vs-groningen-luc-1715-ngay-16-08-2026-m2q15izxm24te76": {
+      "match_url": "https://colatv77.live/truc-tiep/den-haag-vs-groningen-luc-1715-ngay-16-08-2026-m2q15izxm24te76",
+      "name": "Den Haag vs Groningen",
+      "home_name": "Den Haag",
+      "away_name": "Groningen",
+      "date": "16/08/2026",
+      "time": "17:15",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/3dbce6bb7b1adc861642a7a1fc9b3796.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/98a1646fa8a5b6f02b0505cf3857f6d5.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/bucheon-fc-1995-vs-jeonbuk-hyundai-motors-luc-1730-ngay-16-08-2026-xvkjoi80m11t879": {
+      "match_url": "https://colatv77.live/truc-tiep/bucheon-fc-1995-vs-jeonbuk-hyundai-motors-luc-1730-ngay-16-08-2026-xvkjoi80m11t879",
+      "name": "Bucheon Fc 1995 vs Jeonbuk Hyundai Motors",
+      "home_name": "Bucheon Fc 1995",
+      "away_name": "Jeonbuk Hyundai Motors",
+      "date": "16/08/2026",
+      "time": "17:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/ulsan-hyundai-vs-gangwon-luc-1730-ngay-16-08-2026-vmqy9ivl0y3hgk9": {
+      "match_url": "https://colatv77.live/truc-tiep/ulsan-hyundai-vs-gangwon-luc-1730-ngay-16-08-2026-vmqy9ivl0y3hgk9",
+      "name": "Ulsan Hyundai vs Gangwon",
+      "home_name": "Ulsan Hyundai",
+      "away_name": "Gangwon",
+      "date": "16/08/2026",
+      "time": "17:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/fe07fb888ebcb282192332cb8aed21b1.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/incheon-united-vs-gimcheon-sangmu-fc-luc-1730-ngay-16-08-2026-jr7owiprly0bgq0": {
+      "match_url": "https://colatv77.live/truc-tiep/incheon-united-vs-gimcheon-sangmu-fc-luc-1730-ngay-16-08-2026-jr7owiprly0bgq0",
+      "name": "Incheon United vs Gimcheon Sangmu Fc",
+      "home_name": "Incheon United",
+      "away_name": "Gimcheon Sangmu Fc",
+      "date": "16/08/2026",
+      "time": "17:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/36559689046e7d1d4f597c1a0bf9c5d6.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/4a3e50e90ab721c1782568a287bd5358.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    }
+  },
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
