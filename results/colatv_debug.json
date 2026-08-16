@@ -1,123 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-17T02:47:21.752427+07:00",
+  "generated_at_vietnam": "2026-08-17T03:54:01.361700+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv77.live/truc-tiep/rc-lens-vs-paris-saint-germain-luc-0145-ngay-17-08-2026-wv78xivgrlefokr",
-      "https://colatv77.live/truc-tiep/ss-lazio-vs-mantova-luc-0215-ngay-17-08-2026-69759ig455ysgk2",
-      "https://colatv77.live/truc-tiep/besiktas-jk-vs-eyupspor-luc-0130-ngay-17-08-2026-vrqwni4pz0rf4qn",
-      "https://colatv77.live/truc-tiep/vasco-vs-santos-luc-0200-ngay-17-08-2026-34kgmio12y3beko",
-      "https://colatv77.live/truc-tiep/river-plate-vs-argentinos-jrs-luc-0400-ngay-17-08-2026-ndkz6i3v6jztxq3",
-      "https://colatv77.live/truc-tiep/atlanta-dream-vs-indiana-fever-luc-0400-ngay-17-08-2026-l6kersm55d9uvq5"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv77.live/truc-tiep/rc-lens-vs-paris-saint-germain-luc-0145-ngay-17-08-2026-wv78xivgrlefokr": {
-      "match_url": "https://colatv77.live/truc-tiep/rc-lens-vs-paris-saint-germain-luc-0145-ngay-17-08-2026-wv78xivgrlefokr",
-      "name": "Rc Lens vs Paris Saint Germain",
-      "home_name": "Rc Lens",
-      "away_name": "Paris Saint Germain",
-      "date": "17/08/2026",
-      "time": "01:45",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/3b720f181ce9993f9422d276acf7b292.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/ss-lazio-vs-mantova-luc-0215-ngay-17-08-2026-69759ig455ysgk2": {
-      "match_url": "https://colatv77.live/truc-tiep/ss-lazio-vs-mantova-luc-0215-ngay-17-08-2026-69759ig455ysgk2",
-      "name": "Ss Lazio vs Mantova",
-      "home_name": "Ss Lazio",
-      "away_name": "Mantova",
-      "date": "17/08/2026",
-      "time": "02:15",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/adf79e68db478e32f1a2b2fe39df4668.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/besiktas-jk-vs-eyupspor-luc-0130-ngay-17-08-2026-vrqwni4pz0rf4qn": {
-      "match_url": "https://colatv77.live/truc-tiep/besiktas-jk-vs-eyupspor-luc-0130-ngay-17-08-2026-vrqwni4pz0rf4qn",
-      "name": "Besiktas Jk vs Eyupspor",
-      "home_name": "Besiktas Jk",
-      "away_name": "Eyupspor",
-      "date": "17/08/2026",
-      "time": "01:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/83ba0474d144e49f060789cfa904e226.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/5a15fbeafbace6653cf789b2a252615f.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/vasco-vs-santos-luc-0200-ngay-17-08-2026-34kgmio12y3beko": {
-      "match_url": "https://colatv77.live/truc-tiep/vasco-vs-santos-luc-0200-ngay-17-08-2026-34kgmio12y3beko",
-      "name": "Vasco vs Santos",
-      "home_name": "Vasco",
-      "away_name": "Santos",
-      "date": "17/08/2026",
-      "time": "02:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/f110dc3a4406e67ecbc46511a7ea83f7.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/0840bace9b911b3f0dbadb710ea20316.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/river-plate-vs-argentinos-jrs-luc-0400-ngay-17-08-2026-ndkz6i3v6jztxq3": {
-      "match_url": "https://colatv77.live/truc-tiep/river-plate-vs-argentinos-jrs-luc-0400-ngay-17-08-2026-ndkz6i3v6jztxq3",
-      "name": "River Plate vs Argentinos Jrs",
-      "home_name": "River Plate",
-      "away_name": "Argentinos Jrs",
-      "date": "17/08/2026",
-      "time": "04:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/c7aa5e458bdcad0051f6786ff93c48ed.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/5d8f8c8c289dbb2d67203988c8275cbc.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/atlanta-dream-vs-indiana-fever-luc-0400-ngay-17-08-2026-l6kersm55d9uvq5": {
-      "match_url": "https://colatv77.live/truc-tiep/atlanta-dream-vs-indiana-fever-luc-0400-ngay-17-08-2026-l6kersm55d9uvq5",
-      "name": "Atlanta Dream vs Indiana Fever",
-      "home_name": "Atlanta Dream",
-      "away_name": "Indiana Fever",
-      "date": "17/08/2026",
-      "time": "04:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/81e9f1f9d6393fd128c6c014783d9fa2.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
