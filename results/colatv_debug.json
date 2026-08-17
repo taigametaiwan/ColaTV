@@ -1,123 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-17T18:56:43.917562+07:00",
+  "generated_at_vietnam": "2026-08-17T20:59:03.136194+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv77.live/truc-tiep/chelsea-sshk-nu-vs-phnom-penh-crown-nu-luc-1700-ngay-17-08-2026-69759ig95e8agk2",
-      "https://colatv77.live/truc-tiep/college-of-asian-scholars-nu-vs-samuser-nu-luc-1900-ngay-17-08-2026-8lk2dirzzdmcz73",
-      "https://colatv77.live/truc-tiep/6-san-etihad-nu-vs-phu-nu-al-nassr-riyadh-luc-1900-ngay-17-08-2026-j374oi0xly0agqo",
-      "https://colatv77.live/truc-tiep/new-taipei-nu-vs-no-limits-nu-luc-1930-ngay-17-08-2026-l6kegi8dpn0fv75",
-      "https://colatv77.live/truc-tiep/kaya-fc-nu-vs-ilbirs-nu-luc-2100-ngay-17-08-2026-xvkjoi8ww3ls879",
-      "https://colatv77.live/truc-tiep/karditsa-vs-aris-thessaloniki-luc-2200-ngay-17-08-2026-527r3i4gp8ga47e"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv77.live/truc-tiep/chelsea-sshk-nu-vs-phnom-penh-crown-nu-luc-1700-ngay-17-08-2026-69759ig95e8agk2": {
-      "match_url": "https://colatv77.live/truc-tiep/chelsea-sshk-nu-vs-phnom-penh-crown-nu-luc-1700-ngay-17-08-2026-69759ig95e8agk2",
-      "name": "Chelsea Sshk Nu vs Phnom Penh Crown Nu",
-      "home_name": "Chelsea Sshk Nu",
-      "away_name": "Phnom Penh Crown Nu",
-      "date": "17/08/2026",
-      "time": "17:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/ddb10eebc3112192799ad0c81237a2a8.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/184f5fc8445583f16ac2663d7e3c3e35.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/college-of-asian-scholars-nu-vs-samuser-nu-luc-1900-ngay-17-08-2026-8lk2dirzzdmcz73": {
-      "match_url": "https://colatv77.live/truc-tiep/college-of-asian-scholars-nu-vs-samuser-nu-luc-1900-ngay-17-08-2026-8lk2dirzzdmcz73",
-      "name": "College Of Asian Scholars Nu vs Samuser Nu",
-      "home_name": "College Of Asian Scholars Nu",
-      "away_name": "Samuser Nu",
-      "date": "17/08/2026",
-      "time": "19:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/6e0d069a8e8c63f58835aba4469ec4d4.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/715b5aecc6df8b161f0feb262d7787e1.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/6-san-etihad-nu-vs-phu-nu-al-nassr-riyadh-luc-1900-ngay-17-08-2026-j374oi0xly0agqo": {
-      "match_url": "https://colatv77.live/truc-tiep/6-san-etihad-nu-vs-phu-nu-al-nassr-riyadh-luc-1900-ngay-17-08-2026-j374oi0xly0agqo",
-      "name": "6 San Etihad Nu vs Phu Nu Al Nassr Riyadh",
-      "home_name": "6 San Etihad Nu",
-      "away_name": "Phu Nu Al Nassr Riyadh",
-      "date": "17/08/2026",
-      "time": "19:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/4a64d3cdd64dea1d2a3a7a81befce763.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/f43a14d69891aa2158e48846a4345396.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/new-taipei-nu-vs-no-limits-nu-luc-1930-ngay-17-08-2026-l6kegi8dpn0fv75": {
-      "match_url": "https://colatv77.live/truc-tiep/new-taipei-nu-vs-no-limits-nu-luc-1930-ngay-17-08-2026-l6kegi8dpn0fv75",
-      "name": "New Taipei Nu vs No Limits Nu",
-      "home_name": "New Taipei Nu",
-      "away_name": "No Limits Nu",
-      "date": "17/08/2026",
-      "time": "19:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/16c2d7a61e2b6829ac8d3912b4e5357d.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/a2ff818af221031ce06bccde531e4be6.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/kaya-fc-nu-vs-ilbirs-nu-luc-2100-ngay-17-08-2026-xvkjoi8ww3ls879": {
-      "match_url": "https://colatv77.live/truc-tiep/kaya-fc-nu-vs-ilbirs-nu-luc-2100-ngay-17-08-2026-xvkjoi8ww3ls879",
-      "name": "Kaya Fc Nu vs Ilbirs Nu",
-      "home_name": "Kaya Fc Nu",
-      "away_name": "Ilbirs Nu",
-      "date": "17/08/2026",
-      "time": "21:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/cc07df4709bfbf8c4b6c3bd8a6f90698.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/2be1cc8b44ac673ee37c8b3a00a46489.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/karditsa-vs-aris-thessaloniki-luc-2200-ngay-17-08-2026-527r3i4gp8ga47e": {
-      "match_url": "https://colatv77.live/truc-tiep/karditsa-vs-aris-thessaloniki-luc-2200-ngay-17-08-2026-527r3i4gp8ga47e",
-      "name": "Karditsa vs Aris Thessaloniki",
-      "home_name": "Karditsa",
-      "away_name": "Aris Thessaloniki",
-      "date": "17/08/2026",
-      "time": "22:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/6ccbcb17780e12c9578ef991d014e54b.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/d361fe8ab5fa2c7fb4f29d1fd4ee1094.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
