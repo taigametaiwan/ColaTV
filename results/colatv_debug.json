@@ -1,19 +1,123 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-19T06:32:33.838885+07:00",
+  "generated_at_vietnam": "2026-08-19T06:54:02.275451+07:00",
   "summary": {
-    "discovered_match_pages": 0,
-    "metadata_pages_read": 0,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [],
+    "match_urls": [
+      "https://colatv77.live/truc-tiep/independiente-rivadavia-vs-fluminense-rj-luc-0500-ngay-19-08-2026-m2q15izy50pte76",
+      "https://colatv77.live/truc-tiep/deportivo-recoleta-vs-boca-juniors-luc-0500-ngay-19-08-2026-9gklzi186o5sm7x",
+      "https://colatv77.live/truc-tiep/connecticut-sun-vs-los-angeles-sparks-luc-0600-ngay-19-08-2026-o17p8sydd8esykj",
+      "https://colatv77.live/truc-tiep/toronto-tempo-vs-indiana-fever-luc-0600-ngay-19-08-2026-o17p8syddj0hykj",
+      "https://colatv77.live/truc-tiep/clb-banfield-vs-ferrocarril-midland-luc-0715-ngay-19-08-2026-jr7owip8jzxfgq0",
+      "https://colatv77.live/truc-tiep/deportes-tolima-vs-clb-independiente-del-valle-luc-0730-ngay-19-08-2026-vrqwni4de1eu4qn"
+    ],
     "errors": {}
   },
-  "matches": {},
+  "matches": {
+    "https://colatv77.live/truc-tiep/independiente-rivadavia-vs-fluminense-rj-luc-0500-ngay-19-08-2026-m2q15izy50pte76": {
+      "match_url": "https://colatv77.live/truc-tiep/independiente-rivadavia-vs-fluminense-rj-luc-0500-ngay-19-08-2026-m2q15izy50pte76",
+      "name": "Independiente Rivadavia vs Fluminense Rj",
+      "home_name": "Independiente Rivadavia",
+      "away_name": "Fluminense Rj",
+      "date": "19/08/2026",
+      "time": "05:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/7e779bba58b944c8cfa786d857430383.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/deportivo-recoleta-vs-boca-juniors-luc-0500-ngay-19-08-2026-9gklzi186o5sm7x": {
+      "match_url": "https://colatv77.live/truc-tiep/deportivo-recoleta-vs-boca-juniors-luc-0500-ngay-19-08-2026-9gklzi186o5sm7x",
+      "name": "Deportivo Recoleta vs Boca Juniors",
+      "home_name": "Deportivo Recoleta",
+      "away_name": "Boca Juniors",
+      "date": "19/08/2026",
+      "time": "05:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/f7e33bab2469f4e5b80d4d47cd92b381.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/9ed2c4f6adc51975cdbd2a93093e6a43.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/connecticut-sun-vs-los-angeles-sparks-luc-0600-ngay-19-08-2026-o17p8sydd8esykj": {
+      "match_url": "https://colatv77.live/truc-tiep/connecticut-sun-vs-los-angeles-sparks-luc-0600-ngay-19-08-2026-o17p8sydd8esykj",
+      "name": "Connecticut Sun vs Los Angeles Sparks",
+      "home_name": "Connecticut Sun",
+      "away_name": "Los Angeles Sparks",
+      "date": "19/08/2026",
+      "time": "06:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/basketball/team/616c37f8e35a1c33a4766dbc86c0ca3a.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/0a53a0f3a3e739e2f9e57430b0291e28.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/toronto-tempo-vs-indiana-fever-luc-0600-ngay-19-08-2026-o17p8syddj0hykj": {
+      "match_url": "https://colatv77.live/truc-tiep/toronto-tempo-vs-indiana-fever-luc-0600-ngay-19-08-2026-o17p8syddj0hykj",
+      "name": "Toronto Tempo vs Indiana Fever",
+      "home_name": "Toronto Tempo",
+      "away_name": "Indiana Fever",
+      "date": "19/08/2026",
+      "time": "06:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/basketball/team/d994ab69186bb52d6b0967e1567a217e.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/81e9f1f9d6393fd128c6c014783d9fa2.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/clb-banfield-vs-ferrocarril-midland-luc-0715-ngay-19-08-2026-jr7owip8jzxfgq0": {
+      "match_url": "https://colatv77.live/truc-tiep/clb-banfield-vs-ferrocarril-midland-luc-0715-ngay-19-08-2026-jr7owip8jzxfgq0",
+      "name": "Clb Banfield vs Ferrocarril Midland",
+      "home_name": "Clb Banfield",
+      "away_name": "Ferrocarril Midland",
+      "date": "19/08/2026",
+      "time": "07:15",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/e142922645466d58b5ad3a27570b5ac5.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/a0384799afdbb817eb5f9071fc65fab1.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/deportes-tolima-vs-clb-independiente-del-valle-luc-0730-ngay-19-08-2026-vrqwni4de1eu4qn": {
+      "match_url": "https://colatv77.live/truc-tiep/deportes-tolima-vs-clb-independiente-del-valle-luc-0730-ngay-19-08-2026-vrqwni4de1eu4qn",
+      "name": "Deportes Tolima vs Clb Independiente Del Valle",
+      "home_name": "Deportes Tolima",
+      "away_name": "Clb Independiente Del Valle",
+      "date": "19/08/2026",
+      "time": "07:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/40f17f08ff7bb44a641273044db78c64.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/cb9797fa8614b9664231a4861ed71875.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    }
+  },
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
