@@ -1,19 +1,123 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-20T10:07:28.016860+07:00",
+  "generated_at_vietnam": "2026-08-20T10:57:30.265729+07:00",
   "summary": {
-    "discovered_match_pages": 0,
-    "metadata_pages_read": 0,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [],
+    "match_urls": [
+      "https://colatv77.live/truc-tiep/clb-la-galaxy-vs-san-jose-earthquakes-luc-0940-ngay-20-08-2026-o07dni5v4l6smkn",
+      "https://colatv77.live/truc-tiep/clb-cd-fas-vs-clb-csd-municipal-luc-1000-ngay-20-08-2026-g6763i5oleebo7r",
+      "https://colatv77.live/truc-tiep/golden-state-valkyries-vs-minnesota-lynx-luc-0900-ngay-20-08-2026-edq0esdzzr1iekx",
+      "https://colatv77.live/truc-tiep/vancouver-whitecaps-vs-houston-dynamo-luc-0940-ngay-20-08-2026-j374oi036jzagqo",
+      "https://colatv77.live/truc-tiep/rovers-fc-w-vs-east-bengal-w-luc-1500-ngay-20-08-2026-ndkz6i3ppd3cxq3",
+      "https://colatv77.live/truc-tiep/no-limits-w-vs-ayeyawady-utd-w-luc-1630-ngay-20-08-2026-xvkjoi8jxyyh879"
+    ],
     "errors": {}
   },
-  "matches": {},
+  "matches": {
+    "https://colatv77.live/truc-tiep/clb-la-galaxy-vs-san-jose-earthquakes-luc-0940-ngay-20-08-2026-o07dni5v4l6smkn": {
+      "match_url": "https://colatv77.live/truc-tiep/clb-la-galaxy-vs-san-jose-earthquakes-luc-0940-ngay-20-08-2026-o07dni5v4l6smkn",
+      "name": "Clb La Galaxy vs San Jose Earthquakes",
+      "home_name": "Clb La Galaxy",
+      "away_name": "San Jose Earthquakes",
+      "date": "20/08/2026",
+      "time": "09:40",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/8ef755c4d2e1aed96dc5d291977c1043.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/clb-cd-fas-vs-clb-csd-municipal-luc-1000-ngay-20-08-2026-g6763i5oleebo7r": {
+      "match_url": "https://colatv77.live/truc-tiep/clb-cd-fas-vs-clb-csd-municipal-luc-1000-ngay-20-08-2026-g6763i5oleebo7r",
+      "name": "Clb Cd Fas vs Clb Csd Municipal",
+      "home_name": "Clb Cd Fas",
+      "away_name": "Clb Csd Municipal",
+      "date": "20/08/2026",
+      "time": "10:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/049b165b7cdeaedffc1966ca7564a87a.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/314911335094cf9787d5791c85fdf676.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/golden-state-valkyries-vs-minnesota-lynx-luc-0900-ngay-20-08-2026-edq0esdzzr1iekx": {
+      "match_url": "https://colatv77.live/truc-tiep/golden-state-valkyries-vs-minnesota-lynx-luc-0900-ngay-20-08-2026-edq0esdzzr1iekx",
+      "name": "Golden State Valkyries vs Minnesota Lynx",
+      "home_name": "Golden State Valkyries",
+      "away_name": "Minnesota Lynx",
+      "date": "20/08/2026",
+      "time": "09:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/49fd2772263eaccfe78608a04e5b6f4c.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/vancouver-whitecaps-vs-houston-dynamo-luc-0940-ngay-20-08-2026-j374oi036jzagqo": {
+      "match_url": "https://colatv77.live/truc-tiep/vancouver-whitecaps-vs-houston-dynamo-luc-0940-ngay-20-08-2026-j374oi036jzagqo",
+      "name": "Vancouver Whitecaps vs Houston Dynamo",
+      "home_name": "Vancouver Whitecaps",
+      "away_name": "Houston Dynamo",
+      "date": "20/08/2026",
+      "time": "09:40",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/527dcdb6260004a2c8f61fae9345f133.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/2d21e6bbd505075b1bc6df8b5a887e8f.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/rovers-fc-w-vs-east-bengal-w-luc-1500-ngay-20-08-2026-ndkz6i3ppd3cxq3": {
+      "match_url": "https://colatv77.live/truc-tiep/rovers-fc-w-vs-east-bengal-w-luc-1500-ngay-20-08-2026-ndkz6i3ppd3cxq3",
+      "name": "Rovers Fc W vs East Bengal W",
+      "home_name": "Rovers Fc W",
+      "away_name": "East Bengal W",
+      "date": "20/08/2026",
+      "time": "15:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/781bbbc51dc8167e19de4e28bf3abf8e.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/f003c38ad5943469051c0232ccc32479.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/no-limits-w-vs-ayeyawady-utd-w-luc-1630-ngay-20-08-2026-xvkjoi8jxyyh879": {
+      "match_url": "https://colatv77.live/truc-tiep/no-limits-w-vs-ayeyawady-utd-w-luc-1630-ngay-20-08-2026-xvkjoi8jxyyh879",
+      "name": "No Limits W vs Ayeyawady Utd W",
+      "home_name": "No Limits W",
+      "away_name": "Ayeyawady Utd W",
+      "date": "20/08/2026",
+      "time": "16:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/a2ff818af221031ce06bccde531e4be6.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/7218ce6606bd467d38fec5a7e64759db.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    }
+  },
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
