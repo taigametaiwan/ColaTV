@@ -1,19 +1,123 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-22T00:39:03.305895+07:00",
+  "generated_at_vietnam": "2026-08-22T01:51:55.730563+07:00",
   "summary": {
-    "discovered_match_pages": 0,
-    "metadata_pages_read": 0,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [],
+    "match_urls": [
+      "https://colatv77.live/truc-tiep/arsenal-vs-clb-coventry-city-luc-0200-ngay-22-08-2026-ezk96i3rr46a1kn",
+      "https://colatv77.live/truc-tiep/real-betis-balompie-vs-real-sociedad-luc-0200-ngay-22-08-2026-wv78xivrw0pfokr",
+      "https://colatv77.live/truc-tiep/al-qadisiya-vs-al-ittihad-fc-luc-0100-ngay-22-08-2026-ndqmliwenjxirkv",
+      "https://colatv77.live/truc-tiep/clb-aldosivi-vs-union-de-santa-fe-luc-0030-ngay-22-08-2026-34kgmio5wexheko",
+      "https://colatv77.live/truc-tiep/hansa-rostock-vs-vfb-stuttgart-luc-0145-ngay-22-08-2026-jr7owip8dd2cgq0",
+      "https://colatv77.live/truc-tiep/olympique-de-marseille-vs-rc-strasbourg-luc-0145-ngay-22-08-2026-l6kegi8np5rhv75"
+    ],
     "errors": {}
   },
-  "matches": {},
+  "matches": {
+    "https://colatv77.live/truc-tiep/arsenal-vs-clb-coventry-city-luc-0200-ngay-22-08-2026-ezk96i3rr46a1kn": {
+      "match_url": "https://colatv77.live/truc-tiep/arsenal-vs-clb-coventry-city-luc-0200-ngay-22-08-2026-ezk96i3rr46a1kn",
+      "name": "Arsenal vs Clb Coventry City",
+      "home_name": "Arsenal",
+      "away_name": "Clb Coventry City",
+      "date": "22/08/2026",
+      "time": "02:00",
+      "league": "",
+      "home_logo": "https://colatv77.live/assets/images/logo.png",
+      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/real-betis-balompie-vs-real-sociedad-luc-0200-ngay-22-08-2026-wv78xivrw0pfokr": {
+      "match_url": "https://colatv77.live/truc-tiep/real-betis-balompie-vs-real-sociedad-luc-0200-ngay-22-08-2026-wv78xivrw0pfokr",
+      "name": "Real Betis Balompie vs Real Sociedad",
+      "home_name": "Real Betis Balompie",
+      "away_name": "Real Sociedad",
+      "date": "22/08/2026",
+      "time": "02:00",
+      "league": "",
+      "home_logo": "https://colatv77.live/assets/images/logo.png",
+      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/al-qadisiya-vs-al-ittihad-fc-luc-0100-ngay-22-08-2026-ndqmliwenjxirkv": {
+      "match_url": "https://colatv77.live/truc-tiep/al-qadisiya-vs-al-ittihad-fc-luc-0100-ngay-22-08-2026-ndqmliwenjxirkv",
+      "name": "Al Qadisiya vs Al Ittihad Fc",
+      "home_name": "Al Qadisiya",
+      "away_name": "Al Ittihad Fc",
+      "date": "22/08/2026",
+      "time": "01:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/bc74439d19c8bbaa17c57406b120b86d.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/dea986d20115216c05d1a45ba9a6162e.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/clb-aldosivi-vs-union-de-santa-fe-luc-0030-ngay-22-08-2026-34kgmio5wexheko": {
+      "match_url": "https://colatv77.live/truc-tiep/clb-aldosivi-vs-union-de-santa-fe-luc-0030-ngay-22-08-2026-34kgmio5wexheko",
+      "name": "Clb Aldosivi vs Union De Santa Fe",
+      "home_name": "Clb Aldosivi",
+      "away_name": "Union De Santa Fe",
+      "date": "22/08/2026",
+      "time": "00:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/086fad2b496bcf474e2df4eed691c6b2.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/c5d75265caa6875d9ea84f36027312d5.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/hansa-rostock-vs-vfb-stuttgart-luc-0145-ngay-22-08-2026-jr7owip8dd2cgq0": {
+      "match_url": "https://colatv77.live/truc-tiep/hansa-rostock-vs-vfb-stuttgart-luc-0145-ngay-22-08-2026-jr7owip8dd2cgq0",
+      "name": "Hansa Rostock vs Vfb Stuttgart",
+      "home_name": "Hansa Rostock",
+      "away_name": "Vfb Stuttgart",
+      "date": "22/08/2026",
+      "time": "01:45",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/5e374b2a57b436c372bc3de0bfbb8cc9.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/bfdd500484330d63a723cbc396df762c.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/olympique-de-marseille-vs-rc-strasbourg-luc-0145-ngay-22-08-2026-l6kegi8np5rhv75": {
+      "match_url": "https://colatv77.live/truc-tiep/olympique-de-marseille-vs-rc-strasbourg-luc-0145-ngay-22-08-2026-l6kegi8np5rhv75",
+      "name": "Olympique De Marseille vs Rc Strasbourg",
+      "home_name": "Olympique De Marseille",
+      "away_name": "Rc Strasbourg",
+      "date": "22/08/2026",
+      "time": "01:45",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/a450173b3d636ba2c86d3d7c5bdc4026.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/998db478bf7c06d5817bf846987a0d0a.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    }
+  },
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
