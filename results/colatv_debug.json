@@ -1,174 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-22T02:53:04.061742+07:00",
+  "generated_at_vietnam": "2026-08-22T03:36:38.213839+07:00",
   "summary": {
-    "discovered_match_pages": 9,
-    "metadata_pages_read": 9,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv77.live/truc-tiep/arsenal-vs-clb-coventry-city-luc-0200-ngay-22-08-2026-ezk96i3rr46a1kn",
-      "https://colatv77.live/truc-tiep/real-betis-balompie-vs-real-sociedad-luc-0200-ngay-22-08-2026-wv78xivrw0pfokr",
-      "https://colatv77.live/truc-tiep/al-qadisiya-vs-al-ittihad-fc-luc-0100-ngay-22-08-2026-ndqmliwenjxirkv",
-      "https://colatv77.live/truc-tiep/hansa-rostock-vs-vfb-stuttgart-luc-0145-ngay-22-08-2026-jr7owip8dd2cgq0",
-      "https://colatv77.live/truc-tiep/olympique-de-marseille-vs-rc-strasbourg-luc-0145-ngay-22-08-2026-l6kegi8np5rhv75",
-      "https://colatv77.live/truc-tiep/standard-liege-vs-lalouviere-luc-0145-ngay-22-08-2026-l6kegi8n50gcv75",
-      "https://colatv77.live/truc-tiep/jaguares-de-cordoba-vs-clb-boyaca-chico-luc-0405-ngay-22-08-2026-vrqwni4jg5ga4qn",
-      "https://colatv77.live/truc-tiep/estudiantes-rio-cuarto-vs-clb-san-lorenzo-luc-0600-ngay-22-08-2026-jek33i8n1g1t9ko",
-      "https://colatv77.live/truc-tiep/chicago-sky-vs-golden-state-valkyries-luc-0630-ngay-22-08-2026-xvkjvszppy9i8k9"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv77.live/truc-tiep/arsenal-vs-clb-coventry-city-luc-0200-ngay-22-08-2026-ezk96i3rr46a1kn": {
-      "match_url": "https://colatv77.live/truc-tiep/arsenal-vs-clb-coventry-city-luc-0200-ngay-22-08-2026-ezk96i3rr46a1kn",
-      "name": "Arsenal vs Clb Coventry City",
-      "home_name": "Arsenal",
-      "away_name": "Clb Coventry City",
-      "date": "22/08/2026",
-      "time": "02:00",
-      "league": "",
-      "home_logo": "https://colatv77.live/assets/images/logo.png",
-      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/real-betis-balompie-vs-real-sociedad-luc-0200-ngay-22-08-2026-wv78xivrw0pfokr": {
-      "match_url": "https://colatv77.live/truc-tiep/real-betis-balompie-vs-real-sociedad-luc-0200-ngay-22-08-2026-wv78xivrw0pfokr",
-      "name": "Real Betis Balompie vs Real Sociedad",
-      "home_name": "Real Betis Balompie",
-      "away_name": "Real Sociedad",
-      "date": "22/08/2026",
-      "time": "02:00",
-      "league": "",
-      "home_logo": "https://colatv77.live/assets/images/logo.png",
-      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/al-qadisiya-vs-al-ittihad-fc-luc-0100-ngay-22-08-2026-ndqmliwenjxirkv": {
-      "match_url": "https://colatv77.live/truc-tiep/al-qadisiya-vs-al-ittihad-fc-luc-0100-ngay-22-08-2026-ndqmliwenjxirkv",
-      "name": "Al Qadisiya vs Al Ittihad Fc",
-      "home_name": "Al Qadisiya",
-      "away_name": "Al Ittihad Fc",
-      "date": "22/08/2026",
-      "time": "01:00",
-      "league": "",
-      "home_logo": "https://colatv77.live/assets/images/logo.png",
-      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/hansa-rostock-vs-vfb-stuttgart-luc-0145-ngay-22-08-2026-jr7owip8dd2cgq0": {
-      "match_url": "https://colatv77.live/truc-tiep/hansa-rostock-vs-vfb-stuttgart-luc-0145-ngay-22-08-2026-jr7owip8dd2cgq0",
-      "name": "Hansa Rostock vs Vfb Stuttgart",
-      "home_name": "Hansa Rostock",
-      "away_name": "Vfb Stuttgart",
-      "date": "22/08/2026",
-      "time": "01:45",
-      "league": "",
-      "home_logo": "https://colatv77.live/assets/images/logo.png",
-      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/olympique-de-marseille-vs-rc-strasbourg-luc-0145-ngay-22-08-2026-l6kegi8np5rhv75": {
-      "match_url": "https://colatv77.live/truc-tiep/olympique-de-marseille-vs-rc-strasbourg-luc-0145-ngay-22-08-2026-l6kegi8np5rhv75",
-      "name": "Olympique De Marseille vs Rc Strasbourg",
-      "home_name": "Olympique De Marseille",
-      "away_name": "Rc Strasbourg",
-      "date": "22/08/2026",
-      "time": "01:45",
-      "league": "",
-      "home_logo": "https://colatv77.live/assets/images/logo.png",
-      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/standard-liege-vs-lalouviere-luc-0145-ngay-22-08-2026-l6kegi8n50gcv75": {
-      "match_url": "https://colatv77.live/truc-tiep/standard-liege-vs-lalouviere-luc-0145-ngay-22-08-2026-l6kegi8n50gcv75",
-      "name": "Standard Liege vs Lalouviere",
-      "home_name": "Standard Liege",
-      "away_name": "Lalouviere",
-      "date": "22/08/2026",
-      "time": "01:45",
-      "league": "",
-      "home_logo": "https://colatv77.live/assets/images/logo.png",
-      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/jaguares-de-cordoba-vs-clb-boyaca-chico-luc-0405-ngay-22-08-2026-vrqwni4jg5ga4qn": {
-      "match_url": "https://colatv77.live/truc-tiep/jaguares-de-cordoba-vs-clb-boyaca-chico-luc-0405-ngay-22-08-2026-vrqwni4jg5ga4qn",
-      "name": "Jaguares De Cordoba vs Clb Boyaca Chico",
-      "home_name": "Jaguares De Cordoba",
-      "away_name": "Clb Boyaca Chico",
-      "date": "22/08/2026",
-      "time": "04:05",
-      "league": "",
-      "home_logo": "https://colatv77.live/assets/images/logo.png",
-      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/estudiantes-rio-cuarto-vs-clb-san-lorenzo-luc-0600-ngay-22-08-2026-jek33i8n1g1t9ko": {
-      "match_url": "https://colatv77.live/truc-tiep/estudiantes-rio-cuarto-vs-clb-san-lorenzo-luc-0600-ngay-22-08-2026-jek33i8n1g1t9ko",
-      "name": "Estudiantes Rio Cuarto vs Clb San Lorenzo",
-      "home_name": "Estudiantes Rio Cuarto",
-      "away_name": "Clb San Lorenzo",
-      "date": "22/08/2026",
-      "time": "06:00",
-      "league": "",
-      "home_logo": "https://colatv77.live/assets/images/logo.png",
-      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/chicago-sky-vs-golden-state-valkyries-luc-0630-ngay-22-08-2026-xvkjvszppy9i8k9": {
-      "match_url": "https://colatv77.live/truc-tiep/chicago-sky-vs-golden-state-valkyries-luc-0630-ngay-22-08-2026-xvkjvszppy9i8k9",
-      "name": "Chicago Sky vs Golden State Valkyries",
-      "home_name": "Chicago Sky",
-      "away_name": "Golden State Valkyries",
-      "date": "22/08/2026",
-      "time": "06:30",
-      "league": "",
-      "home_logo": "https://colatv77.live/assets/images/logo.png",
-      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
