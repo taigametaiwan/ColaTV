@@ -1,123 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-22T11:44:41.021933+07:00",
+  "generated_at_vietnam": "2026-08-22T12:37:41.225401+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv77.live/truc-tiep/juarez-vs-club-america-luc-1010-ngay-22-08-2026-oj7x9ixjdo1i47g",
-      "https://colatv77.live/truc-tiep/queretaro-vs-toluca-luc-1010-ngay-22-08-2026-o17pjiomn5rby7j",
-      "https://colatv77.live/truc-tiep/altona-magic-vs-avondale-fc-luc-1215-ngay-22-08-2026-ezk96i3p95jf1kn",
-      "https://colatv77.live/truc-tiep/hokkaido-consadole-sapporo-vs-clb-omiya-ardija-luc-1300-ngay-22-08-2026-ndqmliwnwx8frkv",
-      "https://colatv77.live/truc-tiep/nws-spirit-vs-sd-raiders-fc-luc-1430-ngay-22-08-2026-69759ignrn9agk2",
-      "https://colatv77.live/truc-tiep/negeri-sembilan-vs-kuala-lumpur-city-fc-luc-1600-ngay-22-08-2026-ndqmliweylpfrkv"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv77.live/truc-tiep/juarez-vs-club-america-luc-1010-ngay-22-08-2026-oj7x9ixjdo1i47g": {
-      "match_url": "https://colatv77.live/truc-tiep/juarez-vs-club-america-luc-1010-ngay-22-08-2026-oj7x9ixjdo1i47g",
-      "name": "Juarez vs Club America",
-      "home_name": "Juarez",
-      "away_name": "Club America",
-      "date": "22/08/2026",
-      "time": "10:10",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/2ef06350057f561b5dce57c7fca99a74.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/775a930b77d31e8f8a6d6ba8afc17c03.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/queretaro-vs-toluca-luc-1010-ngay-22-08-2026-o17pjiomn5rby7j": {
-      "match_url": "https://colatv77.live/truc-tiep/queretaro-vs-toluca-luc-1010-ngay-22-08-2026-o17pjiomn5rby7j",
-      "name": "Queretaro vs Toluca",
-      "home_name": "Queretaro",
-      "away_name": "Toluca",
-      "date": "22/08/2026",
-      "time": "10:10",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/e93c69c95a943755907a17adf4d7d732.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/725ccd5793be6b4f8dd917170dd17d04.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/altona-magic-vs-avondale-fc-luc-1215-ngay-22-08-2026-ezk96i3p95jf1kn": {
-      "match_url": "https://colatv77.live/truc-tiep/altona-magic-vs-avondale-fc-luc-1215-ngay-22-08-2026-ezk96i3p95jf1kn",
-      "name": "Altona Magic vs Avondale Fc",
-      "home_name": "Altona Magic",
-      "away_name": "Avondale Fc",
-      "date": "22/08/2026",
-      "time": "12:15",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/5fe8e44d486217553612d132ac6346c6.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/ff2e694966de559719f778b5c79ea2ad.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/hokkaido-consadole-sapporo-vs-clb-omiya-ardija-luc-1300-ngay-22-08-2026-ndqmliwnwx8frkv": {
-      "match_url": "https://colatv77.live/truc-tiep/hokkaido-consadole-sapporo-vs-clb-omiya-ardija-luc-1300-ngay-22-08-2026-ndqmliwnwx8frkv",
-      "name": "Hokkaido Consadole Sapporo vs Clb Omiya Ardija",
-      "home_name": "Hokkaido Consadole Sapporo",
-      "away_name": "Clb Omiya Ardija",
-      "date": "22/08/2026",
-      "time": "13:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/2a2a5d251c157be485891c94a1e1a495.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/f3b0743cbe39963a20d4ffe3a8c64c2e.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/nws-spirit-vs-sd-raiders-fc-luc-1430-ngay-22-08-2026-69759ignrn9agk2": {
-      "match_url": "https://colatv77.live/truc-tiep/nws-spirit-vs-sd-raiders-fc-luc-1430-ngay-22-08-2026-69759ignrn9agk2",
-      "name": "Nws Spirit vs Sd Raiders Fc",
-      "home_name": "Nws Spirit",
-      "away_name": "Sd Raiders Fc",
-      "date": "22/08/2026",
-      "time": "14:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/22f0cc669b7a84a3b61e27dbb57cb139.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/41cd928a2816821bdb7995c3ea6031a6.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/negeri-sembilan-vs-kuala-lumpur-city-fc-luc-1600-ngay-22-08-2026-ndqmliweylpfrkv": {
-      "match_url": "https://colatv77.live/truc-tiep/negeri-sembilan-vs-kuala-lumpur-city-fc-luc-1600-ngay-22-08-2026-ndqmliweylpfrkv",
-      "name": "Negeri Sembilan vs Kuala Lumpur City Fc",
-      "home_name": "Negeri Sembilan",
-      "away_name": "Kuala Lumpur City Fc",
-      "date": "22/08/2026",
-      "time": "16:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/198103640a4eb0c209b21b6c6891a027.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/2bf4316056c6dfba58002657790731a9.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
