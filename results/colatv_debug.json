@@ -1,19 +1,123 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-22T18:31:08.048072+07:00",
+  "generated_at_vietnam": "2026-08-22T18:53:41.603474+07:00",
   "summary": {
-    "discovered_match_pages": 0,
-    "metadata_pages_read": 0,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [],
+    "match_urls": [
+      "https://colatv77.live/truc-tiep/clb-hull-city-vs-manchester-united-luc-1830-ngay-22-08-2026-xvkjoi8yy6zs879",
+      "https://colatv77.live/truc-tiep/wehen-vs-bayer-04-leverkusen-luc-1800-ngay-22-08-2026-ndkz6i3yoo1txq3",
+      "https://colatv77.live/truc-tiep/nagoya-grampus-vs-gamba-osaka-luc-1700-ngay-22-08-2026-527r3i4xn1yf47e",
+      "https://colatv77.live/truc-tiep/cerezo-osaka-vs-shimizu-s-pulse-luc-1700-ngay-22-08-2026-oj7x9ixjn8jt47g",
+      "https://colatv77.live/truc-tiep/sanfrecce-hiroshima-vs-kawasaki-frontale-luc-1715-ngay-22-08-2026-j374oi0yo36tgqo",
+      "https://colatv77.live/truc-tiep/clb-jeonbuk-hyundai-motors-vs-clb-ulsan-hyundai-luc-1730-ngay-22-08-2026-wv78xiv8dv4sokr"
+    ],
     "errors": {}
   },
-  "matches": {},
+  "matches": {
+    "https://colatv77.live/truc-tiep/clb-hull-city-vs-manchester-united-luc-1830-ngay-22-08-2026-xvkjoi8yy6zs879": {
+      "match_url": "https://colatv77.live/truc-tiep/clb-hull-city-vs-manchester-united-luc-1830-ngay-22-08-2026-xvkjoi8yy6zs879",
+      "name": "Clb Hull City vs Manchester United",
+      "home_name": "Clb Hull City",
+      "away_name": "Manchester United",
+      "date": "22/08/2026",
+      "time": "18:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/262691204102d2200797f0ac34efb316.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/d39ce586fd7278342dde33b3090b3f75.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/wehen-vs-bayer-04-leverkusen-luc-1800-ngay-22-08-2026-ndkz6i3yoo1txq3": {
+      "match_url": "https://colatv77.live/truc-tiep/wehen-vs-bayer-04-leverkusen-luc-1800-ngay-22-08-2026-ndkz6i3yoo1txq3",
+      "name": "Wehen vs Bayer 04 Leverkusen",
+      "home_name": "Wehen",
+      "away_name": "Bayer 04 Leverkusen",
+      "date": "22/08/2026",
+      "time": "18:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/305c1d59bdbe8bd8e267a58514ead1c5.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/d3205f3ddca07dc01c822ea0de24a0e7.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/nagoya-grampus-vs-gamba-osaka-luc-1700-ngay-22-08-2026-527r3i4xn1yf47e": {
+      "match_url": "https://colatv77.live/truc-tiep/nagoya-grampus-vs-gamba-osaka-luc-1700-ngay-22-08-2026-527r3i4xn1yf47e",
+      "name": "Nagoya Grampus vs Gamba Osaka",
+      "home_name": "Nagoya Grampus",
+      "away_name": "Gamba Osaka",
+      "date": "22/08/2026",
+      "time": "17:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/32aa68e1fa3d62dad572d19b21a09353.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/91008a96b5de8c75376d17057f89890e.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/cerezo-osaka-vs-shimizu-s-pulse-luc-1700-ngay-22-08-2026-oj7x9ixjn8jt47g": {
+      "match_url": "https://colatv77.live/truc-tiep/cerezo-osaka-vs-shimizu-s-pulse-luc-1700-ngay-22-08-2026-oj7x9ixjn8jt47g",
+      "name": "Cerezo Osaka vs Shimizu S Pulse",
+      "home_name": "Cerezo Osaka",
+      "away_name": "Shimizu S Pulse",
+      "date": "22/08/2026",
+      "time": "17:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/fa4105f0408ef893d941e70ae003ab4c.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/sanfrecce-hiroshima-vs-kawasaki-frontale-luc-1715-ngay-22-08-2026-j374oi0yo36tgqo": {
+      "match_url": "https://colatv77.live/truc-tiep/sanfrecce-hiroshima-vs-kawasaki-frontale-luc-1715-ngay-22-08-2026-j374oi0yo36tgqo",
+      "name": "Sanfrecce Hiroshima vs Kawasaki Frontale",
+      "home_name": "Sanfrecce Hiroshima",
+      "away_name": "Kawasaki Frontale",
+      "date": "22/08/2026",
+      "time": "17:15",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/c81d5ff7a33a4f6a9312a8703f619352.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/937795c0851c1e794e96a5cb660fcd59.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/clb-jeonbuk-hyundai-motors-vs-clb-ulsan-hyundai-luc-1730-ngay-22-08-2026-wv78xiv8dv4sokr": {
+      "match_url": "https://colatv77.live/truc-tiep/clb-jeonbuk-hyundai-motors-vs-clb-ulsan-hyundai-luc-1730-ngay-22-08-2026-wv78xiv8dv4sokr",
+      "name": "Clb Jeonbuk Hyundai Motors vs Clb Ulsan Hyundai",
+      "home_name": "Clb Jeonbuk Hyundai Motors",
+      "away_name": "Clb Ulsan Hyundai",
+      "date": "22/08/2026",
+      "time": "17:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/fe07fb888ebcb282192332cb8aed21b1.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    }
+  },
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
