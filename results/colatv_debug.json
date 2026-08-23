@@ -1,123 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-23T11:19:52.105320+07:00",
+  "generated_at_vietnam": "2026-08-23T12:04:55.347703+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv77.live/truc-tiep/los-angeles-fc-vs-portland-timbers-luc-0940-ngay-23-08-2026-g6763i5r914uo7r",
-      "https://colatv77.live/truc-tiep/san-jose-earthquakes-vs-minnesota-united-luc-0940-ngay-23-08-2026-zrkn6i4epz5twql",
-      "https://colatv77.live/truc-tiep/cruz-azul-vs-atlas-luc-1000-ngay-23-08-2026-9gklzi1epgotm7x",
-      "https://colatv77.live/truc-tiep/sydney-utd-vs-apia-tigers-luc-1130-ngay-23-08-2026-o17pjioy4jysy7j",
-      "https://colatv77.live/truc-tiep/south-melbourne-vs-heidelberg-united-luc-1230-ngay-23-08-2026-xvkjoi8zjo3f879",
-      "https://colatv77.live/truc-tiep/siheung-city-vs-daejeon-korail-luc-1500-ngay-23-08-2026-63kv9igg95jux7e"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv77.live/truc-tiep/los-angeles-fc-vs-portland-timbers-luc-0940-ngay-23-08-2026-g6763i5r914uo7r": {
-      "match_url": "https://colatv77.live/truc-tiep/los-angeles-fc-vs-portland-timbers-luc-0940-ngay-23-08-2026-g6763i5r914uo7r",
-      "name": "Los Angeles Fc vs Portland Timbers",
-      "home_name": "Los Angeles Fc",
-      "away_name": "Portland Timbers",
-      "date": "23/08/2026",
-      "time": "09:40",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/5dcc5306778fc1089f808833ac7fc477.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/san-jose-earthquakes-vs-minnesota-united-luc-0940-ngay-23-08-2026-zrkn6i4epz5twql": {
-      "match_url": "https://colatv77.live/truc-tiep/san-jose-earthquakes-vs-minnesota-united-luc-0940-ngay-23-08-2026-zrkn6i4epz5twql",
-      "name": "San Jose Earthquakes vs Minnesota United",
-      "home_name": "San Jose Earthquakes",
-      "away_name": "Minnesota United",
-      "date": "23/08/2026",
-      "time": "09:40",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/256ff71a20fb72145a66dcef2f604a48.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/cruz-azul-vs-atlas-luc-1000-ngay-23-08-2026-9gklzi1epgotm7x": {
-      "match_url": "https://colatv77.live/truc-tiep/cruz-azul-vs-atlas-luc-1000-ngay-23-08-2026-9gklzi1epgotm7x",
-      "name": "Cruz Azul vs Atlas",
-      "home_name": "Cruz Azul",
-      "away_name": "Atlas",
-      "date": "23/08/2026",
-      "time": "10:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/2addd50487c8f61276d5fff8714f6a5c.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/a3316e9ee8fe7b3a279a10d61d0b2f87.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/sydney-utd-vs-apia-tigers-luc-1130-ngay-23-08-2026-o17pjioy4jysy7j": {
-      "match_url": "https://colatv77.live/truc-tiep/sydney-utd-vs-apia-tigers-luc-1130-ngay-23-08-2026-o17pjioy4jysy7j",
-      "name": "Sydney Utd vs Apia Tigers",
-      "home_name": "Sydney Utd",
-      "away_name": "Apia Tigers",
-      "date": "23/08/2026",
-      "time": "11:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/a2f47271892fb491ffab880158419ca0.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/5e7f98b3e6dba2955758797b84e94868.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/south-melbourne-vs-heidelberg-united-luc-1230-ngay-23-08-2026-xvkjoi8zjo3f879": {
-      "match_url": "https://colatv77.live/truc-tiep/south-melbourne-vs-heidelberg-united-luc-1230-ngay-23-08-2026-xvkjoi8zjo3f879",
-      "name": "South Melbourne vs Heidelberg United",
-      "home_name": "South Melbourne",
-      "away_name": "Heidelberg United",
-      "date": "23/08/2026",
-      "time": "12:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/3728683390847f335552d077cf0b8752.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/5cae62255ca170949672a7ce8999b094.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/siheung-city-vs-daejeon-korail-luc-1500-ngay-23-08-2026-63kv9igg95jux7e": {
-      "match_url": "https://colatv77.live/truc-tiep/siheung-city-vs-daejeon-korail-luc-1500-ngay-23-08-2026-63kv9igg95jux7e",
-      "name": "Siheung City vs Daejeon Korail",
-      "home_name": "Siheung City",
-      "away_name": "Daejeon Korail",
-      "date": "23/08/2026",
-      "time": "15:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/b0cba801d31e0086325dc1bd81639be8.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/f1728750086ff9f311de3e30a810aede.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
