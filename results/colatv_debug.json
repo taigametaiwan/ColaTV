@@ -1,123 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-23T06:53:15.673511+07:00",
+  "generated_at_vietnam": "2026-08-23T08:56:35.033609+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv77.live/truc-tiep/inter-miami-vs-clb-toronto-luc-0640-ngay-23-08-2026-oj7x9ix0v5na47g",
-      "https://colatv77.live/truc-tiep/new-york-liberty-vs-indiana-fever-luc-0600-ngay-23-08-2026-8lk2ys6llddhz73",
-      "https://colatv77.live/truc-tiep/new-york-red-bulls-vs-clb-chicago-fire-luc-0640-ngay-23-08-2026-o17pjio9lx4hy7j",
-      "https://colatv77.live/truc-tiep/charlotte-fc-vs-dc-united-luc-0640-ngay-23-08-2026-m2q15izw6vwie76",
-      "https://colatv77.live/truc-tiep/clb-montreal-impact-vs-clb-la-galaxy-luc-0640-ngay-23-08-2026-vmqy9ivwx4vbgk9",
-      "https://colatv77.live/truc-tiep/clb-newells-old-boys-vs-clb-banfield-luc-0700-ngay-23-08-2026-g6763i5m3rpso7r"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv77.live/truc-tiep/inter-miami-vs-clb-toronto-luc-0640-ngay-23-08-2026-oj7x9ix0v5na47g": {
-      "match_url": "https://colatv77.live/truc-tiep/inter-miami-vs-clb-toronto-luc-0640-ngay-23-08-2026-oj7x9ix0v5na47g",
-      "name": "Inter Miami vs Clb Toronto",
-      "home_name": "Inter Miami",
-      "away_name": "Clb Toronto",
-      "date": "23/08/2026",
-      "time": "06:40",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/a6f6290d4b7699729dc19349484841bf.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/new-york-liberty-vs-indiana-fever-luc-0600-ngay-23-08-2026-8lk2ys6llddhz73": {
-      "match_url": "https://colatv77.live/truc-tiep/new-york-liberty-vs-indiana-fever-luc-0600-ngay-23-08-2026-8lk2ys6llddhz73",
-      "name": "New York Liberty vs Indiana Fever",
-      "home_name": "New York Liberty",
-      "away_name": "Indiana Fever",
-      "date": "23/08/2026",
-      "time": "06:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/81e9f1f9d6393fd128c6c014783d9fa2.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/new-york-red-bulls-vs-clb-chicago-fire-luc-0640-ngay-23-08-2026-o17pjio9lx4hy7j": {
-      "match_url": "https://colatv77.live/truc-tiep/new-york-red-bulls-vs-clb-chicago-fire-luc-0640-ngay-23-08-2026-o17pjio9lx4hy7j",
-      "name": "New York Red Bulls vs Clb Chicago Fire",
-      "home_name": "New York Red Bulls",
-      "away_name": "Clb Chicago Fire",
-      "date": "23/08/2026",
-      "time": "06:40",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/8b8fe90668461b90ddc20516b0e6796d.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/929fe1b737e458218cbe8ce00a55a05c.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/charlotte-fc-vs-dc-united-luc-0640-ngay-23-08-2026-m2q15izw6vwie76": {
-      "match_url": "https://colatv77.live/truc-tiep/charlotte-fc-vs-dc-united-luc-0640-ngay-23-08-2026-m2q15izw6vwie76",
-      "name": "Charlotte Fc vs Dc United",
-      "home_name": "Charlotte Fc",
-      "away_name": "Dc United",
-      "date": "23/08/2026",
-      "time": "06:40",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/5c01731e3c513a3797c85b95c436e0d9.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/2d846f3eea3e2d5067b26de498f83d94.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/clb-montreal-impact-vs-clb-la-galaxy-luc-0640-ngay-23-08-2026-vmqy9ivwx4vbgk9": {
-      "match_url": "https://colatv77.live/truc-tiep/clb-montreal-impact-vs-clb-la-galaxy-luc-0640-ngay-23-08-2026-vmqy9ivwx4vbgk9",
-      "name": "Clb Montreal Impact vs Clb La Galaxy",
-      "home_name": "Clb Montreal Impact",
-      "away_name": "Clb La Galaxy",
-      "date": "23/08/2026",
-      "time": "06:40",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/abd87a03b9befd43df6c45c9b17e9a79.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/8ef755c4d2e1aed96dc5d291977c1043.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/clb-newells-old-boys-vs-clb-banfield-luc-0700-ngay-23-08-2026-g6763i5m3rpso7r": {
-      "match_url": "https://colatv77.live/truc-tiep/clb-newells-old-boys-vs-clb-banfield-luc-0700-ngay-23-08-2026-g6763i5m3rpso7r",
-      "name": "Clb Newells Old Boys vs Clb Banfield",
-      "home_name": "Clb Newells Old Boys",
-      "away_name": "Clb Banfield",
-      "date": "23/08/2026",
-      "time": "07:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/845eed665066a19144dad9f96e550b50.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/e142922645466d58b5ad3a27570b5ac5.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
