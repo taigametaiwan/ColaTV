@@ -1,9 +1,9 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-23T22:32:50.631779+07:00",
+  "generated_at_vietnam": "2026-08-23T22:54:05.759622+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 9,
+    "metadata_pages_read": 9,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
@@ -16,7 +16,10 @@
       "https://colatv77.live/truc-tiep/atletico-madrid-vs-cau-lac-bo-bong-da-villarreal-luc-2200-ngay-23-08-2026-527r3i4zjo0h47e",
       "https://colatv77.live/truc-tiep/dusseldorf-vs-sc-freiburg-luc-2300-ngay-23-08-2026-o17pjiompp1by7j",
       "https://colatv77.live/truc-tiep/clb-venezia-vs-us-lecce-luc-2330-ngay-23-08-2026-9gklzi1e0x5am7x",
-      "https://colatv77.live/truc-tiep/frosinone-vs-juventus-fc-luc-2330-ngay-23-08-2026-o17pjiom0d3ay7j"
+      "https://colatv77.live/truc-tiep/frosinone-vs-juventus-fc-luc-2330-ngay-23-08-2026-o17pjiom0d3ay7j",
+      "https://colatv77.live/truc-tiep/santa-clara-vs-famalicao-luc-0000-ngay-24-08-2026-vmqy9iv386rcgk9",
+      "https://colatv77.live/truc-tiep/getafe-cf-vs-clb-racing-santander-luc-0030-ngay-24-08-2026-69759ig4jo5bgk2",
+      "https://colatv77.live/truc-tiep/alanyaspor-vs-besiktas-jk-luc-0130-ngay-24-08-2026-m2q15izl488se76"
     ],
     "errors": {}
   },
@@ -111,6 +114,54 @@
       "league": "",
       "home_logo": "https://img.gvapi.cc/football/team/93c278d5d8d1d5e2d390ff686359963d.png!w80",
       "away_logo": "https://img.gvapi.cc/football/team/dc0e43b95c6676c54415bac168472aa4.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/santa-clara-vs-famalicao-luc-0000-ngay-24-08-2026-vmqy9iv386rcgk9": {
+      "match_url": "https://colatv77.live/truc-tiep/santa-clara-vs-famalicao-luc-0000-ngay-24-08-2026-vmqy9iv386rcgk9",
+      "name": "Santa Clara vs Famalicao",
+      "home_name": "Santa Clara",
+      "away_name": "Famalicao",
+      "date": "24/08/2026",
+      "time": "00:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/0c5162e7f8371cb6972ca6413bf228e8.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/abd59f62f69ef9f59a8121c3baadd882.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/getafe-cf-vs-clb-racing-santander-luc-0030-ngay-24-08-2026-69759ig4jo5bgk2": {
+      "match_url": "https://colatv77.live/truc-tiep/getafe-cf-vs-clb-racing-santander-luc-0030-ngay-24-08-2026-69759ig4jo5bgk2",
+      "name": "Getafe Cf vs Clb Racing Santander",
+      "home_name": "Getafe Cf",
+      "away_name": "Clb Racing Santander",
+      "date": "24/08/2026",
+      "time": "00:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/36bf5bf0c8fdf08c1270124808f060e1.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/8db7260a18b1be68e8710cfdbf6be3df.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/alanyaspor-vs-besiktas-jk-luc-0130-ngay-24-08-2026-m2q15izl488se76": {
+      "match_url": "https://colatv77.live/truc-tiep/alanyaspor-vs-besiktas-jk-luc-0130-ngay-24-08-2026-m2q15izl488se76",
+      "name": "Alanyaspor vs Besiktas Jk",
+      "home_name": "Alanyaspor",
+      "away_name": "Besiktas Jk",
+      "date": "24/08/2026",
+      "time": "01:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/0688ed133dadf5f09bb94c8414ec5565.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/83ba0474d144e49f060789cfa904e226.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
