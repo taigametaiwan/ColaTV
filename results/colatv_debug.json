@@ -1,6 +1,6 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-23T21:34:51.487246+07:00",
+  "generated_at_vietnam": "2026-08-23T21:57:15.881242+07:00",
   "summary": {
     "discovered_match_pages": 9,
     "metadata_pages_read": 9,
@@ -13,13 +13,13 @@
     "match_urls": [
       "https://colatv77.live/truc-tiep/manchester-city-fc-vs-afc-bournemouth-luc-2000-ngay-23-08-2026-ndqmliwnv4durkv",
       "https://colatv77.live/truc-tiep/brighton-hove-albion-fc-vs-aston-villa-luc-2000-ngay-23-08-2026-8lk2dirpl0ghz73",
-      "https://colatv77.live/truc-tiep/angers-sco-vs-lille-osc-luc-2000-ngay-23-08-2026-ndqmliwnpv8irkv",
       "https://colatv77.live/truc-tiep/krieschow-vs-1-fsv-mainz-05-luc-2030-ngay-23-08-2026-xvkjoi8yxlru879",
       "https://colatv77.live/truc-tiep/braunschweig-vs-1-fc-union-berlin-luc-2030-ngay-23-08-2026-o07dni5p00phmkn",
       "https://colatv77.live/truc-tiep/atletico-madrid-vs-cau-lac-bo-bong-da-villarreal-luc-2200-ngay-23-08-2026-527r3i4zjo0h47e",
       "https://colatv77.live/truc-tiep/le-havre-vs-as-monaco-luc-2215-ngay-23-08-2026-j374oi0ylm9bgqo",
       "https://colatv77.live/truc-tiep/newcastle-united-vs-liverpool-luc-2230-ngay-23-08-2026-ezk96i3r106f1kn",
-      "https://colatv77.live/truc-tiep/dusseldorf-vs-sc-freiburg-luc-2300-ngay-23-08-2026-o17pjiompp1by7j"
+      "https://colatv77.live/truc-tiep/dusseldorf-vs-sc-freiburg-luc-2300-ngay-23-08-2026-o17pjiompp1by7j",
+      "https://colatv77.live/truc-tiep/clb-venezia-vs-us-lecce-luc-2330-ngay-23-08-2026-9gklzi1e0x5am7x"
     ],
     "errors": {}
   },
@@ -50,22 +50,6 @@
       "league": "",
       "home_logo": "https://img.gvapi.cc/football/team/9b43a690d5a09f1e319f036821e8e1d3.png!w80",
       "away_logo": "https://img.gvapi.cc/football/team/a3c32d6a906083118cac2cb796edaab3.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/angers-sco-vs-lille-osc-luc-2000-ngay-23-08-2026-ndqmliwnpv8irkv": {
-      "match_url": "https://colatv77.live/truc-tiep/angers-sco-vs-lille-osc-luc-2000-ngay-23-08-2026-ndqmliwnpv8irkv",
-      "name": "Angers Sco vs Lille Osc",
-      "home_name": "Angers Sco",
-      "away_name": "Lille Osc",
-      "date": "23/08/2026",
-      "time": "20:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/526150064f4f983d670deb33fa6385b6.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/28e94925fdcc848f86a544a1cedcceed.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
@@ -162,6 +146,22 @@
       "league": "",
       "home_logo": "https://img.gvapi.cc/football/team/15820ab793d530ee9d101bde619a013f.png!w80",
       "away_logo": "https://img.gvapi.cc/football/team/6508946c9a5fe22a8784b905b25e8c79.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/clb-venezia-vs-us-lecce-luc-2330-ngay-23-08-2026-9gklzi1e0x5am7x": {
+      "match_url": "https://colatv77.live/truc-tiep/clb-venezia-vs-us-lecce-luc-2330-ngay-23-08-2026-9gklzi1e0x5am7x",
+      "name": "Clb Venezia vs Us Lecce",
+      "home_name": "Clb Venezia",
+      "away_name": "Us Lecce",
+      "date": "23/08/2026",
+      "time": "23:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/3e724dc0e6fffd01a630b65af348fab6.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/777d0840066313da8c0f85977e9178be.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
