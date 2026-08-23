@@ -1,123 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-23T14:43:10.071428+07:00",
+  "generated_at_vietnam": "2026-08-23T15:43:57.087961+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv77.live/truc-tiep/siheung-city-vs-daejeon-korail-luc-1500-ngay-23-08-2026-63kv9igg95jux7e",
-      "https://colatv77.live/truc-tiep/penang-vs-dpmm-luc-1600-ngay-23-08-2026-ezk96i32w8es1kn",
-      "https://colatv77.live/truc-tiep/akron-togliatti-vs-clb-krylya-sovetov-luc-1700-ngay-23-08-2026-xvkjoi8poyef879",
-      "https://colatv77.live/truc-tiep/sonderjyske-vs-nordsjaelland-luc-1700-ngay-23-08-2026-ndkz6i3y6ymuxq3",
-      "https://colatv77.live/truc-tiep/go-ahead-eagles-vs-den-haag-luc-1715-ngay-23-08-2026-527r3i4xmexa47e",
-      "https://colatv77.live/truc-tiep/daejeon-vs-gangwon-luc-1730-ngay-23-08-2026-527r3i4n930u47e"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv77.live/truc-tiep/siheung-city-vs-daejeon-korail-luc-1500-ngay-23-08-2026-63kv9igg95jux7e": {
-      "match_url": "https://colatv77.live/truc-tiep/siheung-city-vs-daejeon-korail-luc-1500-ngay-23-08-2026-63kv9igg95jux7e",
-      "name": "Siheung City vs Daejeon Korail",
-      "home_name": "Siheung City",
-      "away_name": "Daejeon Korail",
-      "date": "23/08/2026",
-      "time": "15:00",
-      "league": "",
-      "home_logo": "https://colatv77.live/assets/images/logo.png",
-      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/penang-vs-dpmm-luc-1600-ngay-23-08-2026-ezk96i32w8es1kn": {
-      "match_url": "https://colatv77.live/truc-tiep/penang-vs-dpmm-luc-1600-ngay-23-08-2026-ezk96i32w8es1kn",
-      "name": "Penang vs Dpmm",
-      "home_name": "Penang",
-      "away_name": "Dpmm",
-      "date": "23/08/2026",
-      "time": "16:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/66b3836d1ca52c4aa07cecac8ae89f35.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/25dae24c4bfc4a6fdd53d090a39821dd.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/akron-togliatti-vs-clb-krylya-sovetov-luc-1700-ngay-23-08-2026-xvkjoi8poyef879": {
-      "match_url": "https://colatv77.live/truc-tiep/akron-togliatti-vs-clb-krylya-sovetov-luc-1700-ngay-23-08-2026-xvkjoi8poyef879",
-      "name": "Akron Togliatti vs Clb Krylya Sovetov",
-      "home_name": "Akron Togliatti",
-      "away_name": "Clb Krylya Sovetov",
-      "date": "23/08/2026",
-      "time": "17:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/d5a6f7b99c55a87b8a47337e7fe64588.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/b7782a595f2f82ed8daca72fd1f102de.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/sonderjyske-vs-nordsjaelland-luc-1700-ngay-23-08-2026-ndkz6i3y6ymuxq3": {
-      "match_url": "https://colatv77.live/truc-tiep/sonderjyske-vs-nordsjaelland-luc-1700-ngay-23-08-2026-ndkz6i3y6ymuxq3",
-      "name": "Sonderjyske vs Nordsjaelland",
-      "home_name": "Sonderjyske",
-      "away_name": "Nordsjaelland",
-      "date": "23/08/2026",
-      "time": "17:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/2a247b5fb7ff72e24a051b71a796d71b.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/d63099fdff083541d1ebef9beae90f63.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/go-ahead-eagles-vs-den-haag-luc-1715-ngay-23-08-2026-527r3i4xmexa47e": {
-      "match_url": "https://colatv77.live/truc-tiep/go-ahead-eagles-vs-den-haag-luc-1715-ngay-23-08-2026-527r3i4xmexa47e",
-      "name": "Go Ahead Eagles vs Den Haag",
-      "home_name": "Go Ahead Eagles",
-      "away_name": "Den Haag",
-      "date": "23/08/2026",
-      "time": "17:15",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/acc42732b97d91016e37952666003417.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/3dbce6bb7b1adc861642a7a1fc9b3796.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/daejeon-vs-gangwon-luc-1730-ngay-23-08-2026-527r3i4n930u47e": {
-      "match_url": "https://colatv77.live/truc-tiep/daejeon-vs-gangwon-luc-1730-ngay-23-08-2026-527r3i4n930u47e",
-      "name": "Daejeon vs Gangwon",
-      "home_name": "Daejeon",
-      "away_name": "Gangwon",
-      "date": "23/08/2026",
-      "time": "17:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
