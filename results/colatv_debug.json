@@ -1,9 +1,9 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-24T00:52:47.311818+07:00",
+  "generated_at_vietnam": "2026-08-24T01:45:16.736097+07:00",
   "summary": {
-    "discovered_match_pages": 9,
-    "metadata_pages_read": 9,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
@@ -11,61 +11,42 @@
   "discovery": {
     "start_url": "https://colatv77.live/",
     "match_urls": [
-      "https://colatv77.live/truc-tiep/frosinone-vs-juventus-fc-luc-2330-ngay-23-08-2026-o17pjiom0d3ay7j",
-      "https://colatv77.live/truc-tiep/dusseldorf-vs-sc-freiburg-luc-2300-ngay-23-08-2026-o17pjiompp1by7j",
-      "https://colatv77.live/truc-tiep/clb-venezia-vs-us-lecce-luc-2330-ngay-23-08-2026-9gklzi1e0x5am7x",
+      "https://colatv77.live/truc-tiep/stade-rennais-vs-paris-saint-germain-luc-0145-ngay-24-08-2026-g6763i5oed1ao7r",
+      "https://colatv77.live/truc-tiep/torino-fc-vs-ac-milan-luc-0145-ngay-24-08-2026-oj7x9ixjr29u47g",
       "https://colatv77.live/truc-tiep/santa-clara-vs-famalicao-luc-0000-ngay-24-08-2026-vmqy9iv386rcgk9",
       "https://colatv77.live/truc-tiep/getafe-cf-vs-clb-racing-santander-luc-0030-ngay-24-08-2026-69759ig4jo5bgk2",
       "https://colatv77.live/truc-tiep/alanyaspor-vs-besiktas-jk-luc-0130-ngay-24-08-2026-m2q15izl488se76",
-      "https://colatv77.live/truc-tiep/atalanta-bc-vs-us-sassuolo-calcio-luc-0145-ngay-24-08-2026-ndqmliwnxylurkv",
-      "https://colatv77.live/truc-tiep/torino-fc-vs-ac-milan-luc-0145-ngay-24-08-2026-oj7x9ixjr29u47g",
-      "https://colatv77.live/truc-tiep/stade-rennais-vs-paris-saint-germain-luc-0145-ngay-24-08-2026-g6763i5oed1ao7r"
+      "https://colatv77.live/truc-tiep/atalanta-bc-vs-us-sassuolo-calcio-luc-0145-ngay-24-08-2026-ndqmliwnxylurkv"
     ],
     "errors": {}
   },
   "matches": {
-    "https://colatv77.live/truc-tiep/frosinone-vs-juventus-fc-luc-2330-ngay-23-08-2026-o17pjiom0d3ay7j": {
-      "match_url": "https://colatv77.live/truc-tiep/frosinone-vs-juventus-fc-luc-2330-ngay-23-08-2026-o17pjiom0d3ay7j",
-      "name": "Frosinone vs Juventus Fc",
-      "home_name": "Frosinone",
-      "away_name": "Juventus Fc",
-      "date": "23/08/2026",
-      "time": "23:30",
+    "https://colatv77.live/truc-tiep/stade-rennais-vs-paris-saint-germain-luc-0145-ngay-24-08-2026-g6763i5oed1ao7r": {
+      "match_url": "https://colatv77.live/truc-tiep/stade-rennais-vs-paris-saint-germain-luc-0145-ngay-24-08-2026-g6763i5oed1ao7r",
+      "name": "Stade Rennais vs Paris Saint Germain",
+      "home_name": "Stade Rennais",
+      "away_name": "Paris Saint Germain",
+      "date": "24/08/2026",
+      "time": "01:45",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/93c278d5d8d1d5e2d390ff686359963d.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/dc0e43b95c6676c54415bac168472aa4.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/eab8f0e847742fd328bb581299bd99ca.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/3b720f181ce9993f9422d276acf7b292.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/dusseldorf-vs-sc-freiburg-luc-2300-ngay-23-08-2026-o17pjiompp1by7j": {
-      "match_url": "https://colatv77.live/truc-tiep/dusseldorf-vs-sc-freiburg-luc-2300-ngay-23-08-2026-o17pjiompp1by7j",
-      "name": "Dusseldorf vs Sc Freiburg",
-      "home_name": "Dusseldorf",
-      "away_name": "Sc Freiburg",
-      "date": "23/08/2026",
-      "time": "23:00",
+    "https://colatv77.live/truc-tiep/torino-fc-vs-ac-milan-luc-0145-ngay-24-08-2026-oj7x9ixjr29u47g": {
+      "match_url": "https://colatv77.live/truc-tiep/torino-fc-vs-ac-milan-luc-0145-ngay-24-08-2026-oj7x9ixjr29u47g",
+      "name": "Torino Fc vs Ac Milan",
+      "home_name": "Torino Fc",
+      "away_name": "Ac Milan",
+      "date": "24/08/2026",
+      "time": "01:45",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/15820ab793d530ee9d101bde619a013f.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/6508946c9a5fe22a8784b905b25e8c79.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/clb-venezia-vs-us-lecce-luc-2330-ngay-23-08-2026-9gklzi1e0x5am7x": {
-      "match_url": "https://colatv77.live/truc-tiep/clb-venezia-vs-us-lecce-luc-2330-ngay-23-08-2026-9gklzi1e0x5am7x",
-      "name": "Clb Venezia vs Us Lecce",
-      "home_name": "Clb Venezia",
-      "away_name": "Us Lecce",
-      "date": "23/08/2026",
-      "time": "23:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/3e724dc0e6fffd01a630b65af348fab6.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/777d0840066313da8c0f85977e9178be.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/643ef4101b017dc1495dbd9e9d5cce28.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
@@ -130,38 +111,6 @@
       "league": "",
       "home_logo": "https://img.gvapi.cc/football/team/45c9647899b8bf2fb6f988c6c33b964c.png!w80",
       "away_logo": "https://img.gvapi.cc/football/team/616bf242a532f72e970648f2ead423cf.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/torino-fc-vs-ac-milan-luc-0145-ngay-24-08-2026-oj7x9ixjr29u47g": {
-      "match_url": "https://colatv77.live/truc-tiep/torino-fc-vs-ac-milan-luc-0145-ngay-24-08-2026-oj7x9ixjr29u47g",
-      "name": "Torino Fc vs Ac Milan",
-      "home_name": "Torino Fc",
-      "away_name": "Ac Milan",
-      "date": "24/08/2026",
-      "time": "01:45",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/643ef4101b017dc1495dbd9e9d5cce28.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/stade-rennais-vs-paris-saint-germain-luc-0145-ngay-24-08-2026-g6763i5oed1ao7r": {
-      "match_url": "https://colatv77.live/truc-tiep/stade-rennais-vs-paris-saint-germain-luc-0145-ngay-24-08-2026-g6763i5oed1ao7r",
-      "name": "Stade Rennais vs Paris Saint Germain",
-      "home_name": "Stade Rennais",
-      "away_name": "Paris Saint Germain",
-      "date": "24/08/2026",
-      "time": "01:45",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/eab8f0e847742fd328bb581299bd99ca.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/3b720f181ce9993f9422d276acf7b292.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
