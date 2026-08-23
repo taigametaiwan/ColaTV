@@ -1,9 +1,9 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-23T10:12:42.438448+07:00",
+  "generated_at_vietnam": "2026-08-23T11:19:52.105320+07:00",
   "summary": {
-    "discovered_match_pages": 9,
-    "metadata_pages_read": 9,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
@@ -12,14 +12,11 @@
     "start_url": "https://colatv77.live/",
     "match_urls": [
       "https://colatv77.live/truc-tiep/los-angeles-fc-vs-portland-timbers-luc-0940-ngay-23-08-2026-g6763i5r914uo7r",
-      "https://colatv77.live/truc-tiep/vancouver-whitecaps-vs-clb-dallas-luc-0840-ngay-23-08-2026-ndqmliw8yrpirkv",
-      "https://colatv77.live/truc-tiep/phoenix-mercury-vs-atlanta-dream-luc-0900-ngay-23-08-2026-xvkjvszpp0wh8k9",
       "https://colatv77.live/truc-tiep/san-jose-earthquakes-vs-minnesota-united-luc-0940-ngay-23-08-2026-zrkn6i4epz5twql",
       "https://colatv77.live/truc-tiep/cruz-azul-vs-atlas-luc-1000-ngay-23-08-2026-9gklzi1epgotm7x",
       "https://colatv77.live/truc-tiep/sydney-utd-vs-apia-tigers-luc-1130-ngay-23-08-2026-o17pjioy4jysy7j",
       "https://colatv77.live/truc-tiep/south-melbourne-vs-heidelberg-united-luc-1230-ngay-23-08-2026-xvkjoi8zjo3f879",
-      "https://colatv77.live/truc-tiep/siheung-city-vs-daejeon-korail-luc-1500-ngay-23-08-2026-63kv9igg95jux7e",
-      "https://colatv77.live/truc-tiep/penang-vs-dpmm-luc-1600-ngay-23-08-2026-ezk96i32w8es1kn"
+      "https://colatv77.live/truc-tiep/siheung-city-vs-daejeon-korail-luc-1500-ngay-23-08-2026-63kv9igg95jux7e"
     ],
     "errors": {}
   },
@@ -34,38 +31,6 @@
       "league": "",
       "home_logo": "https://img.gvapi.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80",
       "away_logo": "https://img.gvapi.cc/football/team/5dcc5306778fc1089f808833ac7fc477.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/vancouver-whitecaps-vs-clb-dallas-luc-0840-ngay-23-08-2026-ndqmliw8yrpirkv": {
-      "match_url": "https://colatv77.live/truc-tiep/vancouver-whitecaps-vs-clb-dallas-luc-0840-ngay-23-08-2026-ndqmliw8yrpirkv",
-      "name": "Vancouver Whitecaps vs Clb Dallas",
-      "home_name": "Vancouver Whitecaps",
-      "away_name": "Clb Dallas",
-      "date": "23/08/2026",
-      "time": "08:40",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/527dcdb6260004a2c8f61fae9345f133.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/e829da6b3050ec03f3c8715690ec39c4.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/phoenix-mercury-vs-atlanta-dream-luc-0900-ngay-23-08-2026-xvkjvszpp0wh8k9": {
-      "match_url": "https://colatv77.live/truc-tiep/phoenix-mercury-vs-atlanta-dream-luc-0900-ngay-23-08-2026-xvkjvszpp0wh8k9",
-      "name": "Phoenix Mercury vs Atlanta Dream",
-      "home_name": "Phoenix Mercury",
-      "away_name": "Atlanta Dream",
-      "date": "23/08/2026",
-      "time": "09:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/b48443679dd0356cc64abce373f763e1.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
@@ -146,22 +111,6 @@
       "league": "",
       "home_logo": "https://img.gvapi.cc/football/team/b0cba801d31e0086325dc1bd81639be8.png!w80",
       "away_logo": "https://img.gvapi.cc/football/team/f1728750086ff9f311de3e30a810aede.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/penang-vs-dpmm-luc-1600-ngay-23-08-2026-ezk96i32w8es1kn": {
-      "match_url": "https://colatv77.live/truc-tiep/penang-vs-dpmm-luc-1600-ngay-23-08-2026-ezk96i32w8es1kn",
-      "name": "Penang vs Dpmm",
-      "home_name": "Penang",
-      "away_name": "Dpmm",
-      "date": "23/08/2026",
-      "time": "16:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/66b3836d1ca52c4aa07cecac8ae89f35.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/25dae24c4bfc4a6fdd53d090a39821dd.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
