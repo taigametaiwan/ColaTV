@@ -1,19 +1,174 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-25T05:38:44.407716+07:00",
+  "generated_at_vietnam": "2026-08-25T06:31:32.217750+07:00",
   "summary": {
-    "discovered_match_pages": 0,
-    "metadata_pages_read": 0,
+    "discovered_match_pages": 9,
+    "metadata_pages_read": 9,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [],
+    "match_urls": [
+      "https://colatv77.live/truc-tiep/club-atletico-tigre-vs-central-cordoba-sde-luc-0500-ngay-25-08-2026-zrkn6i483e6twql",
+      "https://colatv77.live/truc-tiep/botafogo-rj-vs-athletico-pr-luc-0600-ngay-25-08-2026-63kv9igom0mtx7e",
+      "https://colatv77.live/truc-tiep/everton-vs-u-de-concepcion-luc-0630-ngay-25-08-2026-o07dni5m9nyumkn",
+      "https://colatv77.live/truc-tiep/minnesota-lynx-vs-golden-state-valkyries-luc-0700-ngay-25-08-2026-9gkl6s6ddemtmkx",
+      "https://colatv77.live/truc-tiep/lanus-vs-argentinos-jrs-luc-0715-ngay-25-08-2026-j374oi0rw30cgqo",
+      "https://colatv77.live/truc-tiep/talleres-cordoba-vs-rosario-central-luc-0715-ngay-25-08-2026-m2q15izd4w3ue76",
+      "https://colatv77.live/truc-tiep/tacoma-defiance-vs-sporting-kansas-city-2-luc-0900-ngay-25-08-2026-jr7owip5n0jigq0",
+      "https://colatv77.live/truc-tiep/los-angeles-sparks-vs-atlanta-dream-luc-0900-ngay-25-08-2026-jek3psdwwwrt9qo",
+      "https://colatv77.live/truc-tiep/queensland-lions-sc-vs-north-sunshine-eagles-luc-1630-ngay-25-08-2026-ndqmliwlvdyurkv"
+    ],
     "errors": {}
   },
-  "matches": {},
+  "matches": {
+    "https://colatv77.live/truc-tiep/club-atletico-tigre-vs-central-cordoba-sde-luc-0500-ngay-25-08-2026-zrkn6i483e6twql": {
+      "match_url": "https://colatv77.live/truc-tiep/club-atletico-tigre-vs-central-cordoba-sde-luc-0500-ngay-25-08-2026-zrkn6i483e6twql",
+      "name": "Club Atletico Tigre vs Central Cordoba Sde",
+      "home_name": "Club Atletico Tigre",
+      "away_name": "Central Cordoba Sde",
+      "date": "25/08/2026",
+      "time": "05:00",
+      "league": "",
+      "home_logo": "https://colatv77.live/assets/images/logo.png",
+      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/botafogo-rj-vs-athletico-pr-luc-0600-ngay-25-08-2026-63kv9igom0mtx7e": {
+      "match_url": "https://colatv77.live/truc-tiep/botafogo-rj-vs-athletico-pr-luc-0600-ngay-25-08-2026-63kv9igom0mtx7e",
+      "name": "Botafogo Rj vs Athletico Pr",
+      "home_name": "Botafogo Rj",
+      "away_name": "Athletico Pr",
+      "date": "25/08/2026",
+      "time": "06:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/5d83c47462e5afb6f1add0ad508c300b.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/1b54e9fdbe9c936023c55299da4165b7.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/everton-vs-u-de-concepcion-luc-0630-ngay-25-08-2026-o07dni5m9nyumkn": {
+      "match_url": "https://colatv77.live/truc-tiep/everton-vs-u-de-concepcion-luc-0630-ngay-25-08-2026-o07dni5m9nyumkn",
+      "name": "Everton vs U De Concepcion",
+      "home_name": "Everton",
+      "away_name": "U De Concepcion",
+      "date": "25/08/2026",
+      "time": "06:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/a15d3c8133c8468043cc3ba9ad2dd4e9.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/acd383efbc225b6eb9eaf03b7bd37fbf.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/minnesota-lynx-vs-golden-state-valkyries-luc-0700-ngay-25-08-2026-9gkl6s6ddemtmkx": {
+      "match_url": "https://colatv77.live/truc-tiep/minnesota-lynx-vs-golden-state-valkyries-luc-0700-ngay-25-08-2026-9gkl6s6ddemtmkx",
+      "name": "Minnesota Lynx vs Golden State Valkyries",
+      "home_name": "Minnesota Lynx",
+      "away_name": "Golden State Valkyries",
+      "date": "25/08/2026",
+      "time": "07:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/basketball/team/49fd2772263eaccfe78608a04e5b6f4c.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/lanus-vs-argentinos-jrs-luc-0715-ngay-25-08-2026-j374oi0rw30cgqo": {
+      "match_url": "https://colatv77.live/truc-tiep/lanus-vs-argentinos-jrs-luc-0715-ngay-25-08-2026-j374oi0rw30cgqo",
+      "name": "Lanus vs Argentinos Jrs",
+      "home_name": "Lanus",
+      "away_name": "Argentinos Jrs",
+      "date": "25/08/2026",
+      "time": "07:15",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/5d8f8c8c289dbb2d67203988c8275cbc.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/talleres-cordoba-vs-rosario-central-luc-0715-ngay-25-08-2026-m2q15izd4w3ue76": {
+      "match_url": "https://colatv77.live/truc-tiep/talleres-cordoba-vs-rosario-central-luc-0715-ngay-25-08-2026-m2q15izd4w3ue76",
+      "name": "Talleres Cordoba vs Rosario Central",
+      "home_name": "Talleres Cordoba",
+      "away_name": "Rosario Central",
+      "date": "25/08/2026",
+      "time": "07:15",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/44cb6b8a76b2194e16849eace4743e54.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/925e9365900b159acf4493eb401fdc18.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/tacoma-defiance-vs-sporting-kansas-city-2-luc-0900-ngay-25-08-2026-jr7owip5n0jigq0": {
+      "match_url": "https://colatv77.live/truc-tiep/tacoma-defiance-vs-sporting-kansas-city-2-luc-0900-ngay-25-08-2026-jr7owip5n0jigq0",
+      "name": "Tacoma Defiance vs Sporting Kansas City 2",
+      "home_name": "Tacoma Defiance",
+      "away_name": "Sporting Kansas City 2",
+      "date": "25/08/2026",
+      "time": "09:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/ff0d0739c041ad09fdc99db4c355a932.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/a3c5593b106980072677a648800a11d8.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/los-angeles-sparks-vs-atlanta-dream-luc-0900-ngay-25-08-2026-jek3psdwwwrt9qo": {
+      "match_url": "https://colatv77.live/truc-tiep/los-angeles-sparks-vs-atlanta-dream-luc-0900-ngay-25-08-2026-jek3psdwwwrt9qo",
+      "name": "Los Angeles Sparks vs Atlanta Dream",
+      "home_name": "Los Angeles Sparks",
+      "away_name": "Atlanta Dream",
+      "date": "25/08/2026",
+      "time": "09:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/basketball/team/0a53a0f3a3e739e2f9e57430b0291e28.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/queensland-lions-sc-vs-north-sunshine-eagles-luc-1630-ngay-25-08-2026-ndqmliwlvdyurkv": {
+      "match_url": "https://colatv77.live/truc-tiep/queensland-lions-sc-vs-north-sunshine-eagles-luc-1630-ngay-25-08-2026-ndqmliwlvdyurkv",
+      "name": "Queensland Lions Sc vs North Sunshine Eagles",
+      "home_name": "Queensland Lions Sc",
+      "away_name": "North Sunshine Eagles",
+      "date": "25/08/2026",
+      "time": "16:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/ae6301924eac2e5f0ad32a32ab7355f2.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/56790766004b61c5ea6f82909cb64177.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    }
+  },
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
