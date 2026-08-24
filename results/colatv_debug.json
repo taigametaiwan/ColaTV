@@ -1,123 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-24T18:40:18.322933+07:00",
+  "generated_at_vietnam": "2026-08-24T20:08:56.220526+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv77.live/truc-tiep/sabah-vs-star-city-luc-1915-ngay-24-08-2026-l6kegi824o1bv75",
-      "https://colatv77.live/truc-tiep/kuruvchi-kokand-qoqon-vs-buxoro-fk-luc-2100-ngay-24-08-2026-xvkjoi8014du879",
-      "https://colatv77.live/truc-tiep/kamaz-naberezhnye-chelny-vs-fk-sochi-luc-2130-ngay-24-08-2026-j374oi0x1vwsgqo",
-      "https://colatv77.live/truc-tiep/fk-isloch-minsk-vs-dinamo-minsk-luc-2130-ngay-24-08-2026-g6763i55o68to7r",
-      "https://colatv77.live/truc-tiep/hellas-syrou-vs-marko-luc-2130-ngay-24-08-2026-jr7owip02e4cgq0",
-      "https://colatv77.live/truc-tiep/verona-u20-vs-cesena-u20-luc-2200-ngay-24-08-2026-o17pjiodlz8fy7j"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv77.live/truc-tiep/sabah-vs-star-city-luc-1915-ngay-24-08-2026-l6kegi824o1bv75": {
-      "match_url": "https://colatv77.live/truc-tiep/sabah-vs-star-city-luc-1915-ngay-24-08-2026-l6kegi824o1bv75",
-      "name": "Sabah vs Star City",
-      "home_name": "Sabah",
-      "away_name": "Star City",
-      "date": "24/08/2026",
-      "time": "19:15",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/6793db4ef5830c24f59b143704abadb1.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/cdc4c0ec8848a89a3e16b273a6da6c5b.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/kuruvchi-kokand-qoqon-vs-buxoro-fk-luc-2100-ngay-24-08-2026-xvkjoi8014du879": {
-      "match_url": "https://colatv77.live/truc-tiep/kuruvchi-kokand-qoqon-vs-buxoro-fk-luc-2100-ngay-24-08-2026-xvkjoi8014du879",
-      "name": "Kuruvchi Kokand Qoqon vs Buxoro Fk",
-      "home_name": "Kuruvchi Kokand Qoqon",
-      "away_name": "Buxoro Fk",
-      "date": "24/08/2026",
-      "time": "21:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/e353807a23ce0c8d0d21e091d5f21972.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/fe138ef80fc8e5cb7a6ac6ebe754cd98.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/kamaz-naberezhnye-chelny-vs-fk-sochi-luc-2130-ngay-24-08-2026-j374oi0x1vwsgqo": {
-      "match_url": "https://colatv77.live/truc-tiep/kamaz-naberezhnye-chelny-vs-fk-sochi-luc-2130-ngay-24-08-2026-j374oi0x1vwsgqo",
-      "name": "Kamaz Naberezhnye Chelny vs Fk Sochi",
-      "home_name": "Kamaz Naberezhnye Chelny",
-      "away_name": "Fk Sochi",
-      "date": "24/08/2026",
-      "time": "21:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/447623f3fb6f9de8e536ac71e603aae3.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/77414d59a2d7001928f99ce10477dfb2.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/fk-isloch-minsk-vs-dinamo-minsk-luc-2130-ngay-24-08-2026-g6763i55o68to7r": {
-      "match_url": "https://colatv77.live/truc-tiep/fk-isloch-minsk-vs-dinamo-minsk-luc-2130-ngay-24-08-2026-g6763i55o68to7r",
-      "name": "Fk Isloch Minsk vs Dinamo Minsk",
-      "home_name": "Fk Isloch Minsk",
-      "away_name": "Dinamo Minsk",
-      "date": "24/08/2026",
-      "time": "21:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/aed0f0a3abd1cb4e732b2135a575f227.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/5c20ae162fb41fea64a3b65684f37883.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/hellas-syrou-vs-marko-luc-2130-ngay-24-08-2026-jr7owip02e4cgq0": {
-      "match_url": "https://colatv77.live/truc-tiep/hellas-syrou-vs-marko-luc-2130-ngay-24-08-2026-jr7owip02e4cgq0",
-      "name": "Hellas Syrou vs Marko",
-      "home_name": "Hellas Syrou",
-      "away_name": "Marko",
-      "date": "24/08/2026",
-      "time": "21:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/7f973e3042699793337abb2ff36ee17c.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/8c485d8f7c2de5f04e99da8440453bc7.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/verona-u20-vs-cesena-u20-luc-2200-ngay-24-08-2026-o17pjiodlz8fy7j": {
-      "match_url": "https://colatv77.live/truc-tiep/verona-u20-vs-cesena-u20-luc-2200-ngay-24-08-2026-o17pjiodlz8fy7j",
-      "name": "Verona U20 vs Cesena U20",
-      "home_name": "Verona U20",
-      "away_name": "Cesena U20",
-      "date": "24/08/2026",
-      "time": "22:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/88547bf8838189ebb71e74178268b45e.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/87253ad073f688e6f06b92c663eec68b.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
