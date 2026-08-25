@@ -1,123 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-26T01:53:52.131000+07:00",
+  "generated_at_vietnam": "2026-08-26T02:40:50.180618+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv77.live/truc-tiep/al-ettifaq-vs-al-nassr-luc-0100-ngay-26-08-2026-vmqy9iv19mwugk9",
-      "https://colatv77.live/truc-tiep/cardiff-city-vs-norwich-city-luc-0100-ngay-26-08-2026-ezk96i38rneb1kn",
-      "https://colatv77.live/truc-tiep/sabah-fc-vs-hapoel-beer-sheva-luc-2345-ngay-25-08-2026-8lk2dir2y60iz73",
-      "https://colatv77.live/truc-tiep/ipswich-town-vs-leicester-city-luc-0145-ngay-26-08-2026-oj7x9ix5jrnh47g",
-      "https://colatv77.live/truc-tiep/sheffield-wednesday-vs-wolverhampton-wanderers-luc-0145-ngay-26-08-2026-9gklzi18e0wcm7x",
-      "https://colatv77.live/truc-tiep/southampton-vs-west-ham-united-luc-0145-ngay-26-08-2026-ndkz6i3wyzytxq3"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv77.live/truc-tiep/al-ettifaq-vs-al-nassr-luc-0100-ngay-26-08-2026-vmqy9iv19mwugk9": {
-      "match_url": "https://colatv77.live/truc-tiep/al-ettifaq-vs-al-nassr-luc-0100-ngay-26-08-2026-vmqy9iv19mwugk9",
-      "name": "Al Ettifaq vs Al Nassr",
-      "home_name": "Al Ettifaq",
-      "away_name": "Al Nassr",
-      "date": "26/08/2026",
-      "time": "01:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/381dd852484f06350b771097612cf08e.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/cardiff-city-vs-norwich-city-luc-0100-ngay-26-08-2026-ezk96i38rneb1kn": {
-      "match_url": "https://colatv77.live/truc-tiep/cardiff-city-vs-norwich-city-luc-0100-ngay-26-08-2026-ezk96i38rneb1kn",
-      "name": "Cardiff City vs Norwich City",
-      "home_name": "Cardiff City",
-      "away_name": "Norwich City",
-      "date": "26/08/2026",
-      "time": "01:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/96e93477bd9f240151e87ec723cdf945.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/86e6dba4cdc98b1dda1d25ea7d9eebfe.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/sabah-fc-vs-hapoel-beer-sheva-luc-2345-ngay-25-08-2026-8lk2dir2y60iz73": {
-      "match_url": "https://colatv77.live/truc-tiep/sabah-fc-vs-hapoel-beer-sheva-luc-2345-ngay-25-08-2026-8lk2dir2y60iz73",
-      "name": "Sabah Fc vs Hapoel Beer Sheva",
-      "home_name": "Sabah Fc",
-      "away_name": "Hapoel Beer Sheva",
-      "date": "25/08/2026",
-      "time": "23:45",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/44cc5a54d7859b9d062a6f56a39819f8.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/8ec7fbdf73ede9a83738f1382bcc1353.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/ipswich-town-vs-leicester-city-luc-0145-ngay-26-08-2026-oj7x9ix5jrnh47g": {
-      "match_url": "https://colatv77.live/truc-tiep/ipswich-town-vs-leicester-city-luc-0145-ngay-26-08-2026-oj7x9ix5jrnh47g",
-      "name": "Ipswich Town vs Leicester City",
-      "home_name": "Ipswich Town",
-      "away_name": "Leicester City",
-      "date": "26/08/2026",
-      "time": "01:45",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/cec3eaaa5271c1f2f036469593ecbcd8.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/37aec5cf94aa5fa74a012b5413d52d06.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/sheffield-wednesday-vs-wolverhampton-wanderers-luc-0145-ngay-26-08-2026-9gklzi18e0wcm7x": {
-      "match_url": "https://colatv77.live/truc-tiep/sheffield-wednesday-vs-wolverhampton-wanderers-luc-0145-ngay-26-08-2026-9gklzi18e0wcm7x",
-      "name": "Sheffield Wednesday vs Wolverhampton Wanderers",
-      "home_name": "Sheffield Wednesday",
-      "away_name": "Wolverhampton Wanderers",
-      "date": "26/08/2026",
-      "time": "01:45",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/967493e73d52e5d6f1dda29b7b76eaa2.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/5759932ca2512c6701d86dfbd58380a7.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/southampton-vs-west-ham-united-luc-0145-ngay-26-08-2026-ndkz6i3wyzytxq3": {
-      "match_url": "https://colatv77.live/truc-tiep/southampton-vs-west-ham-united-luc-0145-ngay-26-08-2026-ndkz6i3wyzytxq3",
-      "name": "Southampton vs West Ham United",
-      "home_name": "Southampton",
-      "away_name": "West Ham United",
-      "date": "26/08/2026",
-      "time": "01:45",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/4623d3fa1cda20d1f289dce9dc803527.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/d71ebda5c7fbca9093a1c2978c46f619.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
