@@ -1,123 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-26T06:34:16.922406+07:00",
+  "generated_at_vietnam": "2026-08-26T06:55:53.842826+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv77.live/truc-tiep/deportivo-madryn-vs-godoy-cruz-luc-0500-ngay-26-08-2026-527r3i4wl3ds47e",
-      "https://colatv77.live/truc-tiep/atletico-clube-goianiense-vs-botafogo-luc-0530-ngay-26-08-2026-527r3i44vpys47e",
-      "https://colatv77.live/truc-tiep/connecticut-sun-vs-chicago-sky-luc-0600-ngay-26-08-2026-o07dzsmzzn5cmkn",
-      "https://colatv77.live/truc-tiep/dallas-wings-vs-portland-fire-luc-0700-ngay-26-08-2026-ezk90sp11w4s1kn",
-      "https://colatv77.live/truc-tiep/cruzeiro-vs-atletico-mineiro-luc-0700-ngay-26-08-2026-xvkjoi8e54ou879",
-      "https://colatv77.live/truc-tiep/monterrey-vs-chicago-fire-luc-0730-ngay-26-08-2026-ndqmliwlvnxfrkv"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv77.live/truc-tiep/deportivo-madryn-vs-godoy-cruz-luc-0500-ngay-26-08-2026-527r3i4wl3ds47e": {
-      "match_url": "https://colatv77.live/truc-tiep/deportivo-madryn-vs-godoy-cruz-luc-0500-ngay-26-08-2026-527r3i4wl3ds47e",
-      "name": "Deportivo Madryn vs Godoy Cruz",
-      "home_name": "Deportivo Madryn",
-      "away_name": "Godoy Cruz",
-      "date": "26/08/2026",
-      "time": "05:00",
-      "league": "",
-      "home_logo": "https://colatv77.live/assets/images/logo.png",
-      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/atletico-clube-goianiense-vs-botafogo-luc-0530-ngay-26-08-2026-527r3i44vpys47e": {
-      "match_url": "https://colatv77.live/truc-tiep/atletico-clube-goianiense-vs-botafogo-luc-0530-ngay-26-08-2026-527r3i44vpys47e",
-      "name": "Atletico Clube Goianiense vs Botafogo",
-      "home_name": "Atletico Clube Goianiense",
-      "away_name": "Botafogo",
-      "date": "26/08/2026",
-      "time": "05:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/b34cb4a1d0579ac2df94f7d9abea2ae7.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/a632c7cdcfb1f9898d77898dd4ea00c8.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/connecticut-sun-vs-chicago-sky-luc-0600-ngay-26-08-2026-o07dzsmzzn5cmkn": {
-      "match_url": "https://colatv77.live/truc-tiep/connecticut-sun-vs-chicago-sky-luc-0600-ngay-26-08-2026-o07dzsmzzn5cmkn",
-      "name": "Connecticut Sun vs Chicago Sky",
-      "home_name": "Connecticut Sun",
-      "away_name": "Chicago Sky",
-      "date": "26/08/2026",
-      "time": "06:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/616c37f8e35a1c33a4766dbc86c0ca3a.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/96c0adc8a98bb466bfa539f11ce8ae04.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/dallas-wings-vs-portland-fire-luc-0700-ngay-26-08-2026-ezk90sp11w4s1kn": {
-      "match_url": "https://colatv77.live/truc-tiep/dallas-wings-vs-portland-fire-luc-0700-ngay-26-08-2026-ezk90sp11w4s1kn",
-      "name": "Dallas Wings vs Portland Fire",
-      "home_name": "Dallas Wings",
-      "away_name": "Portland Fire",
-      "date": "26/08/2026",
-      "time": "07:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/58709b9e7964e03c28ebe777ef823eca.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/43b63f097099b8178eba0e6f9388cabc.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/cruzeiro-vs-atletico-mineiro-luc-0700-ngay-26-08-2026-xvkjoi8e54ou879": {
-      "match_url": "https://colatv77.live/truc-tiep/cruzeiro-vs-atletico-mineiro-luc-0700-ngay-26-08-2026-xvkjoi8e54ou879",
-      "name": "Cruzeiro vs Atletico Mineiro",
-      "home_name": "Cruzeiro",
-      "away_name": "Atletico Mineiro",
-      "date": "26/08/2026",
-      "time": "07:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/b1cac6380900d22bdb0d31763c658434.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/079e86cebd6511ce807cc6073a3e26ee.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/monterrey-vs-chicago-fire-luc-0730-ngay-26-08-2026-ndqmliwlvnxfrkv": {
-      "match_url": "https://colatv77.live/truc-tiep/monterrey-vs-chicago-fire-luc-0730-ngay-26-08-2026-ndqmliwlvnxfrkv",
-      "name": "Monterrey vs Chicago Fire",
-      "home_name": "Monterrey",
-      "away_name": "Chicago Fire",
-      "date": "26/08/2026",
-      "time": "07:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/5c3f819a35454f424d85df5757650f8b.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/929fe1b737e458218cbe8ce00a55a05c.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
