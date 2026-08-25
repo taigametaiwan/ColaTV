@@ -1,19 +1,123 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-25T08:48:03.493494+07:00",
+  "generated_at_vietnam": "2026-08-25T10:09:38.042938+07:00",
   "summary": {
-    "discovered_match_pages": 0,
-    "metadata_pages_read": 0,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [],
+    "match_urls": [
+      "https://colatv77.live/truc-tiep/tacoma-defiance-vs-sporting-kansas-city-2-luc-0900-ngay-25-08-2026-jr7owip5n0jigq0",
+      "https://colatv77.live/truc-tiep/los-angeles-sparks-w-vs-atlanta-dream-w-luc-0900-ngay-25-08-2026-jek3psdwwwrt9qo",
+      "https://colatv77.live/truc-tiep/queensland-lions-sc-vs-north-sunshine-eagles-luc-1630-ngay-25-08-2026-ndqmliwlvdyurkv",
+      "https://colatv77.live/truc-tiep/estoril-u23-vs-moreirense-u23-luc-1700-ngay-25-08-2026-63kv9igyr1eix7e",
+      "https://colatv77.live/truc-tiep/seoul-vs-bucheon-fc-1995-luc-1730-ngay-25-08-2026-34kgmiozy4naeko",
+      "https://colatv77.live/truc-tiep/jeju-utd-vs-pohang-steelers-luc-1730-ngay-25-08-2026-ndqmliw2z20srkv"
+    ],
     "errors": {}
   },
-  "matches": {},
+  "matches": {
+    "https://colatv77.live/truc-tiep/tacoma-defiance-vs-sporting-kansas-city-2-luc-0900-ngay-25-08-2026-jr7owip5n0jigq0": {
+      "match_url": "https://colatv77.live/truc-tiep/tacoma-defiance-vs-sporting-kansas-city-2-luc-0900-ngay-25-08-2026-jr7owip5n0jigq0",
+      "name": "Tacoma Defiance vs Sporting Kansas City 2",
+      "home_name": "Tacoma Defiance",
+      "away_name": "Sporting Kansas City 2",
+      "date": "25/08/2026",
+      "time": "09:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/ff0d0739c041ad09fdc99db4c355a932.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/a3c5593b106980072677a648800a11d8.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/los-angeles-sparks-w-vs-atlanta-dream-w-luc-0900-ngay-25-08-2026-jek3psdwwwrt9qo": {
+      "match_url": "https://colatv77.live/truc-tiep/los-angeles-sparks-w-vs-atlanta-dream-w-luc-0900-ngay-25-08-2026-jek3psdwwwrt9qo",
+      "name": "Los Angeles Sparks W vs Atlanta Dream W",
+      "home_name": "Los Angeles Sparks W",
+      "away_name": "Atlanta Dream W",
+      "date": "25/08/2026",
+      "time": "09:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/basketball/team/0a53a0f3a3e739e2f9e57430b0291e28.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/queensland-lions-sc-vs-north-sunshine-eagles-luc-1630-ngay-25-08-2026-ndqmliwlvdyurkv": {
+      "match_url": "https://colatv77.live/truc-tiep/queensland-lions-sc-vs-north-sunshine-eagles-luc-1630-ngay-25-08-2026-ndqmliwlvdyurkv",
+      "name": "Queensland Lions Sc vs North Sunshine Eagles",
+      "home_name": "Queensland Lions Sc",
+      "away_name": "North Sunshine Eagles",
+      "date": "25/08/2026",
+      "time": "16:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/ae6301924eac2e5f0ad32a32ab7355f2.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/56790766004b61c5ea6f82909cb64177.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/estoril-u23-vs-moreirense-u23-luc-1700-ngay-25-08-2026-63kv9igyr1eix7e": {
+      "match_url": "https://colatv77.live/truc-tiep/estoril-u23-vs-moreirense-u23-luc-1700-ngay-25-08-2026-63kv9igyr1eix7e",
+      "name": "Estoril U23 vs Moreirense U23",
+      "home_name": "Estoril U23",
+      "away_name": "Moreirense U23",
+      "date": "25/08/2026",
+      "time": "17:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/32939cf38aa70bf3de1c06833da6bc50.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/d467c3d2a3caf4983596d48e7aa30903.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/seoul-vs-bucheon-fc-1995-luc-1730-ngay-25-08-2026-34kgmiozy4naeko": {
+      "match_url": "https://colatv77.live/truc-tiep/seoul-vs-bucheon-fc-1995-luc-1730-ngay-25-08-2026-34kgmiozy4naeko",
+      "name": "Seoul vs Bucheon Fc 1995",
+      "home_name": "Seoul",
+      "away_name": "Bucheon Fc 1995",
+      "date": "25/08/2026",
+      "time": "17:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/ad010af729c420626d1865ad744168d3.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/640f8c62cb294e1cc308a44ed2a62891.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/jeju-utd-vs-pohang-steelers-luc-1730-ngay-25-08-2026-ndqmliw2z20srkv": {
+      "match_url": "https://colatv77.live/truc-tiep/jeju-utd-vs-pohang-steelers-luc-1730-ngay-25-08-2026-ndqmliw2z20srkv",
+      "name": "Jeju Utd vs Pohang Steelers",
+      "home_name": "Jeju Utd",
+      "away_name": "Pohang Steelers",
+      "date": "25/08/2026",
+      "time": "17:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/2d2abe914435bb9b7140cf2154c50de9.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/6f05c460789939ac83282bd0686446f1.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    }
+  },
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
