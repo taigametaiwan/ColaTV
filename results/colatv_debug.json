@@ -1,19 +1,174 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-26T20:11:55.141234+07:00",
+  "generated_at_vietnam": "2026-08-26T21:22:37.019853+07:00",
   "summary": {
-    "discovered_match_pages": 0,
-    "metadata_pages_read": 0,
+    "discovered_match_pages": 9,
+    "metadata_pages_read": 9,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [],
+    "match_urls": [
+      "https://colatv77.live/truc-tiep/viet-nam-vs-thai-lan-luc-2000-ngay-26-08-2026-g6763i513y9to7r",
+      "https://colatv77.live/truc-tiep/kuala-lumpur-city-fc-vs-kuching-city-fc-luc-2000-ngay-26-08-2026-j374oi0g623sgqo",
+      "https://colatv77.live/truc-tiep/smouha-vs-asyut-petroleum-luc-2100-ngay-26-08-2026-edq09il3jlzceqx",
+      "https://colatv77.live/truc-tiep/druzhba-maykop-vs-neftyanik-izberbash-luc-2200-ngay-26-08-2026-m2q15izj084te76",
+      "https://colatv77.live/truc-tiep/wolfsburg-nu-vs-inter-nu-luc-2300-ngay-26-08-2026-xvkjoi84pdws879",
+      "https://colatv77.live/truc-tiep/al-faisaly-harmah-vs-al-fateh-luc-2300-ngay-26-08-2026-jr7owipg8vrugq0",
+      "https://colatv77.live/truc-tiep/al-zulfi-vs-al-wehda-luc-2305-ngay-26-08-2026-34kgmioljz6seko",
+      "https://colatv77.live/truc-tiep/rapid-wien-vs-hearts-luc-2345-ngay-26-08-2026-ezk96i3863mh1kn",
+      "https://colatv77.live/truc-tiep/eintracht-frankfurt-nu-vs-paris-saint-germain-nu-luc-0000-ngay-27-08-2026-vmqy9iv45decgk9"
+    ],
     "errors": {}
   },
-  "matches": {},
+  "matches": {
+    "https://colatv77.live/truc-tiep/viet-nam-vs-thai-lan-luc-2000-ngay-26-08-2026-g6763i513y9to7r": {
+      "match_url": "https://colatv77.live/truc-tiep/viet-nam-vs-thai-lan-luc-2000-ngay-26-08-2026-g6763i513y9to7r",
+      "name": "Viet Nam vs Thai Lan",
+      "home_name": "Viet Nam",
+      "away_name": "Thai Lan",
+      "date": "26/08/2026",
+      "time": "20:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/kuala-lumpur-city-fc-vs-kuching-city-fc-luc-2000-ngay-26-08-2026-j374oi0g623sgqo": {
+      "match_url": "https://colatv77.live/truc-tiep/kuala-lumpur-city-fc-vs-kuching-city-fc-luc-2000-ngay-26-08-2026-j374oi0g623sgqo",
+      "name": "Kuala Lumpur City Fc vs Kuching City Fc",
+      "home_name": "Kuala Lumpur City Fc",
+      "away_name": "Kuching City Fc",
+      "date": "26/08/2026",
+      "time": "20:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/2bf4316056c6dfba58002657790731a9.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/81f5727743f8759ae7a99b8d7f2557e3.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/smouha-vs-asyut-petroleum-luc-2100-ngay-26-08-2026-edq09il3jlzceqx": {
+      "match_url": "https://colatv77.live/truc-tiep/smouha-vs-asyut-petroleum-luc-2100-ngay-26-08-2026-edq09il3jlzceqx",
+      "name": "Smouha vs Asyut Petroleum",
+      "home_name": "Smouha",
+      "away_name": "Asyut Petroleum",
+      "date": "26/08/2026",
+      "time": "21:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/2859c6dc44290631fe151b7d306dfde6.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/8ae657d992b70843447d0e50108cbf37.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/druzhba-maykop-vs-neftyanik-izberbash-luc-2200-ngay-26-08-2026-m2q15izj084te76": {
+      "match_url": "https://colatv77.live/truc-tiep/druzhba-maykop-vs-neftyanik-izberbash-luc-2200-ngay-26-08-2026-m2q15izj084te76",
+      "name": "Druzhba Maykop vs Neftyanik Izberbash",
+      "home_name": "Druzhba Maykop",
+      "away_name": "Neftyanik Izberbash",
+      "date": "26/08/2026",
+      "time": "22:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/0e3ed5f60153ea8c32422ab2148d18ee.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/d2d5207e13d276a70ff4ed5461852ee8.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/wolfsburg-nu-vs-inter-nu-luc-2300-ngay-26-08-2026-xvkjoi84pdws879": {
+      "match_url": "https://colatv77.live/truc-tiep/wolfsburg-nu-vs-inter-nu-luc-2300-ngay-26-08-2026-xvkjoi84pdws879",
+      "name": "Wolfsburg Nu vs Inter Nu",
+      "home_name": "Wolfsburg Nu",
+      "away_name": "Inter Nu",
+      "date": "26/08/2026",
+      "time": "23:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/03645e9c1d7fd2c48705622f52fd901e.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/ece43223dd5ca95c06190d491a8238e1.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/al-faisaly-harmah-vs-al-fateh-luc-2300-ngay-26-08-2026-jr7owipg8vrugq0": {
+      "match_url": "https://colatv77.live/truc-tiep/al-faisaly-harmah-vs-al-fateh-luc-2300-ngay-26-08-2026-jr7owipg8vrugq0",
+      "name": "Al Faisaly Harmah vs Al Fateh",
+      "home_name": "Al Faisaly Harmah",
+      "away_name": "Al Fateh",
+      "date": "26/08/2026",
+      "time": "23:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/4e9f55c1006ca24b2b535054a52187e8.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/625f099ab7eeec5bde434ec68723fdff.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/al-zulfi-vs-al-wehda-luc-2305-ngay-26-08-2026-34kgmioljz6seko": {
+      "match_url": "https://colatv77.live/truc-tiep/al-zulfi-vs-al-wehda-luc-2305-ngay-26-08-2026-34kgmioljz6seko",
+      "name": "Al Zulfi vs Al Wehda",
+      "home_name": "Al Zulfi",
+      "away_name": "Al Wehda",
+      "date": "26/08/2026",
+      "time": "23:05",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/13b5359a749536d5adb6ef17cd675219.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/b510505e58cd138df949e152ab1c85f4.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/rapid-wien-vs-hearts-luc-2345-ngay-26-08-2026-ezk96i3863mh1kn": {
+      "match_url": "https://colatv77.live/truc-tiep/rapid-wien-vs-hearts-luc-2345-ngay-26-08-2026-ezk96i3863mh1kn",
+      "name": "Rapid Wien vs Hearts",
+      "home_name": "Rapid Wien",
+      "away_name": "Hearts",
+      "date": "26/08/2026",
+      "time": "23:45",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/649f785bd0a18824c53867bd056990e4.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/eaf06359f42dcf69c7ac660731511239.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/eintracht-frankfurt-nu-vs-paris-saint-germain-nu-luc-0000-ngay-27-08-2026-vmqy9iv45decgk9": {
+      "match_url": "https://colatv77.live/truc-tiep/eintracht-frankfurt-nu-vs-paris-saint-germain-nu-luc-0000-ngay-27-08-2026-vmqy9iv45decgk9",
+      "name": "Eintracht Frankfurt Nu vs Paris Saint Germain Nu",
+      "home_name": "Eintracht Frankfurt Nu",
+      "away_name": "Paris Saint Germain Nu",
+      "date": "27/08/2026",
+      "time": "00:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/9ebd79de8504a6573dce8c419ff16b10.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/9b531be11cb41d4f7999fc91a943c75f.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    }
+  },
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
