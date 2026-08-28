@@ -1,123 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-08-28T18:16:32.165218+07:00",
+  "generated_at_vietnam": "2026-08-29T04:31:10.710360+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv77.live/truc-tiep/ansan-greeners-vs-clb-daegu-luc-1730-ngay-28-08-2026-jek33i8v90wt9ko",
-      "https://colatv77.live/truc-tiep/jeonnam-dragons-vs-cheonan-city-luc-1730-ngay-28-08-2026-o07dni5w299amkn",
-      "https://colatv77.live/truc-tiep/mong-co-vs-vietnam-luc-1800-ngay-28-08-2026-g676jslz4xziokr",
-      "https://colatv77.live/truc-tiep/sabah-vs-penang-luc-1830-ngay-28-08-2026-xvkjoi8w14vt879",
-      "https://colatv77.live/truc-tiep/shanghai-shenhua-vs-shandong-taishan-luc-1835-ngay-28-08-2026-ndqmliww82jsrkv",
-      "https://colatv77.live/truc-tiep/cau-lac-bo-bong-da-zhixing-dai-lien-vs-beijing-guoan-luc-1835-ngay-28-08-2026-527r3i44lwos47e"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv77.live/truc-tiep/ansan-greeners-vs-clb-daegu-luc-1730-ngay-28-08-2026-jek33i8v90wt9ko": {
-      "match_url": "https://colatv77.live/truc-tiep/ansan-greeners-vs-clb-daegu-luc-1730-ngay-28-08-2026-jek33i8v90wt9ko",
-      "name": "Ansan Greeners vs Clb Daegu",
-      "home_name": "Ansan Greeners",
-      "away_name": "Clb Daegu",
-      "date": "28/08/2026",
-      "time": "17:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/b16d13189a2156cb6809c04f3feaf66e.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/6a0f09e169d0b7f674bd393e530a21f2.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/jeonnam-dragons-vs-cheonan-city-luc-1730-ngay-28-08-2026-o07dni5w299amkn": {
-      "match_url": "https://colatv77.live/truc-tiep/jeonnam-dragons-vs-cheonan-city-luc-1730-ngay-28-08-2026-o07dni5w299amkn",
-      "name": "Jeonnam Dragons vs Cheonan City",
-      "home_name": "Jeonnam Dragons",
-      "away_name": "Cheonan City",
-      "date": "28/08/2026",
-      "time": "17:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/3f4d8a34d2f0b65f0715dc09fd8a9d1b.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/2d6b3326015c7b302a7bdda443068e54.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/mong-co-vs-vietnam-luc-1800-ngay-28-08-2026-g676jslz4xziokr": {
-      "match_url": "https://colatv77.live/truc-tiep/mong-co-vs-vietnam-luc-1800-ngay-28-08-2026-g676jslz4xziokr",
-      "name": "Mong Co vs Vietnam",
-      "home_name": "Mong Co",
-      "away_name": "Vietnam",
-      "date": "28/08/2026",
-      "time": "18:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/9f8bb56fe64efcf7f3d1daffb5b8dd8c.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/a10caeb4c8734e5288b38265c755c592.jpg!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/sabah-vs-penang-luc-1830-ngay-28-08-2026-xvkjoi8w14vt879": {
-      "match_url": "https://colatv77.live/truc-tiep/sabah-vs-penang-luc-1830-ngay-28-08-2026-xvkjoi8w14vt879",
-      "name": "Sabah vs Penang",
-      "home_name": "Sabah",
-      "away_name": "Penang",
-      "date": "28/08/2026",
-      "time": "18:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/6793db4ef5830c24f59b143704abadb1.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/66b3836d1ca52c4aa07cecac8ae89f35.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/shanghai-shenhua-vs-shandong-taishan-luc-1835-ngay-28-08-2026-ndqmliww82jsrkv": {
-      "match_url": "https://colatv77.live/truc-tiep/shanghai-shenhua-vs-shandong-taishan-luc-1835-ngay-28-08-2026-ndqmliww82jsrkv",
-      "name": "Shanghai Shenhua vs Shandong Taishan",
-      "home_name": "Shanghai Shenhua",
-      "away_name": "Shandong Taishan",
-      "date": "28/08/2026",
-      "time": "18:35",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/e8327d4681b4a73c83be9fe087b30721.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/85c080cf02a7161687ddd5b5800dc303.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/cau-lac-bo-bong-da-zhixing-dai-lien-vs-beijing-guoan-luc-1835-ngay-28-08-2026-527r3i44lwos47e": {
-      "match_url": "https://colatv77.live/truc-tiep/cau-lac-bo-bong-da-zhixing-dai-lien-vs-beijing-guoan-luc-1835-ngay-28-08-2026-527r3i44lwos47e",
-      "name": "Cau Lac Bo Bong Da Zhixing Dai Lien vs Beijing Guoan",
-      "home_name": "Cau Lac Bo Bong Da Zhixing Dai Lien",
-      "away_name": "Beijing Guoan",
-      "date": "28/08/2026",
-      "time": "18:35",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/0e5467034917e26c6e60a7162711c150.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/e7af298237651113dfeafc32ff734a24.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
