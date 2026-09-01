@@ -1,6 +1,6 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-09-02T04:18:11.228953+07:00",
+  "generated_at_vietnam": "2026-09-02T06:32:40.784974+07:00",
   "summary": {
     "discovered_match_pages": 6,
     "metadata_pages_read": 6,
@@ -45,8 +45,8 @@
       "date": "02/09/2026",
       "time": "06:30",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/c546591ee334f23d5d2a1722a9750fb5.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/9a91a83ab703c7c9d26070d9d3df63f3.png!w80",
+      "home_logo": "https://colatv77.live/assets/images/logo.png",
+      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
