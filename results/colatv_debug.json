@@ -1,123 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-09-04T00:49:06.618348+07:00",
+  "generated_at_vietnam": "2026-09-04T03:56:54.881990+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv77.live/truc-tiep/clb-al-fayha-vs-al-kholood-luc-2255-ngay-03-09-2026-vrqwni4d5z1c4qn",
-      "https://colatv77.live/truc-tiep/neom-sports-club-vs-al-khaleej-luc-2330-ngay-03-09-2026-ndqmliwengxarkv",
-      "https://colatv77.live/truc-tiep/clb-palermo-vs-mantova-luc-2300-ngay-03-09-2026-l6kegi8j5dlhv75",
-      "https://colatv77.live/truc-tiep/al-sailiya-vs-al-arabi-luc-2315-ngay-03-09-2026-m2q15izyev0ue76",
-      "https://colatv77.live/truc-tiep/dynamo-moscow-vs-akhmat-grozny-luc-2330-ngay-03-09-2026-34kgmio60m8teko",
-      "https://colatv77.live/truc-tiep/mjallby-vs-djurgarden-luc-0000-ngay-04-09-2026-9gklzi163mntm7x"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv77.live/truc-tiep/clb-al-fayha-vs-al-kholood-luc-2255-ngay-03-09-2026-vrqwni4d5z1c4qn": {
-      "match_url": "https://colatv77.live/truc-tiep/clb-al-fayha-vs-al-kholood-luc-2255-ngay-03-09-2026-vrqwni4d5z1c4qn",
-      "name": "Clb Al Fayha vs Al Kholood",
-      "home_name": "Clb Al Fayha",
-      "away_name": "Al Kholood",
-      "date": "03/09/2026",
-      "time": "22:55",
-      "league": "",
-      "home_logo": "https://colatv77.live/assets/images/logo.png",
-      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/neom-sports-club-vs-al-khaleej-luc-2330-ngay-03-09-2026-ndqmliwengxarkv": {
-      "match_url": "https://colatv77.live/truc-tiep/neom-sports-club-vs-al-khaleej-luc-2330-ngay-03-09-2026-ndqmliwengxarkv",
-      "name": "Neom Sports Club vs Al Khaleej",
-      "home_name": "Neom Sports Club",
-      "away_name": "Al Khaleej",
-      "date": "03/09/2026",
-      "time": "23:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/e5516d35314acec9169f33834a199842.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/6d48cbd483dee74ed9aef387bb082d64.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/clb-palermo-vs-mantova-luc-2300-ngay-03-09-2026-l6kegi8j5dlhv75": {
-      "match_url": "https://colatv77.live/truc-tiep/clb-palermo-vs-mantova-luc-2300-ngay-03-09-2026-l6kegi8j5dlhv75",
-      "name": "Clb Palermo vs Mantova",
-      "home_name": "Clb Palermo",
-      "away_name": "Mantova",
-      "date": "03/09/2026",
-      "time": "23:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/7254916ff6c50332b4e1b570068f2825.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/adf79e68db478e32f1a2b2fe39df4668.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/al-sailiya-vs-al-arabi-luc-2315-ngay-03-09-2026-m2q15izyev0ue76": {
-      "match_url": "https://colatv77.live/truc-tiep/al-sailiya-vs-al-arabi-luc-2315-ngay-03-09-2026-m2q15izyev0ue76",
-      "name": "Al Sailiya vs Al Arabi",
-      "home_name": "Al Sailiya",
-      "away_name": "Al Arabi",
-      "date": "03/09/2026",
-      "time": "23:15",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/6b3994cecbf1c9c1fc4e1eb2ee01a6cf.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/00bb4a98ec1224af879bd139519ce3b7.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/dynamo-moscow-vs-akhmat-grozny-luc-2330-ngay-03-09-2026-34kgmio60m8teko": {
-      "match_url": "https://colatv77.live/truc-tiep/dynamo-moscow-vs-akhmat-grozny-luc-2330-ngay-03-09-2026-34kgmio60m8teko",
-      "name": "Dynamo Moscow vs Akhmat Grozny",
-      "home_name": "Dynamo Moscow",
-      "away_name": "Akhmat Grozny",
-      "date": "03/09/2026",
-      "time": "23:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/4f2e51a4694f68360a19648b651b30ca.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/dfb637acd761b88a27e200393e29319f.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/mjallby-vs-djurgarden-luc-0000-ngay-04-09-2026-9gklzi163mntm7x": {
-      "match_url": "https://colatv77.live/truc-tiep/mjallby-vs-djurgarden-luc-0000-ngay-04-09-2026-9gklzi163mntm7x",
-      "name": "Mjallby vs Djurgarden",
-      "home_name": "Mjallby",
-      "away_name": "Djurgarden",
-      "date": "04/09/2026",
-      "time": "00:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/0ffb7ffab7e1720c91427e75b4a50ace.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/5d15445b5ebaaad062065f158f1d1fd8.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
