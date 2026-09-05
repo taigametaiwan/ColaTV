@@ -1,6 +1,6 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-09-06T01:59:55.319051+07:00",
+  "generated_at_vietnam": "2026-09-06T04:09:45.945381+07:00",
   "summary": {
     "discovered_match_pages": 12,
     "metadata_pages_read": 12,
@@ -11,150 +11,22 @@
   "discovery": {
     "start_url": "https://colatv77.live/",
     "match_urls": [
-      "https://colatv77.live/truc-tiep/al-ittihad-fc-vs-al-nassr-luc-0100-ngay-06-09-2026-zrkn6i4yg30hwql",
-      "https://colatv77.live/truc-tiep/villarreal-vs-dep-la-coruna-luc-0200-ngay-06-09-2026-vrqwni4j61zt4qn",
-      "https://colatv77.live/truc-tiep/as-roma-vs-atalanta-bc-luc-0145-ngay-06-09-2026-wv78xivzpg8iokr",
-      "https://colatv77.live/truc-tiep/ogc-nice-vs-le-mans-luc-0145-ngay-06-09-2026-69759ige590cgk2",
-      "https://colatv77.live/truc-tiep/alverca-vs-braga-luc-0000-ngay-06-09-2026-jek33i80oewu9ko",
-      "https://colatv77.live/truc-tiep/phap-w-vs-han-quoc-w-luc-0145-ngay-06-09-2026-xvkjvszjv3pc8k9",
-      "https://colatv77.live/truc-tiep/le-havre-vs-stade-brestois-29-luc-0145-ngay-06-09-2026-527r3i4xy2ja47e",
-      "https://colatv77.live/truc-tiep/clb-swansea-city-vs-clb-wrexham-luc-0200-ngay-06-09-2026-8lk2dirloz6tz73",
       "https://colatv77.live/truc-tiep/sporting-vs-clb-nacional-luc-0230-ngay-06-09-2026-l6kegi8dpgziv75",
       "https://colatv77.live/truc-tiep/clb-sao-paulo-vs-clb-atletico-mineiro-luc-0430-ngay-06-09-2026-edq09ildmg3ueqx",
       "https://colatv77.live/truc-tiep/clb-san-lorenzo-vs-talleres-cordoba-luc-0500-ngay-06-09-2026-jr7owipwm3etgq0",
-      "https://colatv77.live/truc-tiep/atletico-san-luis-vs-chivas-guadalajara-luc-0600-ngay-06-09-2026-ezk96i3r649u1kn"
+      "https://colatv77.live/truc-tiep/atletico-san-luis-vs-chivas-guadalajara-luc-0600-ngay-06-09-2026-ezk96i3r649u1kn",
+      "https://colatv77.live/truc-tiep/inter-miami-vs-atlanta-utd-luc-0630-ngay-06-09-2026-xvkjoi8n3rvt879",
+      "https://colatv77.live/truc-tiep/charlotte-fc-vs-houston-dynamo-luc-0630-ngay-06-09-2026-g6763i5rmn4co7r",
+      "https://colatv77.live/truc-tiep/clb-toronto-vs-clb-chicago-fire-luc-0630-ngay-06-09-2026-oj7x9ix021nu47g",
+      "https://colatv77.live/truc-tiep/fluminense-rj-vs-vasco-luc-0700-ngay-06-09-2026-vrqwni49o8wi4qn",
+      "https://colatv77.live/truc-tiep/clb-velez-sarsfield-vs-clb-estudiantes-la-plata-luc-0715-ngay-06-09-2026-ndkz6i3v6lzhxq3",
+      "https://colatv77.live/truc-tiep/austin-fc-vs-san-jose-earthquakes-luc-0730-ngay-06-09-2026-vmqy9ivwoevbgk9",
+      "https://colatv77.live/truc-tiep/tigres-vs-necaxa-luc-0800-ngay-06-09-2026-m2q15izx4ojae76",
+      "https://colatv77.live/truc-tiep/club-tijuana-nu-vs-pachuca-nu-luc-0806-ngay-06-09-2026-ndkz6i3pyo6fxq3"
     ],
     "errors": {}
   },
   "matches": {
-    "https://colatv77.live/truc-tiep/al-ittihad-fc-vs-al-nassr-luc-0100-ngay-06-09-2026-zrkn6i4yg30hwql": {
-      "match_url": "https://colatv77.live/truc-tiep/al-ittihad-fc-vs-al-nassr-luc-0100-ngay-06-09-2026-zrkn6i4yg30hwql",
-      "name": "Al Ittihad Fc vs Al Nassr",
-      "home_name": "Al Ittihad Fc",
-      "away_name": "Al Nassr",
-      "date": "06/09/2026",
-      "time": "01:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/dea986d20115216c05d1a45ba9a6162e.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/villarreal-vs-dep-la-coruna-luc-0200-ngay-06-09-2026-vrqwni4j61zt4qn": {
-      "match_url": "https://colatv77.live/truc-tiep/villarreal-vs-dep-la-coruna-luc-0200-ngay-06-09-2026-vrqwni4j61zt4qn",
-      "name": "Villarreal vs Dep La Coruna",
-      "home_name": "Villarreal",
-      "away_name": "Dep La Coruna",
-      "date": "06/09/2026",
-      "time": "02:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/aee62af96a956756cc29fe4831286357.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/e28443c9a1a5b87394ed79c3690ebbd7.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/as-roma-vs-atalanta-bc-luc-0145-ngay-06-09-2026-wv78xivzpg8iokr": {
-      "match_url": "https://colatv77.live/truc-tiep/as-roma-vs-atalanta-bc-luc-0145-ngay-06-09-2026-wv78xivzpg8iokr",
-      "name": "As Roma vs Atalanta Bc",
-      "home_name": "As Roma",
-      "away_name": "Atalanta Bc",
-      "date": "06/09/2026",
-      "time": "01:45",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/7a192686d30c1ad031d2fb605eaf2f2a.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/45c9647899b8bf2fb6f988c6c33b964c.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/ogc-nice-vs-le-mans-luc-0145-ngay-06-09-2026-69759ige590cgk2": {
-      "match_url": "https://colatv77.live/truc-tiep/ogc-nice-vs-le-mans-luc-0145-ngay-06-09-2026-69759ige590cgk2",
-      "name": "Ogc Nice vs Le Mans",
-      "home_name": "Ogc Nice",
-      "away_name": "Le Mans",
-      "date": "06/09/2026",
-      "time": "01:45",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/ff8991853f7aabce7cb66f09cda0c58e.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/5de17e3d35ef312559baf1f8c0b0b585.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/alverca-vs-braga-luc-0000-ngay-06-09-2026-jek33i80oewu9ko": {
-      "match_url": "https://colatv77.live/truc-tiep/alverca-vs-braga-luc-0000-ngay-06-09-2026-jek33i80oewu9ko",
-      "name": "Alverca vs Braga",
-      "home_name": "Alverca",
-      "away_name": "Braga",
-      "date": "06/09/2026",
-      "time": "00:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/ff35a6067c000b629b84e648d8a2d2de.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/phap-w-vs-han-quoc-w-luc-0145-ngay-06-09-2026-xvkjvszjv3pc8k9": {
-      "match_url": "https://colatv77.live/truc-tiep/phap-w-vs-han-quoc-w-luc-0145-ngay-06-09-2026-xvkjvszjv3pc8k9",
-      "name": "Phap W vs Han Quoc W",
-      "home_name": "Phap W",
-      "away_name": "Han Quoc W",
-      "date": "06/09/2026",
-      "time": "01:45",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/c40f2fb588464b8b5e500b4b94d05d75.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/28f5dbb01c5311a46f8b163f972d66cb.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/le-havre-vs-stade-brestois-29-luc-0145-ngay-06-09-2026-527r3i4xy2ja47e": {
-      "match_url": "https://colatv77.live/truc-tiep/le-havre-vs-stade-brestois-29-luc-0145-ngay-06-09-2026-527r3i4xy2ja47e",
-      "name": "Le Havre vs Stade Brestois 29",
-      "home_name": "Le Havre",
-      "away_name": "Stade Brestois 29",
-      "date": "06/09/2026",
-      "time": "01:45",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/8fd50a53dad5ea4fd2d32bd3ce727f58.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/bb7e6346a3860008e4ff266ba3b655e8.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/clb-swansea-city-vs-clb-wrexham-luc-0200-ngay-06-09-2026-8lk2dirloz6tz73": {
-      "match_url": "https://colatv77.live/truc-tiep/clb-swansea-city-vs-clb-wrexham-luc-0200-ngay-06-09-2026-8lk2dirloz6tz73",
-      "name": "Clb Swansea City vs Clb Wrexham",
-      "home_name": "Clb Swansea City",
-      "away_name": "Clb Wrexham",
-      "date": "06/09/2026",
-      "time": "02:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/54d8cca610fda7b60925116c3b2aacdb.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/6ee72ef6dd0d994c0fd5fb7d82d5acc9.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
     "https://colatv77.live/truc-tiep/sporting-vs-clb-nacional-luc-0230-ngay-06-09-2026-l6kegi8dpgziv75": {
       "match_url": "https://colatv77.live/truc-tiep/sporting-vs-clb-nacional-luc-0230-ngay-06-09-2026-l6kegi8dpgziv75",
       "name": "Sporting vs Clb Nacional",
@@ -163,8 +35,8 @@
       "date": "06/09/2026",
       "time": "02:30",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/783ce34336f24424a273c5c2403a3cb1.png!w80",
+      "home_logo": "https://colatv77.live/assets/images/logo.png",
+      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
@@ -213,6 +85,134 @@
       "league": "",
       "home_logo": "https://img.gvapi.cc/football/team/f6c489e1e71d37e301b30df37a43b8a4.png!w80",
       "away_logo": "https://img.gvapi.cc/football/team/872867a492989e6a9a0785cfd0a40680.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/inter-miami-vs-atlanta-utd-luc-0630-ngay-06-09-2026-xvkjoi8n3rvt879": {
+      "match_url": "https://colatv77.live/truc-tiep/inter-miami-vs-atlanta-utd-luc-0630-ngay-06-09-2026-xvkjoi8n3rvt879",
+      "name": "Inter Miami vs Atlanta Utd",
+      "home_name": "Inter Miami",
+      "away_name": "Atlanta Utd",
+      "date": "06/09/2026",
+      "time": "06:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/dcb67dd58619e29d84853ac2e4ac5e27.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/charlotte-fc-vs-houston-dynamo-luc-0630-ngay-06-09-2026-g6763i5rmn4co7r": {
+      "match_url": "https://colatv77.live/truc-tiep/charlotte-fc-vs-houston-dynamo-luc-0630-ngay-06-09-2026-g6763i5rmn4co7r",
+      "name": "Charlotte Fc vs Houston Dynamo",
+      "home_name": "Charlotte Fc",
+      "away_name": "Houston Dynamo",
+      "date": "06/09/2026",
+      "time": "06:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/5c01731e3c513a3797c85b95c436e0d9.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/2d21e6bbd505075b1bc6df8b5a887e8f.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/clb-toronto-vs-clb-chicago-fire-luc-0630-ngay-06-09-2026-oj7x9ix021nu47g": {
+      "match_url": "https://colatv77.live/truc-tiep/clb-toronto-vs-clb-chicago-fire-luc-0630-ngay-06-09-2026-oj7x9ix021nu47g",
+      "name": "Clb Toronto vs Clb Chicago Fire",
+      "home_name": "Clb Toronto",
+      "away_name": "Clb Chicago Fire",
+      "date": "06/09/2026",
+      "time": "06:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/a6f6290d4b7699729dc19349484841bf.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/929fe1b737e458218cbe8ce00a55a05c.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/fluminense-rj-vs-vasco-luc-0700-ngay-06-09-2026-vrqwni49o8wi4qn": {
+      "match_url": "https://colatv77.live/truc-tiep/fluminense-rj-vs-vasco-luc-0700-ngay-06-09-2026-vrqwni49o8wi4qn",
+      "name": "Fluminense Rj vs Vasco",
+      "home_name": "Fluminense Rj",
+      "away_name": "Vasco",
+      "date": "06/09/2026",
+      "time": "07:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/f110dc3a4406e67ecbc46511a7ea83f7.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/clb-velez-sarsfield-vs-clb-estudiantes-la-plata-luc-0715-ngay-06-09-2026-ndkz6i3v6lzhxq3": {
+      "match_url": "https://colatv77.live/truc-tiep/clb-velez-sarsfield-vs-clb-estudiantes-la-plata-luc-0715-ngay-06-09-2026-ndkz6i3v6lzhxq3",
+      "name": "Clb Velez Sarsfield vs Clb Estudiantes La Plata",
+      "home_name": "Clb Velez Sarsfield",
+      "away_name": "Clb Estudiantes La Plata",
+      "date": "06/09/2026",
+      "time": "07:15",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/2e02d3f27830c7f3642e6592e6b922dd.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/austin-fc-vs-san-jose-earthquakes-luc-0730-ngay-06-09-2026-vmqy9ivwoevbgk9": {
+      "match_url": "https://colatv77.live/truc-tiep/austin-fc-vs-san-jose-earthquakes-luc-0730-ngay-06-09-2026-vmqy9ivwoevbgk9",
+      "name": "Austin Fc vs San Jose Earthquakes",
+      "home_name": "Austin Fc",
+      "away_name": "San Jose Earthquakes",
+      "date": "06/09/2026",
+      "time": "07:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/90c95cd154f9b016cbf26854770b8401.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/tigres-vs-necaxa-luc-0800-ngay-06-09-2026-m2q15izx4ojae76": {
+      "match_url": "https://colatv77.live/truc-tiep/tigres-vs-necaxa-luc-0800-ngay-06-09-2026-m2q15izx4ojae76",
+      "name": "Tigres vs Necaxa",
+      "home_name": "Tigres",
+      "away_name": "Necaxa",
+      "date": "06/09/2026",
+      "time": "08:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/a7df6424c12ac9b7a6e5ca3ff953d5b3.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/05321a8272ff8e7ff2eb7eae2e0b72a6.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/club-tijuana-nu-vs-pachuca-nu-luc-0806-ngay-06-09-2026-ndkz6i3pyo6fxq3": {
+      "match_url": "https://colatv77.live/truc-tiep/club-tijuana-nu-vs-pachuca-nu-luc-0806-ngay-06-09-2026-ndkz6i3pyo6fxq3",
+      "name": "Club Tijuana Nu vs Pachuca Nu",
+      "home_name": "Club Tijuana Nu",
+      "away_name": "Pachuca Nu",
+      "date": "06/09/2026",
+      "time": "08:06",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/d69f7b4e5781756f141810f0716bcbe6.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/ee73086a8ee207b907819c6b7a15fd53.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
