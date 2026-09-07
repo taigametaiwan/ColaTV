@@ -1,19 +1,123 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-09-07T22:47:01.631187+07:00",
+  "generated_at_vietnam": "2026-09-08T02:54:00.831922+07:00",
   "summary": {
-    "discovered_match_pages": 0,
-    "metadata_pages_read": 0,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [],
+    "match_urls": [
+      "https://colatv77.live/truc-tiep/al-hilal-vs-neom-sports-club-luc-0100-ngay-08-09-2026-vmqy9iv19zwtgk9",
+      "https://colatv77.live/truc-tiep/elche-vs-real-sociedad-luc-0230-ngay-08-09-2026-edq09ilz9xpfeqx",
+      "https://colatv77.live/truc-tiep/udinese-calcio-vs-ss-lazio-luc-0145-ngay-08-09-2026-wv78xivzpz8aokr",
+      "https://colatv77.live/truc-tiep/my-nu-vs-cong-hoa-sec-nu-luc-0145-ngay-08-09-2026-l6kersmd30nbvq5",
+      "https://colatv77.live/truc-tiep/doi-tuyen-bong-da-nu-quoc-gia-y-vs-trung-quoc-nu-luc-0145-ngay-08-09-2026-jek3psd01ngt9qo",
+      "https://colatv77.live/truc-tiep/clb-estoril-vs-arouca-luc-0215-ngay-08-09-2026-o07dni59019fmkn"
+    ],
     "errors": {}
   },
-  "matches": {},
+  "matches": {
+    "https://colatv77.live/truc-tiep/al-hilal-vs-neom-sports-club-luc-0100-ngay-08-09-2026-vmqy9iv19zwtgk9": {
+      "match_url": "https://colatv77.live/truc-tiep/al-hilal-vs-neom-sports-club-luc-0100-ngay-08-09-2026-vmqy9iv19zwtgk9",
+      "name": "Al Hilal vs Neom Sports Club",
+      "home_name": "Al Hilal",
+      "away_name": "Neom Sports Club",
+      "date": "08/09/2026",
+      "time": "01:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/07a555616afab7be32e00150eacf4197.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/e5516d35314acec9169f33834a199842.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/elche-vs-real-sociedad-luc-0230-ngay-08-09-2026-edq09ilz9xpfeqx": {
+      "match_url": "https://colatv77.live/truc-tiep/elche-vs-real-sociedad-luc-0230-ngay-08-09-2026-edq09ilz9xpfeqx",
+      "name": "Elche vs Real Sociedad",
+      "home_name": "Elche",
+      "away_name": "Real Sociedad",
+      "date": "08/09/2026",
+      "time": "02:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/e5ecd0553885f1a3af731758dddce2ec.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/579db6e95905545973035e6eab8df2cd.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/udinese-calcio-vs-ss-lazio-luc-0145-ngay-08-09-2026-wv78xivzpz8aokr": {
+      "match_url": "https://colatv77.live/truc-tiep/udinese-calcio-vs-ss-lazio-luc-0145-ngay-08-09-2026-wv78xivzpz8aokr",
+      "name": "Udinese Calcio vs Ss Lazio",
+      "home_name": "Udinese Calcio",
+      "away_name": "Ss Lazio",
+      "date": "08/09/2026",
+      "time": "01:45",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/c7140efe06d93642fcc9805077c49aa5.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/my-nu-vs-cong-hoa-sec-nu-luc-0145-ngay-08-09-2026-l6kersmd30nbvq5": {
+      "match_url": "https://colatv77.live/truc-tiep/my-nu-vs-cong-hoa-sec-nu-luc-0145-ngay-08-09-2026-l6kersmd30nbvq5",
+      "name": "My Nu vs Cong Hoa Sec Nu",
+      "home_name": "My Nu",
+      "away_name": "Cong Hoa Sec Nu",
+      "date": "08/09/2026",
+      "time": "01:45",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/basketball/team/11418ef6648aa43fdd8df9e41d36638e.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/8aa6b548e3437112a3b154af83933ac8.jpg!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/doi-tuyen-bong-da-nu-quoc-gia-y-vs-trung-quoc-nu-luc-0145-ngay-08-09-2026-jek3psd01ngt9qo": {
+      "match_url": "https://colatv77.live/truc-tiep/doi-tuyen-bong-da-nu-quoc-gia-y-vs-trung-quoc-nu-luc-0145-ngay-08-09-2026-jek3psd01ngt9qo",
+      "name": "Doi Tuyen Bong Da Nu Quoc Gia Y vs Trung Quoc Nu",
+      "home_name": "Doi Tuyen Bong Da Nu Quoc Gia Y",
+      "away_name": "Trung Quoc Nu",
+      "date": "08/09/2026",
+      "time": "01:45",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/basketball/team/adf2cddc94aa43e13dce1b7ce9e5c557.jpg!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/02dba767ce40ae7c6b9b7534c9d4898f.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/clb-estoril-vs-arouca-luc-0215-ngay-08-09-2026-o07dni59019fmkn": {
+      "match_url": "https://colatv77.live/truc-tiep/clb-estoril-vs-arouca-luc-0215-ngay-08-09-2026-o07dni59019fmkn",
+      "name": "Clb Estoril vs Arouca",
+      "home_name": "Clb Estoril",
+      "away_name": "Arouca",
+      "date": "08/09/2026",
+      "time": "02:15",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/faeceacffbf35e28b7e71a5f90b6efdc.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/04de5924a46acce3fb629534c4e039be.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    }
+  },
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
