@@ -1,6 +1,6 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-09-10T08:25:26.826364+07:00",
+  "generated_at_vietnam": "2026-09-10T13:37:51.413088+07:00",
   "summary": {
     "discovered_match_pages": 9,
     "metadata_pages_read": 9,
@@ -11,157 +11,157 @@
   "discovery": {
     "start_url": "https://colatv77.live/",
     "match_urls": [
-      "https://colatv77.live/truc-tiep/clb-chicago-fire-vs-inter-miami-luc-0740-ngay-10-09-2026-63kv9igrwm8fx7e",
-      "https://colatv77.live/truc-tiep/clb-toronto-vs-clb-nashville-luc-0640-ngay-10-09-2026-69759igzd3vsgk2",
-      "https://colatv77.live/truc-tiep/clb-philadelphia-union-vs-clb-cincinnati-luc-0650-ngay-10-09-2026-34kgmioe52yfeko",
-      "https://colatv77.live/truc-tiep/new-york-city-vs-clb-new-england-revolution-luc-0710-ngay-10-09-2026-edq09iloemmbeqx",
-      "https://colatv77.live/truc-tiep/houston-dynamo-vs-real-salt-lake-luc-0740-ngay-10-09-2026-jek33i8gn6yu9ko",
-      "https://colatv77.live/truc-tiep/iran-vs-qatar-luc-0800-ngay-10-09-2026-63kvlsop2zjsx7e",
-      "https://colatv77.live/truc-tiep/vancouver-whitecaps-vs-clb-la-galaxy-luc-0930-ngay-10-09-2026-ezk96i3gznxs1kn",
-      "https://colatv77.live/truc-tiep/los-angeles-fc-vs-new-york-red-bulls-luc-0930-ngay-10-09-2026-vrqwni43mola4qn",
-      "https://colatv77.live/truc-tiep/motagua-vs-clb-alianza-san-salvador-luc-1005-ngay-10-09-2026-527r3i48r91i47e"
+      "https://colatv77.live/truc-tiep/han-quoc-vs-saudi-arabia-luc-1400-ngay-10-09-2026-527rjswd18db4ke",
+      "https://colatv77.live/truc-tiep/royal-thimphu-college-vs-thimphu-city-luc-1600-ngay-10-09-2026-jr7owip599rbgq0",
+      "https://colatv77.live/truc-tiep/my-nu-vs-hungary-women-luc-1630-ngay-10-09-2026-6975lsnp20ysgk2",
+      "https://colatv77.live/truc-tiep/nhat-ban-vs-indonesia-luc-1700-ngay-10-09-2026-wv784sx45olioqr",
+      "https://colatv77.live/truc-tiep/fenerbahce-u19-vs-as-roma-youth-luc-1800-ngay-10-09-2026-8lk2direr4wsz73",
+      "https://colatv77.live/truc-tiep/psv-u19-vs-shakhtar-donetsk-u19-luc-1900-ngay-10-09-2026-o07dni5j5v9amkn",
+      "https://colatv77.live/truc-tiep/the-cong-viettel-vs-cong-an-ha-noi-fc-luc-1915-ngay-10-09-2026-vrqwni4wz06s4qn",
+      "https://colatv77.live/truc-tiep/nha-trang-dolphins-vs-sai-gon-heat-luc-1930-ngay-10-09-2026-l6kersm2jgghvq5",
+      "https://colatv77.live/truc-tiep/manchester-united-u19-vs-sabah-baku-u19-luc-2000-ngay-10-09-2026-63kv9igdgreix7e"
     ],
     "errors": {}
   },
   "matches": {
-    "https://colatv77.live/truc-tiep/clb-chicago-fire-vs-inter-miami-luc-0740-ngay-10-09-2026-63kv9igrwm8fx7e": {
-      "match_url": "https://colatv77.live/truc-tiep/clb-chicago-fire-vs-inter-miami-luc-0740-ngay-10-09-2026-63kv9igrwm8fx7e",
-      "name": "Clb Chicago Fire vs Inter Miami",
-      "home_name": "Clb Chicago Fire",
-      "away_name": "Inter Miami",
+    "https://colatv77.live/truc-tiep/han-quoc-vs-saudi-arabia-luc-1400-ngay-10-09-2026-527rjswd18db4ke": {
+      "match_url": "https://colatv77.live/truc-tiep/han-quoc-vs-saudi-arabia-luc-1400-ngay-10-09-2026-527rjswd18db4ke",
+      "name": "Han Quoc vs Saudi Arabia",
+      "home_name": "Han Quoc",
+      "away_name": "Saudi Arabia",
       "date": "10/09/2026",
-      "time": "07:40",
+      "time": "14:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/929fe1b737e458218cbe8ce00a55a05c.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80",
+      "home_logo": "https://img.gvapi.cc/basketball/team/a31d8680851118728518f72f2030a154.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/74598b2e0e004c9a8c87e221e8f65996.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/clb-toronto-vs-clb-nashville-luc-0640-ngay-10-09-2026-69759igzd3vsgk2": {
-      "match_url": "https://colatv77.live/truc-tiep/clb-toronto-vs-clb-nashville-luc-0640-ngay-10-09-2026-69759igzd3vsgk2",
-      "name": "Clb Toronto vs Clb Nashville",
-      "home_name": "Clb Toronto",
-      "away_name": "Clb Nashville",
+    "https://colatv77.live/truc-tiep/royal-thimphu-college-vs-thimphu-city-luc-1600-ngay-10-09-2026-jr7owip599rbgq0": {
+      "match_url": "https://colatv77.live/truc-tiep/royal-thimphu-college-vs-thimphu-city-luc-1600-ngay-10-09-2026-jr7owip599rbgq0",
+      "name": "Royal Thimphu College vs Thimphu City",
+      "home_name": "Royal Thimphu College",
+      "away_name": "Thimphu City",
       "date": "10/09/2026",
-      "time": "06:40",
+      "time": "16:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/a6f6290d4b7699729dc19349484841bf.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/eafb707bc6f8028dc71923176915c8e3.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/c0feb353183dd42f3e291fa31fe14b24.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/25399874c890dd346ebde00e3c2bcb7b.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/clb-philadelphia-union-vs-clb-cincinnati-luc-0650-ngay-10-09-2026-34kgmioe52yfeko": {
-      "match_url": "https://colatv77.live/truc-tiep/clb-philadelphia-union-vs-clb-cincinnati-luc-0650-ngay-10-09-2026-34kgmioe52yfeko",
-      "name": "Clb Philadelphia Union vs Clb Cincinnati",
-      "home_name": "Clb Philadelphia Union",
-      "away_name": "Clb Cincinnati",
+    "https://colatv77.live/truc-tiep/my-nu-vs-hungary-women-luc-1630-ngay-10-09-2026-6975lsnp20ysgk2": {
+      "match_url": "https://colatv77.live/truc-tiep/my-nu-vs-hungary-women-luc-1630-ngay-10-09-2026-6975lsnp20ysgk2",
+      "name": "My Nu vs Hungary Women",
+      "home_name": "My Nu",
+      "away_name": "Hungary Women",
       "date": "10/09/2026",
-      "time": "06:50",
+      "time": "16:30",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/574f1ee560e8835e605176cac36a87db.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/1d14acf20b6647d3bf1f70959a875c8f.png!w80",
+      "home_logo": "https://img.gvapi.cc/basketball/team/47dac6a8a7fd95db9cf39f9bfc337eb8.bmp!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/8aa6b548e3437112a3b154af83933ac8.jpg!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/new-york-city-vs-clb-new-england-revolution-luc-0710-ngay-10-09-2026-edq09iloemmbeqx": {
-      "match_url": "https://colatv77.live/truc-tiep/new-york-city-vs-clb-new-england-revolution-luc-0710-ngay-10-09-2026-edq09iloemmbeqx",
-      "name": "New York City vs Clb New England Revolution",
-      "home_name": "New York City",
-      "away_name": "Clb New England Revolution",
+    "https://colatv77.live/truc-tiep/nhat-ban-vs-indonesia-luc-1700-ngay-10-09-2026-wv784sx45olioqr": {
+      "match_url": "https://colatv77.live/truc-tiep/nhat-ban-vs-indonesia-luc-1700-ngay-10-09-2026-wv784sx45olioqr",
+      "name": "Nhat Ban vs Indonesia",
+      "home_name": "Nhat Ban",
+      "away_name": "Indonesia",
       "date": "10/09/2026",
-      "time": "07:10",
+      "time": "17:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/f5bbc8573e1b019164b11b13c49598bd.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/f1b7c49790e05778f194ed436515b240.png!w80",
+      "home_logo": "https://img.gvapi.cc/basketball/team/174ead45f85e0d25654016139877b60d.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/8d4aca15bee632dc0709e24152c7f529.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/houston-dynamo-vs-real-salt-lake-luc-0740-ngay-10-09-2026-jek33i8gn6yu9ko": {
-      "match_url": "https://colatv77.live/truc-tiep/houston-dynamo-vs-real-salt-lake-luc-0740-ngay-10-09-2026-jek33i8gn6yu9ko",
-      "name": "Houston Dynamo vs Real Salt Lake",
-      "home_name": "Houston Dynamo",
-      "away_name": "Real Salt Lake",
+    "https://colatv77.live/truc-tiep/fenerbahce-u19-vs-as-roma-youth-luc-1800-ngay-10-09-2026-8lk2direr4wsz73": {
+      "match_url": "https://colatv77.live/truc-tiep/fenerbahce-u19-vs-as-roma-youth-luc-1800-ngay-10-09-2026-8lk2direr4wsz73",
+      "name": "Fenerbahce U19 vs As Roma Youth",
+      "home_name": "Fenerbahce U19",
+      "away_name": "As Roma Youth",
       "date": "10/09/2026",
-      "time": "07:40",
+      "time": "18:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/2d21e6bbd505075b1bc6df8b5a887e8f.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/98a89cba4bbd10c0ceb437d8f795d43b.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/9e2514c2828c85ec2cf59483cb919be4.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/a5f78d25cf21309ea257f28343efad5f.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/iran-vs-qatar-luc-0800-ngay-10-09-2026-63kvlsop2zjsx7e": {
-      "match_url": "https://colatv77.live/truc-tiep/iran-vs-qatar-luc-0800-ngay-10-09-2026-63kvlsop2zjsx7e",
-      "name": "Iran vs Qatar",
-      "home_name": "Iran",
-      "away_name": "Qatar",
+    "https://colatv77.live/truc-tiep/psv-u19-vs-shakhtar-donetsk-u19-luc-1900-ngay-10-09-2026-o07dni5j5v9amkn": {
+      "match_url": "https://colatv77.live/truc-tiep/psv-u19-vs-shakhtar-donetsk-u19-luc-1900-ngay-10-09-2026-o07dni5j5v9amkn",
+      "name": "Psv U19 vs Shakhtar Donetsk U19",
+      "home_name": "Psv U19",
+      "away_name": "Shakhtar Donetsk U19",
       "date": "10/09/2026",
-      "time": "08:00",
+      "time": "19:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/77418e1cfd63306bf63717d76c23e910.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/28d423b7ff35b08122bfaa4585931204.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/bb1ee3913de6db06451968adf4d89a29.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/d70895a7fed9c3a5038522fb44c85812.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/vancouver-whitecaps-vs-clb-la-galaxy-luc-0930-ngay-10-09-2026-ezk96i3gznxs1kn": {
-      "match_url": "https://colatv77.live/truc-tiep/vancouver-whitecaps-vs-clb-la-galaxy-luc-0930-ngay-10-09-2026-ezk96i3gznxs1kn",
-      "name": "Vancouver Whitecaps vs Clb La Galaxy",
-      "home_name": "Vancouver Whitecaps",
-      "away_name": "Clb La Galaxy",
+    "https://colatv77.live/truc-tiep/the-cong-viettel-vs-cong-an-ha-noi-fc-luc-1915-ngay-10-09-2026-vrqwni4wz06s4qn": {
+      "match_url": "https://colatv77.live/truc-tiep/the-cong-viettel-vs-cong-an-ha-noi-fc-luc-1915-ngay-10-09-2026-vrqwni4wz06s4qn",
+      "name": "The Cong Viettel vs Cong An Ha Noi Fc",
+      "home_name": "The Cong Viettel",
+      "away_name": "Cong An Ha Noi Fc",
       "date": "10/09/2026",
-      "time": "09:30",
+      "time": "19:15",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/527dcdb6260004a2c8f61fae9345f133.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/8ef755c4d2e1aed96dc5d291977c1043.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/f3dde7370cf875e4e657b4331b1b4a31.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/los-angeles-fc-vs-new-york-red-bulls-luc-0930-ngay-10-09-2026-vrqwni43mola4qn": {
-      "match_url": "https://colatv77.live/truc-tiep/los-angeles-fc-vs-new-york-red-bulls-luc-0930-ngay-10-09-2026-vrqwni43mola4qn",
-      "name": "Los Angeles Fc vs New York Red Bulls",
-      "home_name": "Los Angeles Fc",
-      "away_name": "New York Red Bulls",
+    "https://colatv77.live/truc-tiep/nha-trang-dolphins-vs-sai-gon-heat-luc-1930-ngay-10-09-2026-l6kersm2jgghvq5": {
+      "match_url": "https://colatv77.live/truc-tiep/nha-trang-dolphins-vs-sai-gon-heat-luc-1930-ngay-10-09-2026-l6kersm2jgghvq5",
+      "name": "Nha Trang Dolphins vs Sai Gon Heat",
+      "home_name": "Nha Trang Dolphins",
+      "away_name": "Sai Gon Heat",
       "date": "10/09/2026",
-      "time": "09:30",
+      "time": "19:30",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/8b8fe90668461b90ddc20516b0e6796d.png!w80",
+      "home_logo": "https://img.gvapi.cc/basketball/team/290bb5a5d16c3896908433bad65712dc.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/fb1060fc304744d0b50e6a180fbc98c2.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/motagua-vs-clb-alianza-san-salvador-luc-1005-ngay-10-09-2026-527r3i48r91i47e": {
-      "match_url": "https://colatv77.live/truc-tiep/motagua-vs-clb-alianza-san-salvador-luc-1005-ngay-10-09-2026-527r3i48r91i47e",
-      "name": "Motagua vs Clb Alianza San Salvador",
-      "home_name": "Motagua",
-      "away_name": "Clb Alianza San Salvador",
+    "https://colatv77.live/truc-tiep/manchester-united-u19-vs-sabah-baku-u19-luc-2000-ngay-10-09-2026-63kv9igdgreix7e": {
+      "match_url": "https://colatv77.live/truc-tiep/manchester-united-u19-vs-sabah-baku-u19-luc-2000-ngay-10-09-2026-63kv9igdgreix7e",
+      "name": "Manchester United U19 vs Sabah Baku U19",
+      "home_name": "Manchester United U19",
+      "away_name": "Sabah Baku U19",
       "date": "10/09/2026",
-      "time": "10:05",
+      "time": "20:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/8e1e189812b7c939bcbeb55a07ef6a2e.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/5204181e7c7001736341ab9b8dd54754.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/44eb7130030b0be19a244dbf1927561f.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/473ad5bcfafeaba3fcbcdd1dc48456e2.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
