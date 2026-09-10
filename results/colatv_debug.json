@@ -1,9 +1,9 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-09-11T02:14:45.168639+07:00",
+  "generated_at_vietnam": "2026-09-11T04:50:37.018321+07:00",
   "summary": {
-    "discovered_match_pages": 12,
-    "metadata_pages_read": 12,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
@@ -11,12 +11,6 @@
   "discovery": {
     "start_url": "https://colatv77.live/",
     "match_urls": [
-      "https://colatv77.live/truc-tiep/manchester-united-vs-sabah-fc-luc-0200-ngay-11-09-2026-ndqmliwr62ytrkv",
-      "https://colatv77.live/truc-tiep/fc-bayern-mnchen-vs-bodo-glimt-luc-0200-ngay-11-09-2026-9gklzi1z2pzum7x",
-      "https://colatv77.live/truc-tiep/calcio-como-vs-rb-leipzig-luc-0200-ngay-11-09-2026-l6kegi8jd6rhv75",
-      "https://colatv77.live/truc-tiep/slavia-prague-vs-rc-lens-luc-0200-ngay-11-09-2026-wv78xiv091nbokr",
-      "https://colatv77.live/truc-tiep/estrela-vs-braga-luc-0215-ngay-11-09-2026-l6kegi8dpvzav75",
-      "https://colatv77.live/truc-tiep/uc-nu-vs-tay-ban-nha-nu-luc-0145-ngay-11-09-2026-wv784sx4o5oioqr",
       "https://colatv77.live/truc-tiep/clb-vila-nova-vs-clb-goias-luc-0530-ngay-11-09-2026-8lk2dirr5v3hz73",
       "https://colatv77.live/truc-tiep/clb-independiente-del-valle-vs-clb-flamengo-luc-0730-ngay-11-09-2026-o07dni5xzg6smkn",
       "https://colatv77.live/truc-tiep/cienciano-vs-montevideo-city-luc-0730-ngay-11-09-2026-527r3i4ol80s47e",
@@ -27,102 +21,6 @@
     "errors": {}
   },
   "matches": {
-    "https://colatv77.live/truc-tiep/manchester-united-vs-sabah-fc-luc-0200-ngay-11-09-2026-ndqmliwr62ytrkv": {
-      "match_url": "https://colatv77.live/truc-tiep/manchester-united-vs-sabah-fc-luc-0200-ngay-11-09-2026-ndqmliwr62ytrkv",
-      "name": "Manchester United vs Sabah Fc",
-      "home_name": "Manchester United",
-      "away_name": "Sabah Fc",
-      "date": "11/09/2026",
-      "time": "02:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/d39ce586fd7278342dde33b3090b3f75.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/44cc5a54d7859b9d062a6f56a39819f8.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/fc-bayern-mnchen-vs-bodo-glimt-luc-0200-ngay-11-09-2026-9gklzi1z2pzum7x": {
-      "match_url": "https://colatv77.live/truc-tiep/fc-bayern-mnchen-vs-bodo-glimt-luc-0200-ngay-11-09-2026-9gklzi1z2pzum7x",
-      "name": "Fc Bayern Mnchen vs Bodo Glimt",
-      "home_name": "Fc Bayern Mnchen",
-      "away_name": "Bodo Glimt",
-      "date": "11/09/2026",
-      "time": "02:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/ef19a84a6745fe57aa786873d2b18e8a.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/98854ab97eadf3d2c7c6d657ad99df96.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/calcio-como-vs-rb-leipzig-luc-0200-ngay-11-09-2026-l6kegi8jd6rhv75": {
-      "match_url": "https://colatv77.live/truc-tiep/calcio-como-vs-rb-leipzig-luc-0200-ngay-11-09-2026-l6kegi8jd6rhv75",
-      "name": "Calcio Como vs Rb Leipzig",
-      "home_name": "Calcio Como",
-      "away_name": "Rb Leipzig",
-      "date": "11/09/2026",
-      "time": "02:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/5f7059f40965e5a2cc00987e6bac2f32.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/26a59fe5653a96ba72f4f1e4e08b6d4b.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/slavia-prague-vs-rc-lens-luc-0200-ngay-11-09-2026-wv78xiv091nbokr": {
-      "match_url": "https://colatv77.live/truc-tiep/slavia-prague-vs-rc-lens-luc-0200-ngay-11-09-2026-wv78xiv091nbokr",
-      "name": "Slavia Prague vs Rc Lens",
-      "home_name": "Slavia Prague",
-      "away_name": "Rc Lens",
-      "date": "11/09/2026",
-      "time": "02:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/2080ede2c5d09638a7188913c81075ef.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/estrela-vs-braga-luc-0215-ngay-11-09-2026-l6kegi8dpvzav75": {
-      "match_url": "https://colatv77.live/truc-tiep/estrela-vs-braga-luc-0215-ngay-11-09-2026-l6kegi8dpvzav75",
-      "name": "Estrela vs Braga",
-      "home_name": "Estrela",
-      "away_name": "Braga",
-      "date": "11/09/2026",
-      "time": "02:15",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/606eca9e363f1c1e62542f8b23fdc71a.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/1fe75f826dab40e6e89cbe961c7e9116.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/uc-nu-vs-tay-ban-nha-nu-luc-0145-ngay-11-09-2026-wv784sx4o5oioqr": {
-      "match_url": "https://colatv77.live/truc-tiep/uc-nu-vs-tay-ban-nha-nu-luc-0145-ngay-11-09-2026-wv784sx4o5oioqr",
-      "name": "Uc Nu vs Tay Ban Nha Nu",
-      "home_name": "Uc Nu",
-      "away_name": "Tay Ban Nha Nu",
-      "date": "11/09/2026",
-      "time": "01:45",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/0324fe325b11747bb4e04c3cf7434999.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/9e2b259cb66c3b3b65acb7b41f61221c.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
     "https://colatv77.live/truc-tiep/clb-vila-nova-vs-clb-goias-luc-0530-ngay-11-09-2026-8lk2dirr5v3hz73": {
       "match_url": "https://colatv77.live/truc-tiep/clb-vila-nova-vs-clb-goias-luc-0530-ngay-11-09-2026-8lk2dirr5v3hz73",
       "name": "Clb Vila Nova vs Clb Goias",
