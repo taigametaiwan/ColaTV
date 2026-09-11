@@ -1,123 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-09-12T03:00:20.019393+07:00",
+  "generated_at_vietnam": "2026-09-12T05:30:35.881357+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv77.live/truc-tiep/sevilla-fc-vs-valencia-cf-luc-0200-ngay-12-09-2026-9gklzi1dvlzum7x",
-      "https://colatv77.live/truc-tiep/clb-venezia-vs-acf-fiorentina-luc-0145-ngay-12-09-2026-527r3i4xexwu47e",
-      "https://colatv77.live/truc-tiep/1-fc-union-berlin-vs-fc-schalke-04-luc-0130-ngay-12-09-2026-ndqmliwv525arkv",
-      "https://colatv77.live/truc-tiep/stade-rennais-vs-olympique-de-marseille-luc-0145-ngay-12-09-2026-xvkjoi8yxjwb879",
-      "https://colatv77.live/truc-tiep/west-ham-united-vs-clb-wrexham-luc-0200-ngay-12-09-2026-527r3i4z9gwf47e",
-      "https://colatv77.live/truc-tiep/defensa-y-justicia-vs-gimnasia-mendoza-luc-0515-ngay-12-09-2026-ndkz6i3v6lrixq3"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv77.live/truc-tiep/sevilla-fc-vs-valencia-cf-luc-0200-ngay-12-09-2026-9gklzi1dvlzum7x": {
-      "match_url": "https://colatv77.live/truc-tiep/sevilla-fc-vs-valencia-cf-luc-0200-ngay-12-09-2026-9gklzi1dvlzum7x",
-      "name": "Sevilla Fc vs Valencia Cf",
-      "home_name": "Sevilla Fc",
-      "away_name": "Valencia Cf",
-      "date": "12/09/2026",
-      "time": "02:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/d20ed1da4f299cc3ef0e1e9eb06eced1.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/3b54543c1a584e2e9948d655142996d3.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/clb-venezia-vs-acf-fiorentina-luc-0145-ngay-12-09-2026-527r3i4xexwu47e": {
-      "match_url": "https://colatv77.live/truc-tiep/clb-venezia-vs-acf-fiorentina-luc-0145-ngay-12-09-2026-527r3i4xexwu47e",
-      "name": "Clb Venezia vs Acf Fiorentina",
-      "home_name": "Clb Venezia",
-      "away_name": "Acf Fiorentina",
-      "date": "12/09/2026",
-      "time": "01:45",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/3e724dc0e6fffd01a630b65af348fab6.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/858d87ded0cce014bae0c9681af48524.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/1-fc-union-berlin-vs-fc-schalke-04-luc-0130-ngay-12-09-2026-ndqmliwv525arkv": {
-      "match_url": "https://colatv77.live/truc-tiep/1-fc-union-berlin-vs-fc-schalke-04-luc-0130-ngay-12-09-2026-ndqmliwv525arkv",
-      "name": "1 Fc Union Berlin vs Fc Schalke 04",
-      "home_name": "1 Fc Union Berlin",
-      "away_name": "Fc Schalke 04",
-      "date": "12/09/2026",
-      "time": "01:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/45ab4c846b0d4df5b002c571b16112dc.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/4533ab7ef9ad5e53c981f7ea7bea7033.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/stade-rennais-vs-olympique-de-marseille-luc-0145-ngay-12-09-2026-xvkjoi8yxjwb879": {
-      "match_url": "https://colatv77.live/truc-tiep/stade-rennais-vs-olympique-de-marseille-luc-0145-ngay-12-09-2026-xvkjoi8yxjwb879",
-      "name": "Stade Rennais vs Olympique De Marseille",
-      "home_name": "Stade Rennais",
-      "away_name": "Olympique De Marseille",
-      "date": "12/09/2026",
-      "time": "01:45",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/eab8f0e847742fd328bb581299bd99ca.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/a450173b3d636ba2c86d3d7c5bdc4026.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/west-ham-united-vs-clb-wrexham-luc-0200-ngay-12-09-2026-527r3i4z9gwf47e": {
-      "match_url": "https://colatv77.live/truc-tiep/west-ham-united-vs-clb-wrexham-luc-0200-ngay-12-09-2026-527r3i4z9gwf47e",
-      "name": "West Ham United vs Clb Wrexham",
-      "home_name": "West Ham United",
-      "away_name": "Clb Wrexham",
-      "date": "12/09/2026",
-      "time": "02:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/d71ebda5c7fbca9093a1c2978c46f619.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/6ee72ef6dd0d994c0fd5fb7d82d5acc9.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/defensa-y-justicia-vs-gimnasia-mendoza-luc-0515-ngay-12-09-2026-ndkz6i3v6lrixq3": {
-      "match_url": "https://colatv77.live/truc-tiep/defensa-y-justicia-vs-gimnasia-mendoza-luc-0515-ngay-12-09-2026-ndkz6i3v6lrixq3",
-      "name": "Defensa Y Justicia vs Gimnasia Mendoza",
-      "home_name": "Defensa Y Justicia",
-      "away_name": "Gimnasia Mendoza",
-      "date": "12/09/2026",
-      "time": "05:15",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/49a35dd00c51fc958ebf44054bce4c48.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/532600afe76be2528effd5790fb51a33.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
