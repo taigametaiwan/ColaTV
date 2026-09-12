@@ -1,123 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-09-12T07:35:23.856048+07:00",
+  "generated_at_vietnam": "2026-09-12T11:59:44.795839+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv77.live/truc-tiep/boca-juniors-vs-central-cordoba-sde-luc-0730-ngay-12-09-2026-9gklzi1wp4nfm7x",
-      "https://colatv77.live/truc-tiep/jaguares-de-cordoba-vs-fortaleza-ceif-luc-0615-ngay-12-09-2026-527r3i4zn2vs47e",
-      "https://colatv77.live/truc-tiep/coritiba-vs-athletico-pr-luc-0700-ngay-12-09-2026-527r3i4wej2a47e",
-      "https://colatv77.live/truc-tiep/necaxa-vs-clb-puebla-luc-0800-ngay-12-09-2026-o17pjiom96rhy7j",
-      "https://colatv77.live/truc-tiep/dai-bac-trung-hoa-vs-iran-luc-0800-ngay-12-09-2026-o07dzsmrgy0cmkn",
-      "https://colatv77.live/truc-tiep/clb-atlante-vs-pachuca-luc-1000-ngay-12-09-2026-jr7owip81xjtgq0"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv77.live/truc-tiep/boca-juniors-vs-central-cordoba-sde-luc-0730-ngay-12-09-2026-9gklzi1wp4nfm7x": {
-      "match_url": "https://colatv77.live/truc-tiep/boca-juniors-vs-central-cordoba-sde-luc-0730-ngay-12-09-2026-9gklzi1wp4nfm7x",
-      "name": "Boca Juniors vs Central Cordoba Sde",
-      "home_name": "Boca Juniors",
-      "away_name": "Central Cordoba Sde",
-      "date": "12/09/2026",
-      "time": "07:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/9ed2c4f6adc51975cdbd2a93093e6a43.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/73eb62698518ab54028aee31105931ae.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/jaguares-de-cordoba-vs-fortaleza-ceif-luc-0615-ngay-12-09-2026-527r3i4zn2vs47e": {
-      "match_url": "https://colatv77.live/truc-tiep/jaguares-de-cordoba-vs-fortaleza-ceif-luc-0615-ngay-12-09-2026-527r3i4zn2vs47e",
-      "name": "Jaguares De Cordoba vs Fortaleza Ceif",
-      "home_name": "Jaguares De Cordoba",
-      "away_name": "Fortaleza Ceif",
-      "date": "12/09/2026",
-      "time": "06:15",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/b7f3a068b301edd82ad4c56496f41063.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/5a721f997fe18b1c151116a96b1b4ea8.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/coritiba-vs-athletico-pr-luc-0700-ngay-12-09-2026-527r3i4wej2a47e": {
-      "match_url": "https://colatv77.live/truc-tiep/coritiba-vs-athletico-pr-luc-0700-ngay-12-09-2026-527r3i4wej2a47e",
-      "name": "Coritiba vs Athletico Pr",
-      "home_name": "Coritiba",
-      "away_name": "Athletico Pr",
-      "date": "12/09/2026",
-      "time": "07:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/4f7a0095b9a3a4756318efd55451badb.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/1b54e9fdbe9c936023c55299da4165b7.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/necaxa-vs-clb-puebla-luc-0800-ngay-12-09-2026-o17pjiom96rhy7j": {
-      "match_url": "https://colatv77.live/truc-tiep/necaxa-vs-clb-puebla-luc-0800-ngay-12-09-2026-o17pjiom96rhy7j",
-      "name": "Necaxa vs Clb Puebla",
-      "home_name": "Necaxa",
-      "away_name": "Clb Puebla",
-      "date": "12/09/2026",
-      "time": "08:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/05321a8272ff8e7ff2eb7eae2e0b72a6.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/a98bd615308472b65dc82bcc3a2d54fb.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/dai-bac-trung-hoa-vs-iran-luc-0800-ngay-12-09-2026-o07dzsmrgy0cmkn": {
-      "match_url": "https://colatv77.live/truc-tiep/dai-bac-trung-hoa-vs-iran-luc-0800-ngay-12-09-2026-o07dzsmrgy0cmkn",
-      "name": "Dai Bac Trung Hoa vs Iran",
-      "home_name": "Dai Bac Trung Hoa",
-      "away_name": "Iran",
-      "date": "12/09/2026",
-      "time": "08:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/5ad67a3364c875a94bc0da54d49ade07.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/77418e1cfd63306bf63717d76c23e910.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/clb-atlante-vs-pachuca-luc-1000-ngay-12-09-2026-jr7owip81xjtgq0": {
-      "match_url": "https://colatv77.live/truc-tiep/clb-atlante-vs-pachuca-luc-1000-ngay-12-09-2026-jr7owip81xjtgq0",
-      "name": "Clb Atlante vs Pachuca",
-      "home_name": "Clb Atlante",
-      "away_name": "Pachuca",
-      "date": "12/09/2026",
-      "time": "10:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/ea3dc231c5b640b286b5c609b415f8e1.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/cff411edceeeb7c1677d9db65ce47164.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
