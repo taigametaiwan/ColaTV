@@ -1,174 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-09-14T07:07:02.784044+07:00",
+  "generated_at_vietnam": "2026-09-14T11:50:04.930311+07:00",
   "summary": {
-    "discovered_match_pages": 9,
-    "metadata_pages_read": 9,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv77.live/truc-tiep/independiente-vs-clb-san-lorenzo-luc-0515-ngay-14-09-2026-34kgmio5wzefeko",
-      "https://colatv77.live/truc-tiep/vancouver-whitecaps-vs-austin-fc-luc-0540-ngay-14-09-2026-34kgmioe5yyieko",
-      "https://colatv77.live/truc-tiep/santos-laguna-vs-juarez-luc-0800-ngay-14-09-2026-34kgmio3evwueko",
-      "https://colatv77.live/truc-tiep/san-diego-fc-vs-clb-philadelphia-union-luc-0800-ngay-14-09-2026-69759igzdyvbgk2",
-      "https://colatv77.live/truc-tiep/bahrain-vs-kazakhstan-luc-0800-ngay-14-09-2026-m2q19sry40paek6",
-      "https://colatv77.live/truc-tiep/chivas-guadalajara-vs-unam-pumas-luc-0807-ngay-14-09-2026-edq09il1oxybeqx",
-      "https://colatv77.live/truc-tiep/ventura-county-fc-vs-tacoma-defiance-luc-0900-ngay-14-09-2026-wv78xivo0n0fokr",
-      "https://colatv77.live/truc-tiep/trung-quoc-vs-philippines-luc-1100-ngay-14-09-2026-zrknxs5y3r4fwql",
-      "https://colatv77.live/truc-tiep/philippines-nu-vs-dtqg-nu-uzbekistan-luc-1200-ngay-14-09-2026-34kgmiol0lzfeko"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv77.live/truc-tiep/independiente-vs-clb-san-lorenzo-luc-0515-ngay-14-09-2026-34kgmio5wzefeko": {
-      "match_url": "https://colatv77.live/truc-tiep/independiente-vs-clb-san-lorenzo-luc-0515-ngay-14-09-2026-34kgmio5wzefeko",
-      "name": "Independiente vs Clb San Lorenzo",
-      "home_name": "Independiente",
-      "away_name": "Clb San Lorenzo",
-      "date": "14/09/2026",
-      "time": "05:15",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/47174721b260fae6e833329c13c9f2ee.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/65d05eaf7edc601ae236107417b01cbf.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/vancouver-whitecaps-vs-austin-fc-luc-0540-ngay-14-09-2026-34kgmioe5yyieko": {
-      "match_url": "https://colatv77.live/truc-tiep/vancouver-whitecaps-vs-austin-fc-luc-0540-ngay-14-09-2026-34kgmioe5yyieko",
-      "name": "Vancouver Whitecaps vs Austin Fc",
-      "home_name": "Vancouver Whitecaps",
-      "away_name": "Austin Fc",
-      "date": "14/09/2026",
-      "time": "05:40",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/527dcdb6260004a2c8f61fae9345f133.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/90c95cd154f9b016cbf26854770b8401.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/santos-laguna-vs-juarez-luc-0800-ngay-14-09-2026-34kgmio3evwueko": {
-      "match_url": "https://colatv77.live/truc-tiep/santos-laguna-vs-juarez-luc-0800-ngay-14-09-2026-34kgmio3evwueko",
-      "name": "Santos Laguna vs Juarez",
-      "home_name": "Santos Laguna",
-      "away_name": "Juarez",
-      "date": "14/09/2026",
-      "time": "08:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/2552214027525015c3545cff636f5e03.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/2ef06350057f561b5dce57c7fca99a74.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/san-diego-fc-vs-clb-philadelphia-union-luc-0800-ngay-14-09-2026-69759igzdyvbgk2": {
-      "match_url": "https://colatv77.live/truc-tiep/san-diego-fc-vs-clb-philadelphia-union-luc-0800-ngay-14-09-2026-69759igzdyvbgk2",
-      "name": "San Diego Fc vs Clb Philadelphia Union",
-      "home_name": "San Diego Fc",
-      "away_name": "Clb Philadelphia Union",
-      "date": "14/09/2026",
-      "time": "08:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/4431a6b60ebf9369297717921a290687.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/574f1ee560e8835e605176cac36a87db.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/bahrain-vs-kazakhstan-luc-0800-ngay-14-09-2026-m2q19sry40paek6": {
-      "match_url": "https://colatv77.live/truc-tiep/bahrain-vs-kazakhstan-luc-0800-ngay-14-09-2026-m2q19sry40paek6",
-      "name": "Bahrain vs Kazakhstan",
-      "home_name": "Bahrain",
-      "away_name": "Kazakhstan",
-      "date": "14/09/2026",
-      "time": "08:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/939045fc3f62477368f62d714ab67401.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/6ace4fcfc4eb6fcdb7924018bea97e19.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/chivas-guadalajara-vs-unam-pumas-luc-0807-ngay-14-09-2026-edq09il1oxybeqx": {
-      "match_url": "https://colatv77.live/truc-tiep/chivas-guadalajara-vs-unam-pumas-luc-0807-ngay-14-09-2026-edq09il1oxybeqx",
-      "name": "Chivas Guadalajara vs Unam Pumas",
-      "home_name": "Chivas Guadalajara",
-      "away_name": "Unam Pumas",
-      "date": "14/09/2026",
-      "time": "08:07",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/872867a492989e6a9a0785cfd0a40680.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/7654a95374767f93f6bec6a3d4819f76.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/ventura-county-fc-vs-tacoma-defiance-luc-0900-ngay-14-09-2026-wv78xivo0n0fokr": {
-      "match_url": "https://colatv77.live/truc-tiep/ventura-county-fc-vs-tacoma-defiance-luc-0900-ngay-14-09-2026-wv78xivo0n0fokr",
-      "name": "Ventura County Fc vs Tacoma Defiance",
-      "home_name": "Ventura County Fc",
-      "away_name": "Tacoma Defiance",
-      "date": "14/09/2026",
-      "time": "09:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/f93ca58969938ab5583e30e71d8e31a4.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/ff0d0739c041ad09fdc99db4c355a932.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/trung-quoc-vs-philippines-luc-1100-ngay-14-09-2026-zrknxs5y3r4fwql": {
-      "match_url": "https://colatv77.live/truc-tiep/trung-quoc-vs-philippines-luc-1100-ngay-14-09-2026-zrknxs5y3r4fwql",
-      "name": "Trung Quoc vs Philippines",
-      "home_name": "Trung Quoc",
-      "away_name": "Philippines",
-      "date": "14/09/2026",
-      "time": "11:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/0a4ae4dca6f2751b6e0c664bb2606f80.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/364c1c7ca4572cd8fb2591915ed48db1.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/philippines-nu-vs-dtqg-nu-uzbekistan-luc-1200-ngay-14-09-2026-34kgmiol0lzfeko": {
-      "match_url": "https://colatv77.live/truc-tiep/philippines-nu-vs-dtqg-nu-uzbekistan-luc-1200-ngay-14-09-2026-34kgmiol0lzfeko",
-      "name": "Philippines Nu vs Dtqg Nu Uzbekistan",
-      "home_name": "Philippines Nu",
-      "away_name": "Dtqg Nu Uzbekistan",
-      "date": "14/09/2026",
-      "time": "12:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/92cbd10529e84d6cfda6125ddad70174.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/0eed1b79b7b63de4fd62d4f861719c03.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
