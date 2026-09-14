@@ -1,19 +1,123 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-09-14T11:50:04.930311+07:00",
+  "generated_at_vietnam": "2026-09-14T17:33:12.268528+07:00",
   "summary": {
-    "discovered_match_pages": 0,
-    "metadata_pages_read": 0,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [],
+    "match_urls": [
+      "https://colatv77.live/truc-tiep/trung-quoc-nu-vs-hong-kong-nu-luc-1700-ngay-14-09-2026-edq09ilr8rdheqx",
+      "https://colatv77.live/truc-tiep/nhat-ban-nu-vs-thai-lan-nu-luc-1730-ngay-14-09-2026-xvkjoi8wgjji879",
+      "https://colatv77.live/truc-tiep/shan-united-vs-ezra-luc-1830-ngay-14-09-2026-34kgmio32x9seko",
+      "https://colatv77.live/truc-tiep/fc-meshakhte-tkibuli-vs-clb-metalurgi-rustavi-luc-1900-ngay-14-09-2026-m2q15izp22lfe76",
+      "https://colatv77.live/truc-tiep/neftchi-fargona-vs-clb-al-quwa-al-jawiya-luc-2045-ngay-14-09-2026-o07dni5xoejhmkn",
+      "https://colatv77.live/truc-tiep/inter-turku-vs-clb-vaasa-vps-luc-2200-ngay-14-09-2026-63kv9igd54nix7e"
+    ],
     "errors": {}
   },
-  "matches": {},
+  "matches": {
+    "https://colatv77.live/truc-tiep/trung-quoc-nu-vs-hong-kong-nu-luc-1700-ngay-14-09-2026-edq09ilr8rdheqx": {
+      "match_url": "https://colatv77.live/truc-tiep/trung-quoc-nu-vs-hong-kong-nu-luc-1700-ngay-14-09-2026-edq09ilr8rdheqx",
+      "name": "Trung Quoc Nu vs Hong Kong Nu",
+      "home_name": "Trung Quoc Nu",
+      "away_name": "Hong Kong Nu",
+      "date": "14/09/2026",
+      "time": "17:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/fd3dd61e88396b2c01611167ed0867eb.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/f21ddbe36bab3a4cd7219466dbaac89d.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/nhat-ban-nu-vs-thai-lan-nu-luc-1730-ngay-14-09-2026-xvkjoi8wgjji879": {
+      "match_url": "https://colatv77.live/truc-tiep/nhat-ban-nu-vs-thai-lan-nu-luc-1730-ngay-14-09-2026-xvkjoi8wgjji879",
+      "name": "Nhat Ban Nu vs Thai Lan Nu",
+      "home_name": "Nhat Ban Nu",
+      "away_name": "Thai Lan Nu",
+      "date": "14/09/2026",
+      "time": "17:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/90fb994bffbb0b8754b4d971092ef034.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/shan-united-vs-ezra-luc-1830-ngay-14-09-2026-34kgmio32x9seko": {
+      "match_url": "https://colatv77.live/truc-tiep/shan-united-vs-ezra-luc-1830-ngay-14-09-2026-34kgmio32x9seko",
+      "name": "Shan United vs Ezra",
+      "home_name": "Shan United",
+      "away_name": "Ezra",
+      "date": "14/09/2026",
+      "time": "18:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/81591ca25d2179a9877ec9c24bbe59e3.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/d63671e6c3786ff80ae41318d548b6c9.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/fc-meshakhte-tkibuli-vs-clb-metalurgi-rustavi-luc-1900-ngay-14-09-2026-m2q15izp22lfe76": {
+      "match_url": "https://colatv77.live/truc-tiep/fc-meshakhte-tkibuli-vs-clb-metalurgi-rustavi-luc-1900-ngay-14-09-2026-m2q15izp22lfe76",
+      "name": "Fc Meshakhte Tkibuli vs Clb Metalurgi Rustavi",
+      "home_name": "Fc Meshakhte Tkibuli",
+      "away_name": "Clb Metalurgi Rustavi",
+      "date": "14/09/2026",
+      "time": "19:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/6c4026b1738fc21db081f031cf8c8d39.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/cc6d0105f751057a74ad7580822737f7.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/neftchi-fargona-vs-clb-al-quwa-al-jawiya-luc-2045-ngay-14-09-2026-o07dni5xoejhmkn": {
+      "match_url": "https://colatv77.live/truc-tiep/neftchi-fargona-vs-clb-al-quwa-al-jawiya-luc-2045-ngay-14-09-2026-o07dni5xoejhmkn",
+      "name": "Neftchi Fargona vs Clb Al Quwa Al Jawiya",
+      "home_name": "Neftchi Fargona",
+      "away_name": "Clb Al Quwa Al Jawiya",
+      "date": "14/09/2026",
+      "time": "20:45",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/f414775655a79c5a471b2103a4164df4.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/27e1bfe40810453c59c7cd66fffd2418.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/inter-turku-vs-clb-vaasa-vps-luc-2200-ngay-14-09-2026-63kv9igd54nix7e": {
+      "match_url": "https://colatv77.live/truc-tiep/inter-turku-vs-clb-vaasa-vps-luc-2200-ngay-14-09-2026-63kv9igd54nix7e",
+      "name": "Inter Turku vs Clb Vaasa Vps",
+      "home_name": "Inter Turku",
+      "away_name": "Clb Vaasa Vps",
+      "date": "14/09/2026",
+      "time": "22:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/5df3cf66c96a43a08e06da83aeb2f7a8.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    }
+  },
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
