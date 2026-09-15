@@ -1,19 +1,123 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-09-15T08:53:39.842175+07:00",
+  "generated_at_vietnam": "2026-09-15T14:39:01.653569+07:00",
   "summary": {
-    "discovered_match_pages": 0,
-    "metadata_pages_read": 0,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [],
+    "match_urls": [
+      "https://colatv77.live/truc-tiep/uzbekistan-u23-vs-philippines-u23-luc-1330-ngay-15-09-2026-jek33i8430ds9ko",
+      "https://colatv77.live/truc-tiep/south-melbourne-vs-clb-queensland-lions-sc-luc-1630-ngay-15-09-2026-oj7x9ix4p6xb47g",
+      "https://colatv77.live/truc-tiep/daejeon-vs-kyoto-sanga-luc-1700-ngay-15-09-2026-l6kegi8jym6iv75",
+      "https://colatv77.live/truc-tiep/gamba-osaka-vs-cong-an-ha-noi-fc-luc-1700-ngay-15-09-2026-vmqy9ivgdwxigk9",
+      "https://colatv77.live/truc-tiep/kashima-antlers-vs-newcastle-jets-luc-1700-ngay-15-09-2026-34kgmior0e9ieko",
+      "https://colatv77.live/truc-tiep/viet-nam-u23-vs-kuwait-u23-luc-1700-ngay-15-09-2026-63kv9igp3nrsx7e"
+    ],
     "errors": {}
   },
-  "matches": {},
+  "matches": {
+    "https://colatv77.live/truc-tiep/uzbekistan-u23-vs-philippines-u23-luc-1330-ngay-15-09-2026-jek33i8430ds9ko": {
+      "match_url": "https://colatv77.live/truc-tiep/uzbekistan-u23-vs-philippines-u23-luc-1330-ngay-15-09-2026-jek33i8430ds9ko",
+      "name": "Uzbekistan U23 vs Philippines U23",
+      "home_name": "Uzbekistan U23",
+      "away_name": "Philippines U23",
+      "date": "15/09/2026",
+      "time": "13:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/4e7245e77764a6d4d68a69bd2f4c2035.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/0c620bcfc2a979fe9f22acbe0019f276.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/south-melbourne-vs-clb-queensland-lions-sc-luc-1630-ngay-15-09-2026-oj7x9ix4p6xb47g": {
+      "match_url": "https://colatv77.live/truc-tiep/south-melbourne-vs-clb-queensland-lions-sc-luc-1630-ngay-15-09-2026-oj7x9ix4p6xb47g",
+      "name": "South Melbourne vs Clb Queensland Lions Sc",
+      "home_name": "South Melbourne",
+      "away_name": "Clb Queensland Lions Sc",
+      "date": "15/09/2026",
+      "time": "16:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/3728683390847f335552d077cf0b8752.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/ae6301924eac2e5f0ad32a32ab7355f2.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/daejeon-vs-kyoto-sanga-luc-1700-ngay-15-09-2026-l6kegi8jym6iv75": {
+      "match_url": "https://colatv77.live/truc-tiep/daejeon-vs-kyoto-sanga-luc-1700-ngay-15-09-2026-l6kegi8jym6iv75",
+      "name": "Daejeon vs Kyoto Sanga",
+      "home_name": "Daejeon",
+      "away_name": "Kyoto Sanga",
+      "date": "15/09/2026",
+      "time": "17:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/090eeb1513e8f1d0cf6d8647d10b2eea.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/7d6fa50ea67cde7d66612a8189897ba5.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/gamba-osaka-vs-cong-an-ha-noi-fc-luc-1700-ngay-15-09-2026-vmqy9ivgdwxigk9": {
+      "match_url": "https://colatv77.live/truc-tiep/gamba-osaka-vs-cong-an-ha-noi-fc-luc-1700-ngay-15-09-2026-vmqy9ivgdwxigk9",
+      "name": "Gamba Osaka vs Cong An Ha Noi Fc",
+      "home_name": "Gamba Osaka",
+      "away_name": "Cong An Ha Noi Fc",
+      "date": "15/09/2026",
+      "time": "17:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/91008a96b5de8c75376d17057f89890e.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/f3dde7370cf875e4e657b4331b1b4a31.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/kashima-antlers-vs-newcastle-jets-luc-1700-ngay-15-09-2026-34kgmior0e9ieko": {
+      "match_url": "https://colatv77.live/truc-tiep/kashima-antlers-vs-newcastle-jets-luc-1700-ngay-15-09-2026-34kgmior0e9ieko",
+      "name": "Kashima Antlers vs Newcastle Jets",
+      "home_name": "Kashima Antlers",
+      "away_name": "Newcastle Jets",
+      "date": "15/09/2026",
+      "time": "17:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/cb7c21cdf0ae82e8a97065118f89f816.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/viet-nam-u23-vs-kuwait-u23-luc-1700-ngay-15-09-2026-63kv9igp3nrsx7e": {
+      "match_url": "https://colatv77.live/truc-tiep/viet-nam-u23-vs-kuwait-u23-luc-1700-ngay-15-09-2026-63kv9igp3nrsx7e",
+      "name": "Viet Nam U23 vs Kuwait U23",
+      "home_name": "Viet Nam U23",
+      "away_name": "Kuwait U23",
+      "date": "15/09/2026",
+      "time": "17:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/29a83a8a9641bb860a679d7e5ba52d26.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    }
+  },
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
