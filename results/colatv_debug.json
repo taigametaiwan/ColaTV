@@ -1,19 +1,123 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-09-17T07:25:59.594404+07:00",
+  "generated_at_vietnam": "2026-09-17T12:17:38.669300+07:00",
   "summary": {
-    "discovered_match_pages": 0,
-    "metadata_pages_read": 0,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [],
+    "match_urls": [
+      "https://colatv77.live/truc-tiep/dtqg-nu-uzbekistan-vs-trung-quoc-nu-luc-1200-ngay-17-09-2026-wv78xiv434mhokr",
+      "https://colatv77.live/truc-tiep/thai-lan-nu-vs-dai-loan-tq-nu-luc-1400-ngay-17-09-2026-zrkn6i4y26xiwql",
+      "https://colatv77.live/truc-tiep/bangladesh-nu-vs-han-quoc-nu-luc-1400-ngay-17-09-2026-527r3i4dmdyb47e",
+      "https://colatv77.live/truc-tiep/lion-city-vs-pathum-united-luc-1700-ngay-17-09-2026-vrqwni4xre1c4qn",
+      "https://colatv77.live/truc-tiep/clb-adelaide-united-vs-wofoo-tai-po-luc-1700-ngay-17-09-2026-69759igo159igk2",
+      "https://colatv77.live/truc-tiep/machida-vs-vikingur-reykjavik-nu-luc-1700-ngay-17-09-2026-xvkjoi8egldc879"
+    ],
     "errors": {}
   },
-  "matches": {},
+  "matches": {
+    "https://colatv77.live/truc-tiep/dtqg-nu-uzbekistan-vs-trung-quoc-nu-luc-1200-ngay-17-09-2026-wv78xiv434mhokr": {
+      "match_url": "https://colatv77.live/truc-tiep/dtqg-nu-uzbekistan-vs-trung-quoc-nu-luc-1200-ngay-17-09-2026-wv78xiv434mhokr",
+      "name": "Dtqg Nu Uzbekistan vs Trung Quoc Nu",
+      "home_name": "Dtqg Nu Uzbekistan",
+      "away_name": "Trung Quoc Nu",
+      "date": "17/09/2026",
+      "time": "12:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/0eed1b79b7b63de4fd62d4f861719c03.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/fd3dd61e88396b2c01611167ed0867eb.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/thai-lan-nu-vs-dai-loan-tq-nu-luc-1400-ngay-17-09-2026-zrkn6i4y26xiwql": {
+      "match_url": "https://colatv77.live/truc-tiep/thai-lan-nu-vs-dai-loan-tq-nu-luc-1400-ngay-17-09-2026-zrkn6i4y26xiwql",
+      "name": "Thai Lan Nu vs Dai Loan Tq Nu",
+      "home_name": "Thai Lan Nu",
+      "away_name": "Dai Loan Tq Nu",
+      "date": "17/09/2026",
+      "time": "14:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/dd16bbf8fa4c2cf5fb477b79738768f4.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/bangladesh-nu-vs-han-quoc-nu-luc-1400-ngay-17-09-2026-527r3i4dmdyb47e": {
+      "match_url": "https://colatv77.live/truc-tiep/bangladesh-nu-vs-han-quoc-nu-luc-1400-ngay-17-09-2026-527r3i4dmdyb47e",
+      "name": "Bangladesh Nu vs Han Quoc Nu",
+      "home_name": "Bangladesh Nu",
+      "away_name": "Han Quoc Nu",
+      "date": "17/09/2026",
+      "time": "14:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/dc287c0806457ac53602a78dd72a20c1.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/c44bc96860338d531a5b0a78d335d7a7.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/lion-city-vs-pathum-united-luc-1700-ngay-17-09-2026-vrqwni4xre1c4qn": {
+      "match_url": "https://colatv77.live/truc-tiep/lion-city-vs-pathum-united-luc-1700-ngay-17-09-2026-vrqwni4xre1c4qn",
+      "name": "Lion City vs Pathum United",
+      "home_name": "Lion City",
+      "away_name": "Pathum United",
+      "date": "17/09/2026",
+      "time": "17:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/a17724405028a3e21a2a2372736aa757.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/12fe4d3ee5c01134d48584015c4646f3.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/clb-adelaide-united-vs-wofoo-tai-po-luc-1700-ngay-17-09-2026-69759igo159igk2": {
+      "match_url": "https://colatv77.live/truc-tiep/clb-adelaide-united-vs-wofoo-tai-po-luc-1700-ngay-17-09-2026-69759igo159igk2",
+      "name": "Clb Adelaide United vs Wofoo Tai Po",
+      "home_name": "Clb Adelaide United",
+      "away_name": "Wofoo Tai Po",
+      "date": "17/09/2026",
+      "time": "17:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/e5f515e5720cd281a1a53ce2950992b1.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/df5e92ce4493d63214e8036ad15c1915.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/machida-vs-vikingur-reykjavik-nu-luc-1700-ngay-17-09-2026-xvkjoi8egldc879": {
+      "match_url": "https://colatv77.live/truc-tiep/machida-vs-vikingur-reykjavik-nu-luc-1700-ngay-17-09-2026-xvkjoi8egldc879",
+      "name": "Machida vs Vikingur Reykjavik Nu",
+      "home_name": "Machida",
+      "away_name": "Vikingur Reykjavik Nu",
+      "date": "17/09/2026",
+      "time": "17:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/8b784b23ff2eac9bbdb4437cbc291d52.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    }
+  },
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
