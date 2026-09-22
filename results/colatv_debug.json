@@ -1,6 +1,6 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-09-22T05:48:24.532254+07:00",
+  "generated_at_vietnam": "2026-09-22T08:35:49.152267+07:00",
   "summary": {
     "discovered_match_pages": 12,
     "metadata_pages_read": 12,
@@ -11,45 +11,45 @@
   "discovery": {
     "start_url": "https://colatv77.live/",
     "match_urls": [
-      "https://colatv77.live/truc-tiep/barracas-central-vs-independiente-rivadavia-luc-0500-ngay-22-09-2026-j374oi0rwomigqo",
-      "https://colatv77.live/truc-tiep/club-leon-nu-vs-juarez-nu-luc-0600-ngay-22-09-2026-m2q15izyx5ese76",
-      "https://colatv77.live/truc-tiep/new-york-liberty-vs-atlanta-dream-luc-0700-ngay-22-09-2026-6975lsn44z5fgk2",
       "https://colatv77.live/truc-tiep/lanus-vs-clb-estudiantes-la-plata-luc-0715-ngay-22-09-2026-zrkn6i4834rtwql",
+      "https://colatv77.live/truc-tiep/santos-laguna-nu-vs-cruz-azul-nu-luc-0805-ngay-22-09-2026-oj7x9ixgj93h47g",
+      "https://colatv77.live/truc-tiep/new-york-liberty-vs-atlanta-dream-luc-0700-ngay-22-09-2026-6975lsn44z5fgk2",
       "https://colatv77.live/truc-tiep/clb-cuiaba-vs-nautico-luc-0730-ngay-22-09-2026-l6kegi88vxzav75",
-      "https://colatv77.live/truc-tiep/santos-laguna-nu-vs-cruz-azul-nu-luc-0806-ngay-22-09-2026-oj7x9ixgj93h47g",
       "https://colatv77.live/truc-tiep/phoenix-mercury-vs-dallas-wings-luc-0900-ngay-22-09-2026-edq0esdzzypiekx",
       "https://colatv77.live/truc-tiep/philippines-u23-vs-kuwait-u23-luc-1200-ngay-22-09-2026-vrqwni4drp4s4qn",
       "https://colatv77.live/truc-tiep/viet-nam-u23-vs-uzbekistan-u23-luc-1200-ngay-22-09-2026-69759igp196tgk2",
       "https://colatv77.live/truc-tiep/rtc-fc-vs-fc-tsirang-luc-1600-ngay-22-09-2026-o07dni5x99jsmkn",
       "https://colatv77.live/truc-tiep/brisbane-bullets-vs-new-zealand-breakers-luc-1630-ngay-22-09-2026-9gkl6s6xll3tmkx",
-      "https://colatv77.live/truc-tiep/han-quoc-u23-vs-a-rap-saudi-u23-luc-1700-ngay-22-09-2026-ndqmliwe569srkv"
+      "https://colatv77.live/truc-tiep/han-quoc-u23-vs-a-rap-saudi-u23-luc-1700-ngay-22-09-2026-ndqmliwe569srkv",
+      "https://colatv77.live/truc-tiep/santa-clara-u23-vs-clb-u23-portimonense-luc-1800-ngay-22-09-2026-ezk96i38gjjh1kn",
+      "https://colatv77.live/truc-tiep/sai-gon-heat-vs-hanoi-buffalo-luc-1930-ngay-22-09-2026-vmqy6sn4e1ysgk9"
     ],
     "errors": {}
   },
   "matches": {
-    "https://colatv77.live/truc-tiep/barracas-central-vs-independiente-rivadavia-luc-0500-ngay-22-09-2026-j374oi0rwomigqo": {
-      "match_url": "https://colatv77.live/truc-tiep/barracas-central-vs-independiente-rivadavia-luc-0500-ngay-22-09-2026-j374oi0rwomigqo",
-      "name": "Barracas Central vs Independiente Rivadavia",
-      "home_name": "Barracas Central",
-      "away_name": "Independiente Rivadavia",
+    "https://colatv77.live/truc-tiep/lanus-vs-clb-estudiantes-la-plata-luc-0715-ngay-22-09-2026-zrkn6i4834rtwql": {
+      "match_url": "https://colatv77.live/truc-tiep/lanus-vs-clb-estudiantes-la-plata-luc-0715-ngay-22-09-2026-zrkn6i4834rtwql",
+      "name": "Lanus vs Clb Estudiantes La Plata",
+      "home_name": "Lanus",
+      "away_name": "Clb Estudiantes La Plata",
       "date": "22/09/2026",
-      "time": "05:00",
+      "time": "07:15",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/b8ff3b78b8ff52dbca3b7eb27fb1c1fb.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/7e779bba58b944c8cfa786d857430383.png!w80",
+      "home_logo": "https://colatv77.live/assets/images/logo.png",
+      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/club-leon-nu-vs-juarez-nu-luc-0600-ngay-22-09-2026-m2q15izyx5ese76": {
-      "match_url": "https://colatv77.live/truc-tiep/club-leon-nu-vs-juarez-nu-luc-0600-ngay-22-09-2026-m2q15izyx5ese76",
-      "name": "Club Leon Nu vs Juarez Nu",
-      "home_name": "Club Leon Nu",
-      "away_name": "Juarez Nu",
+    "https://colatv77.live/truc-tiep/santos-laguna-nu-vs-cruz-azul-nu-luc-0805-ngay-22-09-2026-oj7x9ixgj93h47g": {
+      "match_url": "https://colatv77.live/truc-tiep/santos-laguna-nu-vs-cruz-azul-nu-luc-0805-ngay-22-09-2026-oj7x9ixgj93h47g",
+      "name": "Santos Laguna Nu vs Cruz Azul Nu",
+      "home_name": "Santos Laguna Nu",
+      "away_name": "Cruz Azul Nu",
       "date": "22/09/2026",
-      "time": "06:00",
+      "time": "08:05",
       "league": "",
       "home_logo": "https://colatv77.live/assets/images/logo.png",
       "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
@@ -75,22 +75,6 @@
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/lanus-vs-clb-estudiantes-la-plata-luc-0715-ngay-22-09-2026-zrkn6i4834rtwql": {
-      "match_url": "https://colatv77.live/truc-tiep/lanus-vs-clb-estudiantes-la-plata-luc-0715-ngay-22-09-2026-zrkn6i4834rtwql",
-      "name": "Lanus vs Clb Estudiantes La Plata",
-      "home_name": "Lanus",
-      "away_name": "Clb Estudiantes La Plata",
-      "date": "22/09/2026",
-      "time": "07:15",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/caff6f729db9dc68b1938f6533b0fa14.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
     "https://colatv77.live/truc-tiep/clb-cuiaba-vs-nautico-luc-0730-ngay-22-09-2026-l6kegi88vxzav75": {
       "match_url": "https://colatv77.live/truc-tiep/clb-cuiaba-vs-nautico-luc-0730-ngay-22-09-2026-l6kegi88vxzav75",
       "name": "Clb Cuiaba vs Nautico",
@@ -101,22 +85,6 @@
       "league": "",
       "home_logo": "https://img.gvapi.cc/football/team/a9e3f5956f84947cbd6503823dcffbb0.png!w80",
       "away_logo": "https://img.gvapi.cc/football/team/1d8d54bfe19b8bfd6d064eda3556f812.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/santos-laguna-nu-vs-cruz-azul-nu-luc-0806-ngay-22-09-2026-oj7x9ixgj93h47g": {
-      "match_url": "https://colatv77.live/truc-tiep/santos-laguna-nu-vs-cruz-azul-nu-luc-0806-ngay-22-09-2026-oj7x9ixgj93h47g",
-      "name": "Santos Laguna Nu vs Cruz Azul Nu",
-      "home_name": "Santos Laguna Nu",
-      "away_name": "Cruz Azul Nu",
-      "date": "22/09/2026",
-      "time": "08:06",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/018ffc6f0b8298870a01ad4da5f86e7f.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/f41d59f7b14442ff24cb224e8e91db5d.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
@@ -213,6 +181,38 @@
       "league": "",
       "home_logo": "https://img.gvapi.cc/football/team/6581bc34692022be4c21d98778e33df0.png!w80",
       "away_logo": "https://img.gvapi.cc/football/team/cf372cbe6eae54c6a6dfb3ebbcdc3404.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/santa-clara-u23-vs-clb-u23-portimonense-luc-1800-ngay-22-09-2026-ezk96i38gjjh1kn": {
+      "match_url": "https://colatv77.live/truc-tiep/santa-clara-u23-vs-clb-u23-portimonense-luc-1800-ngay-22-09-2026-ezk96i38gjjh1kn",
+      "name": "Santa Clara U23 vs Clb U23 Portimonense",
+      "home_name": "Santa Clara U23",
+      "away_name": "Clb U23 Portimonense",
+      "date": "22/09/2026",
+      "time": "18:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/e7f496f594add2954bb58b2132e1e788.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/2204e8ba30d8257e51c73945acb01dff.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/sai-gon-heat-vs-hanoi-buffalo-luc-1930-ngay-22-09-2026-vmqy6sn4e1ysgk9": {
+      "match_url": "https://colatv77.live/truc-tiep/sai-gon-heat-vs-hanoi-buffalo-luc-1930-ngay-22-09-2026-vmqy6sn4e1ysgk9",
+      "name": "Sai Gon Heat vs Hanoi Buffalo",
+      "home_name": "Sai Gon Heat",
+      "away_name": "Hanoi Buffalo",
+      "date": "22/09/2026",
+      "time": "19:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/basketball/team/fb1060fc304744d0b50e6a180fbc98c2.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/36de6e50c9a54ca558d69ae01ded3ac8.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
