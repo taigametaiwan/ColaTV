@@ -1,123 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-09-23T14:41:44.207684+07:00",
+  "generated_at_vietnam": "2026-09-23T20:35:49.778578+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv77.live/truc-tiep/machida-vs-tochigi-city-luc-1500-ngay-23-09-2026-ndkz6i35drlhxq3",
-      "https://colatv77.live/truc-tiep/gamba-osaka-vs-tokushima-luc-1500-ngay-23-09-2026-j374oi0p6v8hgqo",
-      "https://colatv77.live/truc-tiep/kashima-antlers-vs-clb-ventforet-luc-1500-ngay-23-09-2026-o07dni5j41lcmkn",
-      "https://colatv77.live/truc-tiep/kashiwa-reysol-vs-imabari-luc-1500-ngay-23-09-2026-m2q15izo695he76",
-      "https://colatv77.live/truc-tiep/kyoto-sanga-vs-fujieda-myfc-luc-1500-ngay-23-09-2026-jr7owipeo21tgq0",
-      "https://colatv77.live/truc-tiep/vissel-kobe-vs-sagan-tosu-luc-1500-ngay-23-09-2026-l6kegi8l4getv75"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv77.live/truc-tiep/machida-vs-tochigi-city-luc-1500-ngay-23-09-2026-ndkz6i35drlhxq3": {
-      "match_url": "https://colatv77.live/truc-tiep/machida-vs-tochigi-city-luc-1500-ngay-23-09-2026-ndkz6i35drlhxq3",
-      "name": "Machida vs Tochigi City",
-      "home_name": "Machida",
-      "away_name": "Tochigi City",
-      "date": "23/09/2026",
-      "time": "15:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/0587c755424c4e6290e45f9c52fb7b13.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/gamba-osaka-vs-tokushima-luc-1500-ngay-23-09-2026-j374oi0p6v8hgqo": {
-      "match_url": "https://colatv77.live/truc-tiep/gamba-osaka-vs-tokushima-luc-1500-ngay-23-09-2026-j374oi0p6v8hgqo",
-      "name": "Gamba Osaka vs Tokushima",
-      "home_name": "Gamba Osaka",
-      "away_name": "Tokushima",
-      "date": "23/09/2026",
-      "time": "15:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/91008a96b5de8c75376d17057f89890e.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/16abd42b0f397022049d05f786a6182d.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/kashima-antlers-vs-clb-ventforet-luc-1500-ngay-23-09-2026-o07dni5j41lcmkn": {
-      "match_url": "https://colatv77.live/truc-tiep/kashima-antlers-vs-clb-ventforet-luc-1500-ngay-23-09-2026-o07dni5j41lcmkn",
-      "name": "Kashima Antlers vs Clb Ventforet",
-      "home_name": "Kashima Antlers",
-      "away_name": "Clb Ventforet",
-      "date": "23/09/2026",
-      "time": "15:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/61e08ae9a3b69ce77f30bf51e71b2a77.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/kashiwa-reysol-vs-imabari-luc-1500-ngay-23-09-2026-m2q15izo695he76": {
-      "match_url": "https://colatv77.live/truc-tiep/kashiwa-reysol-vs-imabari-luc-1500-ngay-23-09-2026-m2q15izo695he76",
-      "name": "Kashiwa Reysol vs Imabari",
-      "home_name": "Kashiwa Reysol",
-      "away_name": "Imabari",
-      "date": "23/09/2026",
-      "time": "15:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/978b618556d660a58857523d14d3f741.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/kyoto-sanga-vs-fujieda-myfc-luc-1500-ngay-23-09-2026-jr7owipeo21tgq0": {
-      "match_url": "https://colatv77.live/truc-tiep/kyoto-sanga-vs-fujieda-myfc-luc-1500-ngay-23-09-2026-jr7owipeo21tgq0",
-      "name": "Kyoto Sanga vs Fujieda Myfc",
-      "home_name": "Kyoto Sanga",
-      "away_name": "Fujieda Myfc",
-      "date": "23/09/2026",
-      "time": "15:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/7d6fa50ea67cde7d66612a8189897ba5.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/89fbdff34136c67636e2b4875ab03043.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/vissel-kobe-vs-sagan-tosu-luc-1500-ngay-23-09-2026-l6kegi8l4getv75": {
-      "match_url": "https://colatv77.live/truc-tiep/vissel-kobe-vs-sagan-tosu-luc-1500-ngay-23-09-2026-l6kegi8l4getv75",
-      "name": "Vissel Kobe vs Sagan Tosu",
-      "home_name": "Vissel Kobe",
-      "away_name": "Sagan Tosu",
-      "date": "23/09/2026",
-      "time": "15:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/d85cce27ab583e5b3cead155f02b098a.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/0d7b400b61ad77a72d5d6d7db03077e7.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
