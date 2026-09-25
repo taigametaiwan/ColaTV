@@ -1,19 +1,123 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-09-25T13:07:13.755752+07:00",
+  "generated_at_vietnam": "2026-09-25T18:46:35.888403+07:00",
   "summary": {
-    "discovered_match_pages": 0,
-    "metadata_pages_read": 0,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [],
+    "match_urls": [
+      "https://colatv77.live/truc-tiep/han-quoc-u23-vs-viet-nam-u23-luc-1730-ngay-25-09-2026-xvkjoi2r53rc879",
+      "https://colatv77.live/truc-tiep/dtqg-uc-vs-brazil-luc-1710-ngay-25-09-2026-34kgmio6x1zheko",
+      "https://colatv77.live/truc-tiep/nhat-ban-nu-vs-philippines-nu-luc-1730-ngay-25-09-2026-ezk96ij0ejzb1kn",
+      "https://colatv77.live/truc-tiep/han-quoc-nu-vs-uzbekistan-nu-luc-1730-ngay-25-09-2026-8lk2di30v45tz73",
+      "https://colatv77.live/truc-tiep/wuxi-wugou-vs-guangxi-hengchen-luc-1800-ngay-25-09-2026-zrkn6i44xpwtwql",
+      "https://colatv77.live/truc-tiep/indonesia-vs-singapore-luc-2000-ngay-25-09-2026-g6763i5g9wvio7r"
+    ],
     "errors": {}
   },
-  "matches": {},
+  "matches": {
+    "https://colatv77.live/truc-tiep/han-quoc-u23-vs-viet-nam-u23-luc-1730-ngay-25-09-2026-xvkjoi2r53rc879": {
+      "match_url": "https://colatv77.live/truc-tiep/han-quoc-u23-vs-viet-nam-u23-luc-1730-ngay-25-09-2026-xvkjoi2r53rc879",
+      "name": "Han Quoc U23 vs Viet Nam U23",
+      "home_name": "Han Quoc U23",
+      "away_name": "Viet Nam U23",
+      "date": "25/09/2026",
+      "time": "17:30",
+      "league": "",
+      "home_logo": "https://colatv77.live/assets/images/logo.png",
+      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/dtqg-uc-vs-brazil-luc-1710-ngay-25-09-2026-34kgmio6x1zheko": {
+      "match_url": "https://colatv77.live/truc-tiep/dtqg-uc-vs-brazil-luc-1710-ngay-25-09-2026-34kgmio6x1zheko",
+      "name": "Dtqg Uc vs Brazil",
+      "home_name": "Dtqg Uc",
+      "away_name": "Brazil",
+      "date": "25/09/2026",
+      "time": "17:10",
+      "league": "",
+      "home_logo": "https://colatv77.live/assets/images/logo.png",
+      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/nhat-ban-nu-vs-philippines-nu-luc-1730-ngay-25-09-2026-ezk96ij0ejzb1kn": {
+      "match_url": "https://colatv77.live/truc-tiep/nhat-ban-nu-vs-philippines-nu-luc-1730-ngay-25-09-2026-ezk96ij0ejzb1kn",
+      "name": "Nhat Ban Nu vs Philippines Nu",
+      "home_name": "Nhat Ban Nu",
+      "away_name": "Philippines Nu",
+      "date": "25/09/2026",
+      "time": "17:30",
+      "league": "",
+      "home_logo": "https://colatv77.live/assets/images/logo.png",
+      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/han-quoc-nu-vs-uzbekistan-nu-luc-1730-ngay-25-09-2026-8lk2di30v45tz73": {
+      "match_url": "https://colatv77.live/truc-tiep/han-quoc-nu-vs-uzbekistan-nu-luc-1730-ngay-25-09-2026-8lk2di30v45tz73",
+      "name": "Han Quoc Nu vs Uzbekistan Nu",
+      "home_name": "Han Quoc Nu",
+      "away_name": "Uzbekistan Nu",
+      "date": "25/09/2026",
+      "time": "17:30",
+      "league": "",
+      "home_logo": "https://colatv77.live/assets/images/logo.png",
+      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/wuxi-wugou-vs-guangxi-hengchen-luc-1800-ngay-25-09-2026-zrkn6i44xpwtwql": {
+      "match_url": "https://colatv77.live/truc-tiep/wuxi-wugou-vs-guangxi-hengchen-luc-1800-ngay-25-09-2026-zrkn6i44xpwtwql",
+      "name": "Wuxi Wugou vs Guangxi Hengchen",
+      "home_name": "Wuxi Wugou",
+      "away_name": "Guangxi Hengchen",
+      "date": "25/09/2026",
+      "time": "18:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/509b91468e833ffe3fd9edd04f06ddee.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/7543134c669d639c3ff036bc215a3b62.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/indonesia-vs-singapore-luc-2000-ngay-25-09-2026-g6763i5g9wvio7r": {
+      "match_url": "https://colatv77.live/truc-tiep/indonesia-vs-singapore-luc-2000-ngay-25-09-2026-g6763i5g9wvio7r",
+      "name": "Indonesia vs Singapore",
+      "home_name": "Indonesia",
+      "away_name": "Singapore",
+      "date": "25/09/2026",
+      "time": "20:00",
+      "league": "",
+      "home_logo": "https://colatv77.live/assets/images/logo.png",
+      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    }
+  },
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
