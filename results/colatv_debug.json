@@ -1,9 +1,9 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-09-26T14:34:54.051707+07:00",
+  "generated_at_vietnam": "2026-09-26T19:25:44.342119+07:00",
   "summary": {
-    "discovered_match_pages": 12,
-    "metadata_pages_read": 12,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
@@ -11,15 +11,9 @@
   "discovery": {
     "start_url": "https://colatv77.live/",
     "match_urls": [
-      "https://colatv77.live/truc-tiep/trung-quoc-u23-vs-thai-lan-u23-luc-1300-ngay-26-09-2026-wv78xi125lyhokr",
-      "https://colatv77.live/truc-tiep/mobis-phoebus-vs-lg-sakers-luc-1430-ngay-26-09-2026-m2q19srveejuek6",
-      "https://colatv77.live/truc-tiep/clb-omiya-ardija-vs-clb-ventforet-luc-1500-ngay-26-09-2026-oj7x9ixjxrla47g",
-      "https://colatv77.live/truc-tiep/pakistan-vs-thai-lan-luc-1600-ngay-26-09-2026-ezk96i34w5ds1kn",
-      "https://colatv77.live/truc-tiep/fk-chelyabinsk-vs-yenisey-krasnoyarsk-luc-1600-ngay-26-09-2026-34kgmio82m2ceko",
-      "https://colatv77.live/truc-tiep/nhat-ban-u23-vs-trieu-tien-u23-luc-1730-ngay-26-09-2026-edq09i2xy3eaeqx",
+      "https://colatv77.live/truc-tiep/dtqg-viet-nam-vs-philippines-luc-1930-ngay-26-09-2026-l6kegi8l4eeuv75",
       "https://colatv77.live/truc-tiep/nantong-zhiyun-vs-changchun-yatai-luc-1830-ngay-26-09-2026-wv78xivvlgdaokr",
       "https://colatv77.live/truc-tiep/ceuta-vs-r-sociedad-b-luc-1900-ngay-26-09-2026-j374oi0mw53hgqo",
-      "https://colatv77.live/truc-tiep/dtqg-viet-nam-vs-philippines-luc-1930-ngay-26-09-2026-l6kegi8l4eeuv75",
       "https://colatv77.live/truc-tiep/nam-phi-vs-guinea-luc-2000-ngay-26-09-2026-527r3i48dy3s47e",
       "https://colatv77.live/truc-tiep/slovenia-vs-dtqg-scotland-luc-2000-ngay-26-09-2026-o17pjio4gnmuy7j",
       "https://colatv77.live/truc-tiep/kenya-vs-eritrea-luc-2000-ngay-26-09-2026-wv78xivo46yhokr"
@@ -27,96 +21,16 @@
     "errors": {}
   },
   "matches": {
-    "https://colatv77.live/truc-tiep/trung-quoc-u23-vs-thai-lan-u23-luc-1300-ngay-26-09-2026-wv78xi125lyhokr": {
-      "match_url": "https://colatv77.live/truc-tiep/trung-quoc-u23-vs-thai-lan-u23-luc-1300-ngay-26-09-2026-wv78xi125lyhokr",
-      "name": "Trung Quoc U23 vs Thai Lan U23",
-      "home_name": "Trung Quoc U23",
-      "away_name": "Thai Lan U23",
+    "https://colatv77.live/truc-tiep/dtqg-viet-nam-vs-philippines-luc-1930-ngay-26-09-2026-l6kegi8l4eeuv75": {
+      "match_url": "https://colatv77.live/truc-tiep/dtqg-viet-nam-vs-philippines-luc-1930-ngay-26-09-2026-l6kegi8l4eeuv75",
+      "name": "Dtqg Viet Nam vs Philippines",
+      "home_name": "Dtqg Viet Nam",
+      "away_name": "Philippines",
       "date": "26/09/2026",
-      "time": "13:00",
+      "time": "19:30",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/e51f03da53b2f36fc922a7ce18a07476.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/mobis-phoebus-vs-lg-sakers-luc-1430-ngay-26-09-2026-m2q19srveejuek6": {
-      "match_url": "https://colatv77.live/truc-tiep/mobis-phoebus-vs-lg-sakers-luc-1430-ngay-26-09-2026-m2q19srveejuek6",
-      "name": "Mobis Phoebus vs Lg Sakers",
-      "home_name": "Mobis Phoebus",
-      "away_name": "Lg Sakers",
-      "date": "26/09/2026",
-      "time": "14:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/8e93da8386dc5b378446762993400ca7.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/b3a61f88692a8a3836f3b93ba65b98da.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/clb-omiya-ardija-vs-clb-ventforet-luc-1500-ngay-26-09-2026-oj7x9ixjxrla47g": {
-      "match_url": "https://colatv77.live/truc-tiep/clb-omiya-ardija-vs-clb-ventforet-luc-1500-ngay-26-09-2026-oj7x9ixjxrla47g",
-      "name": "Clb Omiya Ardija vs Clb Ventforet",
-      "home_name": "Clb Omiya Ardija",
-      "away_name": "Clb Ventforet",
-      "date": "26/09/2026",
-      "time": "15:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/f3b0743cbe39963a20d4ffe3a8c64c2e.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/61e08ae9a3b69ce77f30bf51e71b2a77.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/pakistan-vs-thai-lan-luc-1600-ngay-26-09-2026-ezk96i34w5ds1kn": {
-      "match_url": "https://colatv77.live/truc-tiep/pakistan-vs-thai-lan-luc-1600-ngay-26-09-2026-ezk96i34w5ds1kn",
-      "name": "Pakistan vs Thai Lan",
-      "home_name": "Pakistan",
-      "away_name": "Thai Lan",
-      "date": "26/09/2026",
-      "time": "16:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/573572e4e9a8486a02fbc7eeeaffba7b.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/43b2dd1c93748297cfbbea4d31247641.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/fk-chelyabinsk-vs-yenisey-krasnoyarsk-luc-1600-ngay-26-09-2026-34kgmio82m2ceko": {
-      "match_url": "https://colatv77.live/truc-tiep/fk-chelyabinsk-vs-yenisey-krasnoyarsk-luc-1600-ngay-26-09-2026-34kgmio82m2ceko",
-      "name": "Fk Chelyabinsk vs Yenisey Krasnoyarsk",
-      "home_name": "Fk Chelyabinsk",
-      "away_name": "Yenisey Krasnoyarsk",
-      "date": "26/09/2026",
-      "time": "16:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/ad447efc200f864044a546c6c4811473.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/4d95fbf6c8f3fcee43e522635455d60d.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/nhat-ban-u23-vs-trieu-tien-u23-luc-1730-ngay-26-09-2026-edq09i2xy3eaeqx": {
-      "match_url": "https://colatv77.live/truc-tiep/nhat-ban-u23-vs-trieu-tien-u23-luc-1730-ngay-26-09-2026-edq09i2xy3eaeqx",
-      "name": "Nhat Ban U23 vs Trieu Tien U23",
-      "home_name": "Nhat Ban U23",
-      "away_name": "Trieu Tien U23",
-      "date": "26/09/2026",
-      "time": "17:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/0437356503a22e50b9e8aa76145c7f71.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/b6b90237b3ebd1e462a5d11dbc5c4dae.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/14b75c2d38d88b747c19de8ea5509d16.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/0c620bcfc2a979fe9f22acbe0019f276.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
@@ -155,22 +69,6 @@
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/dtqg-viet-nam-vs-philippines-luc-1930-ngay-26-09-2026-l6kegi8l4eeuv75": {
-      "match_url": "https://colatv77.live/truc-tiep/dtqg-viet-nam-vs-philippines-luc-1930-ngay-26-09-2026-l6kegi8l4eeuv75",
-      "name": "Dtqg Viet Nam vs Philippines",
-      "home_name": "Dtqg Viet Nam",
-      "away_name": "Philippines",
-      "date": "26/09/2026",
-      "time": "19:30",
-      "league": "",
-      "home_logo": "https://colatv77.live/assets/images/logo.png",
-      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
     "https://colatv77.live/truc-tiep/nam-phi-vs-guinea-luc-2000-ngay-26-09-2026-527r3i48dy3s47e": {
       "match_url": "https://colatv77.live/truc-tiep/nam-phi-vs-guinea-luc-2000-ngay-26-09-2026-527r3i48dy3s47e",
       "name": "Nam Phi vs Guinea",
@@ -179,8 +77,8 @@
       "date": "26/09/2026",
       "time": "20:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/a30bc83d95b629973ef10dbe8221ca63.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/9ff0bbc7c4dde77be85a27a1c5ba6d6c.png!w80",
+      "home_logo": "https://colatv77.live/assets/images/logo.png",
+      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
@@ -211,8 +109,8 @@
       "date": "26/09/2026",
       "time": "20:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/3b5750171f62fd9c3cd91a41ddb1ac45.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/c8c1fad8f7b657fa96c4e5da96ada7c2.png!w80",
+      "home_logo": "https://colatv77.live/assets/images/logo.png",
+      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
