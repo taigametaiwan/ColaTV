@@ -1,6 +1,6 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-09-28T04:17:34.098117+07:00",
+  "generated_at_vietnam": "2026-09-28T06:56:18.212538+07:00",
   "summary": {
     "discovered_match_pages": 6,
     "metadata_pages_read": 6,
@@ -11,55 +11,23 @@
   "discovery": {
     "start_url": "https://colatv77.live/",
     "match_urls": [
-      "https://colatv77.live/truc-tiep/las-vegas-aces-vs-indiana-fever-luc-0300-ngay-28-09-2026-xvkjvsz4d1gi8k9",
-      "https://colatv77.live/truc-tiep/gimnasia-y-tiro-vs-clb-atletico-rafaela-luc-0400-ngay-28-09-2026-69759ignzozsgk2",
-      "https://colatv77.live/truc-tiep/clb-columbus-crew-vs-inter-miami-luc-0600-ngay-28-09-2026-vmqy9ivwxgvhgk9",
-      "https://colatv77.live/truc-tiep/atlanta-dream-vs-washington-mystics-luc-0600-ngay-28-09-2026-m2q19srv961uek6",
+      "https://colatv77.live/truc-tiep/clb-columbus-crew-vs-inter-miami-luc-0610-ngay-28-09-2026-vmqy9ivwxgvhgk9",
+      "https://colatv77.live/truc-tiep/curacao-vs-nicaragua-luc-0700-ngay-28-09-2026-m2q15izoyn2fe76",
+      "https://colatv77.live/truc-tiep/dominica-vs-puerto-rico-luc-0700-ngay-28-09-2026-jr7owipegj2cgq0",
       "https://colatv77.live/truc-tiep/haiti-vs-costa-rica-luc-0600-ngay-28-09-2026-ndqmliw1eo6irkv",
-      "https://colatv77.live/truc-tiep/curacao-vs-nicaragua-luc-0700-ngay-28-09-2026-m2q15izoyn2fe76"
+      "https://colatv77.live/truc-tiep/atlanta-dream-vs-washington-mystics-luc-0600-ngay-28-09-2026-m2q19srv961uek6",
+      "https://colatv77.live/truc-tiep/trinidad-tobago-vs-cong-hoa-dominican-luc-0800-ngay-28-09-2026-jr7owipegd2ugq0"
     ],
     "errors": {}
   },
   "matches": {
-    "https://colatv77.live/truc-tiep/las-vegas-aces-vs-indiana-fever-luc-0300-ngay-28-09-2026-xvkjvsz4d1gi8k9": {
-      "match_url": "https://colatv77.live/truc-tiep/las-vegas-aces-vs-indiana-fever-luc-0300-ngay-28-09-2026-xvkjvsz4d1gi8k9",
-      "name": "Las Vegas Aces vs Indiana Fever",
-      "home_name": "Las Vegas Aces",
-      "away_name": "Indiana Fever",
-      "date": "28/09/2026",
-      "time": "03:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/ce8ab1125fdb3fdbd8c09dba8c437c49.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/81e9f1f9d6393fd128c6c014783d9fa2.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/gimnasia-y-tiro-vs-clb-atletico-rafaela-luc-0400-ngay-28-09-2026-69759ignzozsgk2": {
-      "match_url": "https://colatv77.live/truc-tiep/gimnasia-y-tiro-vs-clb-atletico-rafaela-luc-0400-ngay-28-09-2026-69759ignzozsgk2",
-      "name": "Gimnasia Y Tiro vs Clb Atletico Rafaela",
-      "home_name": "Gimnasia Y Tiro",
-      "away_name": "Clb Atletico Rafaela",
-      "date": "28/09/2026",
-      "time": "04:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/1dcae0ff1f13a4eacf57b5095080fea1.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/109f72e810b7fdf166636650f0ed244a.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/clb-columbus-crew-vs-inter-miami-luc-0600-ngay-28-09-2026-vmqy9ivwxgvhgk9": {
-      "match_url": "https://colatv77.live/truc-tiep/clb-columbus-crew-vs-inter-miami-luc-0600-ngay-28-09-2026-vmqy9ivwxgvhgk9",
+    "https://colatv77.live/truc-tiep/clb-columbus-crew-vs-inter-miami-luc-0610-ngay-28-09-2026-vmqy9ivwxgvhgk9": {
+      "match_url": "https://colatv77.live/truc-tiep/clb-columbus-crew-vs-inter-miami-luc-0610-ngay-28-09-2026-vmqy9ivwxgvhgk9",
       "name": "Clb Columbus Crew vs Inter Miami",
       "home_name": "Clb Columbus Crew",
       "away_name": "Inter Miami",
       "date": "28/09/2026",
-      "time": "06:00",
+      "time": "06:10",
       "league": "",
       "home_logo": "https://img.gvapi.cc/football/team/b6d8f81e8454813b3e672b179e627d3a.png!w80",
       "away_logo": "https://img.gvapi.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80",
@@ -69,16 +37,32 @@
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/atlanta-dream-vs-washington-mystics-luc-0600-ngay-28-09-2026-m2q19srv961uek6": {
-      "match_url": "https://colatv77.live/truc-tiep/atlanta-dream-vs-washington-mystics-luc-0600-ngay-28-09-2026-m2q19srv961uek6",
-      "name": "Atlanta Dream vs Washington Mystics",
-      "home_name": "Atlanta Dream",
-      "away_name": "Washington Mystics",
+    "https://colatv77.live/truc-tiep/curacao-vs-nicaragua-luc-0700-ngay-28-09-2026-m2q15izoyn2fe76": {
+      "match_url": "https://colatv77.live/truc-tiep/curacao-vs-nicaragua-luc-0700-ngay-28-09-2026-m2q15izoyn2fe76",
+      "name": "Curacao vs Nicaragua",
+      "home_name": "Curacao",
+      "away_name": "Nicaragua",
       "date": "28/09/2026",
-      "time": "06:00",
+      "time": "07:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/f619a41699e34ed5b9c8047ecb688ca3.png!w80",
+      "home_logo": "https://colatv77.live/assets/images/logo.png",
+      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/dominica-vs-puerto-rico-luc-0700-ngay-28-09-2026-jr7owipegj2cgq0": {
+      "match_url": "https://colatv77.live/truc-tiep/dominica-vs-puerto-rico-luc-0700-ngay-28-09-2026-jr7owipegj2cgq0",
+      "name": "Dominica vs Puerto Rico",
+      "home_name": "Dominica",
+      "away_name": "Puerto Rico",
+      "date": "28/09/2026",
+      "time": "07:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/52e9caed9827b4c611bd6cc7a96ed455.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/80ce4326387c091af8b8647f3292c818.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
@@ -101,16 +85,32 @@
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/curacao-vs-nicaragua-luc-0700-ngay-28-09-2026-m2q15izoyn2fe76": {
-      "match_url": "https://colatv77.live/truc-tiep/curacao-vs-nicaragua-luc-0700-ngay-28-09-2026-m2q15izoyn2fe76",
-      "name": "Curacao vs Nicaragua",
-      "home_name": "Curacao",
-      "away_name": "Nicaragua",
+    "https://colatv77.live/truc-tiep/atlanta-dream-vs-washington-mystics-luc-0600-ngay-28-09-2026-m2q19srv961uek6": {
+      "match_url": "https://colatv77.live/truc-tiep/atlanta-dream-vs-washington-mystics-luc-0600-ngay-28-09-2026-m2q19srv961uek6",
+      "name": "Atlanta Dream vs Washington Mystics",
+      "home_name": "Atlanta Dream",
+      "away_name": "Washington Mystics",
       "date": "28/09/2026",
-      "time": "07:00",
+      "time": "06:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/31fd3b7fb312954c8a781d31f83166b7.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/b6d69c1c07b1d8d83b953b28563999ae.png!w80",
+      "home_logo": "https://img.gvapi.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/f619a41699e34ed5b9c8047ecb688ca3.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv77.live/truc-tiep/trinidad-tobago-vs-cong-hoa-dominican-luc-0800-ngay-28-09-2026-jr7owipegd2ugq0": {
+      "match_url": "https://colatv77.live/truc-tiep/trinidad-tobago-vs-cong-hoa-dominican-luc-0800-ngay-28-09-2026-jr7owipegd2ugq0",
+      "name": "Trinidad Tobago vs Cong Hoa Dominican",
+      "home_name": "Trinidad Tobago",
+      "away_name": "Cong Hoa Dominican",
+      "date": "28/09/2026",
+      "time": "08:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/edb8dfb5b878d0e33c4a86488ad8eb6a.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/c3209b7fb56b7bc4fa2619f1248cb561.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
