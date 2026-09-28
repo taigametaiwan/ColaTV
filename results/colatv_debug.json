@@ -1,9 +1,9 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-09-29T02:38:08.945181+07:00",
+  "generated_at_vietnam": "2026-09-29T06:56:27.801502+07:00",
   "summary": {
-    "discovered_match_pages": 12,
-    "metadata_pages_read": 12,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
@@ -11,160 +11,58 @@
   "discovery": {
     "start_url": "https://colatv77.live/",
     "match_urls": [
-      "https://colatv77.live/truc-tiep/bi-vs-phap-luc-0145-ngay-29-09-2026-wv78xiv19g5cokr",
-      "https://colatv77.live/truc-tiep/tho-nhi-ky-vs-dtqg-y-luc-0145-ngay-29-09-2026-edq09il2jenseqx",
-      "https://colatv77.live/truc-tiep/thuy-dien-vs-dtqg-ba-lan-luc-0145-ngay-29-09-2026-63kv9ig6nwgsx7e",
-      "https://colatv77.live/truc-tiep/dtqg-bac-ireland-vs-dtqg-hungary-luc-0145-ngay-29-09-2026-69759igr9dntgk2",
-      "https://colatv77.live/truc-tiep/clb-romania-vs-dtqg-bosnia-herzegovina-luc-0145-ngay-29-09-2026-8lk2dir3mwxsz73",
-      "https://colatv77.live/truc-tiep/botswana-vs-tunisia-luc-0200-ngay-29-09-2026-63kv9igdp8ptx7e",
-      "https://colatv77.live/truc-tiep/clb-leganes-vs-castellon-luc-0130-ngay-29-09-2026-l6kegi853y8iv75",
-      "https://colatv77.live/truc-tiep/cuba-vs-bonaire-luc-0400-ngay-29-09-2026-34kgmio9l2zueko",
-      "https://colatv77.live/truc-tiep/suriname-vs-martinique-luc-0500-ngay-29-09-2026-527r3i48dv6t47e",
+      "https://colatv77.live/truc-tiep/jamaica-vs-honduras-luc-0700-ngay-29-09-2026-ndkz6i35p91ixq3",
+      "https://colatv77.live/truc-tiep/saint-lucia-vs-bermuda-luc-0700-ngay-29-09-2026-ezk96i3420vf1kn",
+      "https://colatv77.live/truc-tiep/saint-kitts-nevis-vs-grenada-luc-0700-ngay-29-09-2026-oj7x9ixogw6s47g",
       "https://colatv77.live/truc-tiep/clb-america-mg-vs-clb-juventude-luc-0530-ngay-29-09-2026-527r3i44v16s47e",
       "https://colatv77.live/truc-tiep/club-leon-nu-vs-club-america-nu-luc-0600-ngay-29-09-2026-wv78xiv4zwxfokr",
-      "https://colatv77.live/truc-tiep/jamaica-vs-honduras-luc-0700-ngay-29-09-2026-ndkz6i35p91ixq3"
+      "https://colatv77.live/truc-tiep/necaxa-nu-vs-toluca-nu-luc-0806-ngay-29-09-2026-edq09ilr1g4ieqx"
     ],
     "errors": {}
   },
   "matches": {
-    "https://colatv77.live/truc-tiep/bi-vs-phap-luc-0145-ngay-29-09-2026-wv78xiv19g5cokr": {
-      "match_url": "https://colatv77.live/truc-tiep/bi-vs-phap-luc-0145-ngay-29-09-2026-wv78xiv19g5cokr",
-      "name": "Bi vs Phap",
-      "home_name": "Bi",
-      "away_name": "Phap",
+    "https://colatv77.live/truc-tiep/jamaica-vs-honduras-luc-0700-ngay-29-09-2026-ndkz6i35p91ixq3": {
+      "match_url": "https://colatv77.live/truc-tiep/jamaica-vs-honduras-luc-0700-ngay-29-09-2026-ndkz6i35p91ixq3",
+      "name": "Jamaica vs Honduras",
+      "home_name": "Jamaica",
+      "away_name": "Honduras",
       "date": "29/09/2026",
-      "time": "01:45",
+      "time": "07:00",
       "league": "",
-      "home_logo": "https://d3j9d91vxmbmsx.cloudfront.net/web/image/ZjcxOTk5ODBiNzgtZmUzOA/MTQxZjc0NjY0MGMtNjc2Yw.jpg",
-      "away_logo": "https://img.gvapi.cc/football/team/f40723ed94042ea9ea36bfb5ad4157b2.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/570197ce24c78651ca363a146213ba08.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/tho-nhi-ky-vs-dtqg-y-luc-0145-ngay-29-09-2026-edq09il2jenseqx": {
-      "match_url": "https://colatv77.live/truc-tiep/tho-nhi-ky-vs-dtqg-y-luc-0145-ngay-29-09-2026-edq09il2jenseqx",
-      "name": "Tho Nhi Ky vs Dtqg Y",
-      "home_name": "Tho Nhi Ky",
-      "away_name": "Dtqg Y",
+    "https://colatv77.live/truc-tiep/saint-lucia-vs-bermuda-luc-0700-ngay-29-09-2026-ezk96i3420vf1kn": {
+      "match_url": "https://colatv77.live/truc-tiep/saint-lucia-vs-bermuda-luc-0700-ngay-29-09-2026-ezk96i3420vf1kn",
+      "name": "Saint Lucia vs Bermuda",
+      "home_name": "Saint Lucia",
+      "away_name": "Bermuda",
       "date": "29/09/2026",
-      "time": "01:45",
+      "time": "07:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/f1a2987a8ae3620ed2ed5462e0e80f5e.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/775bc655c77d679c193f1982dac04668.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/15b31d721471a77f63036c45b8b63830.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/ed238fb0b643fdd68d1149eec2b9f908.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/thuy-dien-vs-dtqg-ba-lan-luc-0145-ngay-29-09-2026-63kv9ig6nwgsx7e": {
-      "match_url": "https://colatv77.live/truc-tiep/thuy-dien-vs-dtqg-ba-lan-luc-0145-ngay-29-09-2026-63kv9ig6nwgsx7e",
-      "name": "Thuy Dien vs Dtqg Ba Lan",
-      "home_name": "Thuy Dien",
-      "away_name": "Dtqg Ba Lan",
+    "https://colatv77.live/truc-tiep/saint-kitts-nevis-vs-grenada-luc-0700-ngay-29-09-2026-oj7x9ixogw6s47g": {
+      "match_url": "https://colatv77.live/truc-tiep/saint-kitts-nevis-vs-grenada-luc-0700-ngay-29-09-2026-oj7x9ixogw6s47g",
+      "name": "Saint Kitts Nevis vs Grenada",
+      "home_name": "Saint Kitts Nevis",
+      "away_name": "Grenada",
       "date": "29/09/2026",
-      "time": "01:45",
+      "time": "07:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/ab52d4dc33c41d54daf420eb25b404cf.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/1f47cef5e38c952f94c5d61726027439.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/dtqg-bac-ireland-vs-dtqg-hungary-luc-0145-ngay-29-09-2026-69759igr9dntgk2": {
-      "match_url": "https://colatv77.live/truc-tiep/dtqg-bac-ireland-vs-dtqg-hungary-luc-0145-ngay-29-09-2026-69759igr9dntgk2",
-      "name": "Dtqg Bac Ireland vs Dtqg Hungary",
-      "home_name": "Dtqg Bac Ireland",
-      "away_name": "Dtqg Hungary",
-      "date": "29/09/2026",
-      "time": "01:45",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/218344619d8fb95d504ccfa11804073f.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/22b55de76e6a8c7258e4661e8343ff3e.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/clb-romania-vs-dtqg-bosnia-herzegovina-luc-0145-ngay-29-09-2026-8lk2dir3mwxsz73": {
-      "match_url": "https://colatv77.live/truc-tiep/clb-romania-vs-dtqg-bosnia-herzegovina-luc-0145-ngay-29-09-2026-8lk2dir3mwxsz73",
-      "name": "Clb Romania vs Dtqg Bosnia Herzegovina",
-      "home_name": "Clb Romania",
-      "away_name": "Dtqg Bosnia Herzegovina",
-      "date": "29/09/2026",
-      "time": "01:45",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/1f8d87e1161af68b81bace188a1ec624.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/5301386c592331424197d34172de723a.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/botswana-vs-tunisia-luc-0200-ngay-29-09-2026-63kv9igdp8ptx7e": {
-      "match_url": "https://colatv77.live/truc-tiep/botswana-vs-tunisia-luc-0200-ngay-29-09-2026-63kv9igdp8ptx7e",
-      "name": "Botswana vs Tunisia",
-      "home_name": "Botswana",
-      "away_name": "Tunisia",
-      "date": "29/09/2026",
-      "time": "02:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/184cb48a11bd10712686ebd5611812af.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/7da9599ceaa0dd2498d02cc7985f5bde.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/clb-leganes-vs-castellon-luc-0130-ngay-29-09-2026-l6kegi853y8iv75": {
-      "match_url": "https://colatv77.live/truc-tiep/clb-leganes-vs-castellon-luc-0130-ngay-29-09-2026-l6kegi853y8iv75",
-      "name": "Clb Leganes vs Castellon",
-      "home_name": "Clb Leganes",
-      "away_name": "Castellon",
-      "date": "29/09/2026",
-      "time": "01:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/b6728832f1504989e57f8a43479429ec.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/ff7fc9b2fbb5adb548b62c8a1d342d16.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/cuba-vs-bonaire-luc-0400-ngay-29-09-2026-34kgmio9l2zueko": {
-      "match_url": "https://colatv77.live/truc-tiep/cuba-vs-bonaire-luc-0400-ngay-29-09-2026-34kgmio9l2zueko",
-      "name": "Cuba vs Bonaire",
-      "home_name": "Cuba",
-      "away_name": "Bonaire",
-      "date": "29/09/2026",
-      "time": "04:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/19406b9f645610fda9a0f6f27bdac710.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/1bd2c1e0a141eefffaf43b018e8a48d6.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/suriname-vs-martinique-luc-0500-ngay-29-09-2026-527r3i48dv6t47e": {
-      "match_url": "https://colatv77.live/truc-tiep/suriname-vs-martinique-luc-0500-ngay-29-09-2026-527r3i48dv6t47e",
-      "name": "Suriname vs Martinique",
-      "home_name": "Suriname",
-      "away_name": "Martinique",
-      "date": "29/09/2026",
-      "time": "05:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/d8775b779c58b408703f4e16b9feb26f.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/414440d40757c0f0ad4d6bf00a62f667.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/00a6ab569af8e8f6b99f1d1a4b4bcfbb.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/29739453e451f4a6df866a1b87facf3f.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
@@ -203,16 +101,16 @@
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/jamaica-vs-honduras-luc-0700-ngay-29-09-2026-ndkz6i35p91ixq3": {
-      "match_url": "https://colatv77.live/truc-tiep/jamaica-vs-honduras-luc-0700-ngay-29-09-2026-ndkz6i35p91ixq3",
-      "name": "Jamaica vs Honduras",
-      "home_name": "Jamaica",
-      "away_name": "Honduras",
+    "https://colatv77.live/truc-tiep/necaxa-nu-vs-toluca-nu-luc-0806-ngay-29-09-2026-edq09ilr1g4ieqx": {
+      "match_url": "https://colatv77.live/truc-tiep/necaxa-nu-vs-toluca-nu-luc-0806-ngay-29-09-2026-edq09ilr1g4ieqx",
+      "name": "Necaxa Nu vs Toluca Nu",
+      "home_name": "Necaxa Nu",
+      "away_name": "Toluca Nu",
       "date": "29/09/2026",
-      "time": "07:00",
+      "time": "08:06",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/f7779710d2026dca44c41da7a9b7c748.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/570197ce24c78651ca363a146213ba08.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/1972a91f675413d693c3946315e3f8ac.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/680f427a2bc69ae676240a60d8aa2bdb.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
