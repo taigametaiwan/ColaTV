@@ -1,123 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-09-29T12:36:57.705230+07:00",
+  "generated_at_vietnam": "2026-09-29T18:34:00.467580+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv77.live/truc-tiep/trieu-tien-nu-vs-trung-quoc-nu-luc-1300-ngay-29-09-2026-vrqwni01z30c4qn",
-      "https://colatv77.live/truc-tiep/philippines-vs-pakistan-luc-1600-ngay-29-09-2026-vmqy9iv2xpmcgk9",
-      "https://colatv77.live/truc-tiep/dtqg-uc-vs-brazil-luc-1700-ngay-29-09-2026-69759ig4jngsgk2",
-      "https://colatv77.live/truc-tiep/ehime-fc-vs-clb-tokyo-luc-1700-ngay-29-09-2026-vmqy9iyep8lhgk9",
-      "https://colatv77.live/truc-tiep/kataller-toyama-vs-urawa-reds-luc-1700-ngay-29-09-2026-69759irwvvmsgk2",
-      "https://colatv77.live/truc-tiep/fujieda-myfc-vs-cerezo-osaka-luc-1700-ngay-29-09-2026-63kv9i6z44dux7e"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv77.live/truc-tiep/trieu-tien-nu-vs-trung-quoc-nu-luc-1300-ngay-29-09-2026-vrqwni01z30c4qn": {
-      "match_url": "https://colatv77.live/truc-tiep/trieu-tien-nu-vs-trung-quoc-nu-luc-1300-ngay-29-09-2026-vrqwni01z30c4qn",
-      "name": "Trieu Tien Nu vs Trung Quoc Nu",
-      "home_name": "Trieu Tien Nu",
-      "away_name": "Trung Quoc Nu",
-      "date": "29/09/2026",
-      "time": "13:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/b6b90237b3ebd1e462a5d11dbc5c4dae.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/fd3dd61e88396b2c01611167ed0867eb.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/philippines-vs-pakistan-luc-1600-ngay-29-09-2026-vmqy9iv2xpmcgk9": {
-      "match_url": "https://colatv77.live/truc-tiep/philippines-vs-pakistan-luc-1600-ngay-29-09-2026-vmqy9iv2xpmcgk9",
-      "name": "Philippines vs Pakistan",
-      "home_name": "Philippines",
-      "away_name": "Pakistan",
-      "date": "29/09/2026",
-      "time": "16:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/0c620bcfc2a979fe9f22acbe0019f276.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/573572e4e9a8486a02fbc7eeeaffba7b.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/dtqg-uc-vs-brazil-luc-1700-ngay-29-09-2026-69759ig4jngsgk2": {
-      "match_url": "https://colatv77.live/truc-tiep/dtqg-uc-vs-brazil-luc-1700-ngay-29-09-2026-69759ig4jngsgk2",
-      "name": "Dtqg Uc vs Brazil",
-      "home_name": "Dtqg Uc",
-      "away_name": "Brazil",
-      "date": "29/09/2026",
-      "time": "17:00",
-      "league": "",
-      "home_logo": "https://colatv77.live/assets/images/logo.png",
-      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/ehime-fc-vs-clb-tokyo-luc-1700-ngay-29-09-2026-vmqy9iyep8lhgk9": {
-      "match_url": "https://colatv77.live/truc-tiep/ehime-fc-vs-clb-tokyo-luc-1700-ngay-29-09-2026-vmqy9iyep8lhgk9",
-      "name": "Ehime Fc vs Clb Tokyo",
-      "home_name": "Ehime Fc",
-      "away_name": "Clb Tokyo",
-      "date": "29/09/2026",
-      "time": "17:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/ada2fba6258d87de3a01849042b87a2c.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/333df39860930a21cf72b4e9664723ab.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/kataller-toyama-vs-urawa-reds-luc-1700-ngay-29-09-2026-69759irwvvmsgk2": {
-      "match_url": "https://colatv77.live/truc-tiep/kataller-toyama-vs-urawa-reds-luc-1700-ngay-29-09-2026-69759irwvvmsgk2",
-      "name": "Kataller Toyama vs Urawa Reds",
-      "home_name": "Kataller Toyama",
-      "away_name": "Urawa Reds",
-      "date": "29/09/2026",
-      "time": "17:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/8b9ca3d6a9a5b9573992e58b972e96fd.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/ca15e36551392e8c99b53b5b2f8531d3.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/fujieda-myfc-vs-cerezo-osaka-luc-1700-ngay-29-09-2026-63kv9i6z44dux7e": {
-      "match_url": "https://colatv77.live/truc-tiep/fujieda-myfc-vs-cerezo-osaka-luc-1700-ngay-29-09-2026-63kv9i6z44dux7e",
-      "name": "Fujieda Myfc vs Cerezo Osaka",
-      "home_name": "Fujieda Myfc",
-      "away_name": "Cerezo Osaka",
-      "date": "29/09/2026",
-      "time": "17:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/89fbdff34136c67636e2b4875ab03043.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/ab10ee503e539e55a9a11a9ff202405a.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
