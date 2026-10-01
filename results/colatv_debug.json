@@ -1,123 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-10-01T14:44:37.478571+07:00",
+  "generated_at_vietnam": "2026-10-01T22:28:39.352123+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv77.live/truc-tiep/panama-vs-new-zealand-luc-1310-ngay-01-10-2026-g6763ipn28dao7r",
-      "https://colatv77.live/truc-tiep/khaan-khuns-erchim-vs-central-stallions-luc-1500-ngay-01-10-2026-oj7x9ixo42yi47g",
-      "https://colatv77.live/truc-tiep/tasmania-jacknguoi-nhay-vs-melbourne-tigers-luc-1630-ngay-01-10-2026-j374ws9xpprigko",
-      "https://colatv77.live/truc-tiep/doi-tuyen-bong-da-quoc-gia-nhat-ban-vs-ecuador-luc-1710-ngay-01-10-2026-ezk96ij0y15f1kn",
-      "https://colatv77.live/truc-tiep/malaysia-vs-singapore-luc-1930-ngay-01-10-2026-527r3i48rv4u47e",
-      "https://colatv77.live/truc-tiep/indonesia-vs-doi-tuyen-quoc-gia-bangladesh-luc-1930-ngay-01-10-2026-ndkz6i35d9luxq3"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv77.live/truc-tiep/panama-vs-new-zealand-luc-1310-ngay-01-10-2026-g6763ipn28dao7r": {
-      "match_url": "https://colatv77.live/truc-tiep/panama-vs-new-zealand-luc-1310-ngay-01-10-2026-g6763ipn28dao7r",
-      "name": "Panama vs New Zealand",
-      "home_name": "Panama",
-      "away_name": "New Zealand",
-      "date": "01/10/2026",
-      "time": "13:10",
-      "league": "",
-      "home_logo": "https://colatv77.live/assets/images/logo.png",
-      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/khaan-khuns-erchim-vs-central-stallions-luc-1500-ngay-01-10-2026-oj7x9ixo42yi47g": {
-      "match_url": "https://colatv77.live/truc-tiep/khaan-khuns-erchim-vs-central-stallions-luc-1500-ngay-01-10-2026-oj7x9ixo42yi47g",
-      "name": "Khaan Khuns Erchim vs Central Stallions",
-      "home_name": "Khaan Khuns Erchim",
-      "away_name": "Central Stallions",
-      "date": "01/10/2026",
-      "time": "15:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/c8188e3985db5cee9be1f4ea436f2fc2.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/83e44ba57d434d8cbf781f7ee0b249bd.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/tasmania-jacknguoi-nhay-vs-melbourne-tigers-luc-1630-ngay-01-10-2026-j374ws9xpprigko": {
-      "match_url": "https://colatv77.live/truc-tiep/tasmania-jacknguoi-nhay-vs-melbourne-tigers-luc-1630-ngay-01-10-2026-j374ws9xpprigko",
-      "name": "Tasmania Jacknguoi Nhay vs Melbourne Tigers",
-      "home_name": "Tasmania Jacknguoi Nhay",
-      "away_name": "Melbourne Tigers",
-      "date": "01/10/2026",
-      "time": "16:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/5bb229debebf925ddf93351301f54b40.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/1378fd08dd9c93b8b32faec38114cc24.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/doi-tuyen-bong-da-quoc-gia-nhat-ban-vs-ecuador-luc-1710-ngay-01-10-2026-ezk96ij0y15f1kn": {
-      "match_url": "https://colatv77.live/truc-tiep/doi-tuyen-bong-da-quoc-gia-nhat-ban-vs-ecuador-luc-1710-ngay-01-10-2026-ezk96ij0y15f1kn",
-      "name": "Doi Tuyen Bong Da Quoc Gia Nhat Ban vs Ecuador",
-      "home_name": "Doi Tuyen Bong Da Quoc Gia Nhat Ban",
-      "away_name": "Ecuador",
-      "date": "01/10/2026",
-      "time": "17:10",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/cb4f05e5448145bbba8c26a840ab900d.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/4bcd83a98bc4ee323ec93c0f0e704d04.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/malaysia-vs-singapore-luc-1930-ngay-01-10-2026-527r3i48rv4u47e": {
-      "match_url": "https://colatv77.live/truc-tiep/malaysia-vs-singapore-luc-1930-ngay-01-10-2026-527r3i48rv4u47e",
-      "name": "Malaysia vs Singapore",
-      "home_name": "Malaysia",
-      "away_name": "Singapore",
-      "date": "01/10/2026",
-      "time": "19:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/9e5b39abe0157cedd650c0d0c5cbd767.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv77.live/truc-tiep/indonesia-vs-doi-tuyen-quoc-gia-bangladesh-luc-1930-ngay-01-10-2026-ndkz6i35d9luxq3": {
-      "match_url": "https://colatv77.live/truc-tiep/indonesia-vs-doi-tuyen-quoc-gia-bangladesh-luc-1930-ngay-01-10-2026-ndkz6i35d9luxq3",
-      "name": "Indonesia vs Doi Tuyen Quoc Gia Bangladesh",
-      "home_name": "Indonesia",
-      "away_name": "Doi Tuyen Quoc Gia Bangladesh",
-      "date": "01/10/2026",
-      "time": "19:30",
-      "league": "",
-      "home_logo": "https://colatv77.live/assets/images/logo.png",
-      "away_logo": "https://colatv77.live/assets/images/icon_facebook.png",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
