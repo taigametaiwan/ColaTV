@@ -1,6 +1,6 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-10-05T01:37:28.192386+07:00",
+  "generated_at_vietnam": "2026-10-05T04:56:33.515856+07:00",
   "summary": {
     "discovered_match_pages": 6,
     "metadata_pages_read": 6,
@@ -11,106 +11,106 @@
   "discovery": {
     "start_url": "https://colatv77.live/",
     "match_urls": [
-      "https://colatv77.live/truc-tiep/bo-dao-nha-vs-na-uy-luc-0145-ngay-05-10-2026-9gklzi1522ram7x",
-      "https://colatv77.live/truc-tiep/dtqg-ha-lan-vs-serbia-luc-0145-ngay-05-10-2026-wv78xiv1995cokr",
-      "https://colatv77.live/truc-tiep/clb-greece-vs-duc-luc-0145-ngay-05-10-2026-jr7owipy99mfgq0",
-      "https://colatv77.live/truc-tiep/xu-wales-vs-dtqg-dan-mach-luc-0145-ngay-05-10-2026-ndkz6i3244ncxq3",
-      "https://colatv77.live/truc-tiep/ai-cap-vs-nam-phi-luc-0100-ngay-05-10-2026-l6kegir93x3bv75",
-      "https://colatv77.live/truc-tiep/ma-roc-vs-mali-luc-0100-ngay-05-10-2026-69759irwlogbgk2"
+      "https://colatv77.live/truc-tiep/trinidad-tobago-vs-curacao-luc-0500-ngay-05-10-2026-g6763i5gzwxuo7r",
+      "https://colatv77.live/truc-tiep/quan-dao-turks-caicos-vs-quan-dao-virgin-anh-luc-0300-ngay-05-10-2026-jek33i8l4jnf9ko",
+      "https://colatv77.live/truc-tiep/talleres-cordoba-vs-belgrano-luc-0300-ngay-05-10-2026-l6kegi8038ocv75",
+      "https://colatv77.live/truc-tiep/bahamas-vs-quan-dao-virgin-my-luc-0300-ngay-05-10-2026-9gklzi1gx39um7x",
+      "https://colatv77.live/truc-tiep/golden-state-valkyries-vs-las-vegas-aces-luc-0300-ngay-05-10-2026-63kvlsoy22mhx7e",
+      "https://colatv77.live/truc-tiep/puerto-rico-vs-quan-dao-cayman-luc-0500-ngay-05-10-2026-m2q15izoyg2fe76"
     ],
     "errors": {}
   },
   "matches": {
-    "https://colatv77.live/truc-tiep/bo-dao-nha-vs-na-uy-luc-0145-ngay-05-10-2026-9gklzi1522ram7x": {
-      "match_url": "https://colatv77.live/truc-tiep/bo-dao-nha-vs-na-uy-luc-0145-ngay-05-10-2026-9gklzi1522ram7x",
-      "name": "Bo Dao Nha vs Na Uy",
-      "home_name": "Bo Dao Nha",
-      "away_name": "Na Uy",
+    "https://colatv77.live/truc-tiep/trinidad-tobago-vs-curacao-luc-0500-ngay-05-10-2026-g6763i5gzwxuo7r": {
+      "match_url": "https://colatv77.live/truc-tiep/trinidad-tobago-vs-curacao-luc-0500-ngay-05-10-2026-g6763i5gzwxuo7r",
+      "name": "Trinidad Tobago vs Curacao",
+      "home_name": "Trinidad Tobago",
+      "away_name": "Curacao",
       "date": "05/10/2026",
-      "time": "01:45",
+      "time": "05:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/d92d7ec47187a662aacda2d4b4c7628e.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/51934729f32d36841a17e43e9390483a.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/edb8dfb5b878d0e33c4a86488ad8eb6a.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/31fd3b7fb312954c8a781d31f83166b7.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/dtqg-ha-lan-vs-serbia-luc-0145-ngay-05-10-2026-wv78xiv1995cokr": {
-      "match_url": "https://colatv77.live/truc-tiep/dtqg-ha-lan-vs-serbia-luc-0145-ngay-05-10-2026-wv78xiv1995cokr",
-      "name": "Dtqg Ha Lan vs Serbia",
-      "home_name": "Dtqg Ha Lan",
-      "away_name": "Serbia",
+    "https://colatv77.live/truc-tiep/quan-dao-turks-caicos-vs-quan-dao-virgin-anh-luc-0300-ngay-05-10-2026-jek33i8l4jnf9ko": {
+      "match_url": "https://colatv77.live/truc-tiep/quan-dao-turks-caicos-vs-quan-dao-virgin-anh-luc-0300-ngay-05-10-2026-jek33i8l4jnf9ko",
+      "name": "Quan Dao Turks Caicos vs Quan Dao Virgin Anh",
+      "home_name": "Quan Dao Turks Caicos",
+      "away_name": "Quan Dao Virgin Anh",
       "date": "05/10/2026",
-      "time": "01:45",
+      "time": "03:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/fb9d433088a21464e7d634c4e190b31a.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/059bbd8df7767d3bc7829e3735c221e2.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/1415dc375c993c821db970fdf320c0e8.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/35ce49daeea2bdae89607a6c0a8e8527.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/clb-greece-vs-duc-luc-0145-ngay-05-10-2026-jr7owipy99mfgq0": {
-      "match_url": "https://colatv77.live/truc-tiep/clb-greece-vs-duc-luc-0145-ngay-05-10-2026-jr7owipy99mfgq0",
-      "name": "Clb Greece vs Duc",
-      "home_name": "Clb Greece",
-      "away_name": "Duc",
+    "https://colatv77.live/truc-tiep/talleres-cordoba-vs-belgrano-luc-0300-ngay-05-10-2026-l6kegi8038ocv75": {
+      "match_url": "https://colatv77.live/truc-tiep/talleres-cordoba-vs-belgrano-luc-0300-ngay-05-10-2026-l6kegi8038ocv75",
+      "name": "Talleres Cordoba vs Belgrano",
+      "home_name": "Talleres Cordoba",
+      "away_name": "Belgrano",
       "date": "05/10/2026",
-      "time": "01:45",
+      "time": "03:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/1da38e9fc1f765ffa964a0ab64c8d8fe.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/5856c2f4a854359864b18f9aed3f8874.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/44cb6b8a76b2194e16849eace4743e54.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/f24c6d2696f439d43875fba52100991d.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/xu-wales-vs-dtqg-dan-mach-luc-0145-ngay-05-10-2026-ndkz6i3244ncxq3": {
-      "match_url": "https://colatv77.live/truc-tiep/xu-wales-vs-dtqg-dan-mach-luc-0145-ngay-05-10-2026-ndkz6i3244ncxq3",
-      "name": "Xu Wales vs Dtqg Dan Mach",
-      "home_name": "Xu Wales",
-      "away_name": "Dtqg Dan Mach",
+    "https://colatv77.live/truc-tiep/bahamas-vs-quan-dao-virgin-my-luc-0300-ngay-05-10-2026-9gklzi1gx39um7x": {
+      "match_url": "https://colatv77.live/truc-tiep/bahamas-vs-quan-dao-virgin-my-luc-0300-ngay-05-10-2026-9gklzi1gx39um7x",
+      "name": "Bahamas vs Quan Dao Virgin My",
+      "home_name": "Bahamas",
+      "away_name": "Quan Dao Virgin My",
       "date": "05/10/2026",
-      "time": "01:45",
+      "time": "03:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/588f43d3d2fe15b2dad77de9f2cc5c51.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/685d3703a0b1410dc3bf2280eb5a15ec.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/33f4365d46e7dad72e198ab5326ba525.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/7de64628d6c08c86d7a1b4a1027b97b8.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/ai-cap-vs-nam-phi-luc-0100-ngay-05-10-2026-l6kegir93x3bv75": {
-      "match_url": "https://colatv77.live/truc-tiep/ai-cap-vs-nam-phi-luc-0100-ngay-05-10-2026-l6kegir93x3bv75",
-      "name": "Ai Cap vs Nam Phi",
-      "home_name": "Ai Cap",
-      "away_name": "Nam Phi",
+    "https://colatv77.live/truc-tiep/golden-state-valkyries-vs-las-vegas-aces-luc-0300-ngay-05-10-2026-63kvlsoy22mhx7e": {
+      "match_url": "https://colatv77.live/truc-tiep/golden-state-valkyries-vs-las-vegas-aces-luc-0300-ngay-05-10-2026-63kvlsoy22mhx7e",
+      "name": "Golden State Valkyries vs Las Vegas Aces",
+      "home_name": "Golden State Valkyries",
+      "away_name": "Las Vegas Aces",
       "date": "05/10/2026",
-      "time": "01:00",
+      "time": "03:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/65a579da11fa712149bca347ecfcb208.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/a30bc83d95b629973ef10dbe8221ca63.png!w80",
+      "home_logo": "https://img.gvapi.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/ce8ab1125fdb3fdbd8c09dba8c437c49.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv77.live/truc-tiep/ma-roc-vs-mali-luc-0100-ngay-05-10-2026-69759irwlogbgk2": {
-      "match_url": "https://colatv77.live/truc-tiep/ma-roc-vs-mali-luc-0100-ngay-05-10-2026-69759irwlogbgk2",
-      "name": "Ma Roc vs Mali",
-      "home_name": "Ma Roc",
-      "away_name": "Mali",
+    "https://colatv77.live/truc-tiep/puerto-rico-vs-quan-dao-cayman-luc-0500-ngay-05-10-2026-m2q15izoyg2fe76": {
+      "match_url": "https://colatv77.live/truc-tiep/puerto-rico-vs-quan-dao-cayman-luc-0500-ngay-05-10-2026-m2q15izoyg2fe76",
+      "name": "Puerto Rico vs Quan Dao Cayman",
+      "home_name": "Puerto Rico",
+      "away_name": "Quan Dao Cayman",
       "date": "05/10/2026",
-      "time": "01:00",
+      "time": "05:00",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/d63036cfba56a5c3cb75ab14b33fe677.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/0a94eea42ecd117d87eb79c61bdd656e.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/80ce4326387c091af8b8647f3292c818.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/f6bbfd2ff6735cc0c673ddf4e39aa3dd.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
