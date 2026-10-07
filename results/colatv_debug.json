@@ -1,19 +1,123 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-10-07T14:10:07.550995+07:00",
+  "generated_at_vietnam": "2026-10-07T21:43:53.322653+07:00",
   "summary": {
-    "discovered_match_pages": 0,
-    "metadata_pages_read": 0,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [],
+    "match_urls": [
+      "https://colatv66.live/truc-tiep/kuching-city-fc-vs-clb-tampines-luc-2000-ngay-07-10-2026-8lk2dirpej5iz73",
+      "https://colatv66.live/truc-tiep/asyut-petroleum-vs-al-ahly-luc-2100-ngay-07-10-2026-63kv9i6z3o9hx7e",
+      "https://colatv66.live/truc-tiep/pyramids-vs-clb-olympic-el-qanal-luc-2100-ngay-07-10-2026-o17pji4639dsy7j",
+      "https://colatv66.live/truc-tiep/york-united-fc-vs-supra-du-quebec-luc-2200-ngay-07-10-2026-oj7x9ixvn8gi47g",
+      "https://colatv66.live/truc-tiep/clb-gnistan-helsinki-vs-inter-turku-luc-2300-ngay-07-10-2026-ndqmliw1yo1hrkv",
+      "https://colatv66.live/truc-tiep/zamalek-vs-zed-fc-luc-0000-ngay-08-10-2026-ndqmli9458jsrkv"
+    ],
     "errors": {}
   },
-  "matches": {},
+  "matches": {
+    "https://colatv66.live/truc-tiep/kuching-city-fc-vs-clb-tampines-luc-2000-ngay-07-10-2026-8lk2dirpej5iz73": {
+      "match_url": "https://colatv66.live/truc-tiep/kuching-city-fc-vs-clb-tampines-luc-2000-ngay-07-10-2026-8lk2dirpej5iz73",
+      "name": "Kuching City Fc vs Clb Tampines",
+      "home_name": "Kuching City Fc",
+      "away_name": "Clb Tampines",
+      "date": "07/10/2026",
+      "time": "20:00",
+      "league": "",
+      "home_logo": "https://colatv66.live/assets/images/logo.png",
+      "away_logo": "https://colatv66.live/assets/images/icon_facebook.png",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv66.live/truc-tiep/asyut-petroleum-vs-al-ahly-luc-2100-ngay-07-10-2026-63kv9i6z3o9hx7e": {
+      "match_url": "https://colatv66.live/truc-tiep/asyut-petroleum-vs-al-ahly-luc-2100-ngay-07-10-2026-63kv9i6z3o9hx7e",
+      "name": "Asyut Petroleum vs Al Ahly",
+      "home_name": "Asyut Petroleum",
+      "away_name": "Al Ahly",
+      "date": "07/10/2026",
+      "time": "21:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/8ae657d992b70843447d0e50108cbf37.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/e40a14044c93d0e5e2f9d558aa1640fa.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv66.live/truc-tiep/pyramids-vs-clb-olympic-el-qanal-luc-2100-ngay-07-10-2026-o17pji4639dsy7j": {
+      "match_url": "https://colatv66.live/truc-tiep/pyramids-vs-clb-olympic-el-qanal-luc-2100-ngay-07-10-2026-o17pji4639dsy7j",
+      "name": "Pyramids vs Clb Olympic El Qanal",
+      "home_name": "Pyramids",
+      "away_name": "Clb Olympic El Qanal",
+      "date": "07/10/2026",
+      "time": "21:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/0c750c05518db78eeabc97fb11574fed.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/5001f3461f97fc8f251c2ccaa73d76bc.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv66.live/truc-tiep/york-united-fc-vs-supra-du-quebec-luc-2200-ngay-07-10-2026-oj7x9ixvn8gi47g": {
+      "match_url": "https://colatv66.live/truc-tiep/york-united-fc-vs-supra-du-quebec-luc-2200-ngay-07-10-2026-oj7x9ixvn8gi47g",
+      "name": "York United Fc vs Supra Du Quebec",
+      "home_name": "York United Fc",
+      "away_name": "Supra Du Quebec",
+      "date": "07/10/2026",
+      "time": "22:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/a21ed4429fa4d40e8e1b26eef740521e.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/dda89ded6a1290219694047416afecdf.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv66.live/truc-tiep/clb-gnistan-helsinki-vs-inter-turku-luc-2300-ngay-07-10-2026-ndqmliw1yo1hrkv": {
+      "match_url": "https://colatv66.live/truc-tiep/clb-gnistan-helsinki-vs-inter-turku-luc-2300-ngay-07-10-2026-ndqmliw1yo1hrkv",
+      "name": "Clb Gnistan Helsinki vs Inter Turku",
+      "home_name": "Clb Gnistan Helsinki",
+      "away_name": "Inter Turku",
+      "date": "07/10/2026",
+      "time": "23:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/a19ee4a4454087b98d1f2bb9058a337e.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/f26fb30a9c60dd634d8b2f36afe0e8f1.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv66.live/truc-tiep/zamalek-vs-zed-fc-luc-0000-ngay-08-10-2026-ndqmli9458jsrkv": {
+      "match_url": "https://colatv66.live/truc-tiep/zamalek-vs-zed-fc-luc-0000-ngay-08-10-2026-ndqmli9458jsrkv",
+      "name": "Zamalek vs Zed Fc",
+      "home_name": "Zamalek",
+      "away_name": "Zed Fc",
+      "date": "08/10/2026",
+      "time": "00:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/6ad4e821a96f050ba29f431fbf57801e.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/a08754ab96c283bacbf148154a50c7fc.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    }
+  },
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
