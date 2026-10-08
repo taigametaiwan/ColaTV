@@ -1,123 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-10-08T13:36:19.856769+07:00",
+  "generated_at_vietnam": "2026-10-08T21:00:45.819668+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv66.live/truc-tiep/cairns-taipans-vs-brisbane-bullets-luc-1530-ngay-08-10-2026-6975lsn9220cgk2",
-      "https://colatv66.live/truc-tiep/phong-phu-ha-nam-nu-vs-ha-noi-nu-luc-1600-ngay-08-10-2026-j374oi0ynl6sgqo",
-      "https://colatv66.live/truc-tiep/ho-chi-minh-nu-vs-tks-viet-nam-nu-luc-1600-ngay-08-10-2026-ndqmliwnjp9hrkv",
-      "https://colatv66.live/truc-tiep/wonju-dongbu-promy-vs-lg-sakers-luc-1700-ngay-08-10-2026-g676jslz5j2tokr",
-      "https://colatv66.live/truc-tiep/shakhtar-karagandy-vs-akademiya-ontustik-luc-1700-ngay-08-10-2026-63kv9ig61rysx7e",
-      "https://colatv66.live/truc-tiep/fk-yelimay-semey-b-vs-fk-arys-luc-1700-ngay-08-10-2026-l6kegi84vm8iv75"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv66.live/truc-tiep/cairns-taipans-vs-brisbane-bullets-luc-1530-ngay-08-10-2026-6975lsn9220cgk2": {
-      "match_url": "https://colatv66.live/truc-tiep/cairns-taipans-vs-brisbane-bullets-luc-1530-ngay-08-10-2026-6975lsn9220cgk2",
-      "name": "Cairns Taipans vs Brisbane Bullets",
-      "home_name": "Cairns Taipans",
-      "away_name": "Brisbane Bullets",
-      "date": "08/10/2026",
-      "time": "15:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/80aa7ed27d9b9efbe7ac8b3d6e3798ef.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv66.live/truc-tiep/phong-phu-ha-nam-nu-vs-ha-noi-nu-luc-1600-ngay-08-10-2026-j374oi0ynl6sgqo": {
-      "match_url": "https://colatv66.live/truc-tiep/phong-phu-ha-nam-nu-vs-ha-noi-nu-luc-1600-ngay-08-10-2026-j374oi0ynl6sgqo",
-      "name": "Phong Phu Ha Nam Nu vs Ha Noi Nu",
-      "home_name": "Phong Phu Ha Nam Nu",
-      "away_name": "Ha Noi Nu",
-      "date": "08/10/2026",
-      "time": "16:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/2ee0214c45e742b6ae9a1107593918d5.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/b196a9a7e627dc15cfa96268035c454e.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv66.live/truc-tiep/ho-chi-minh-nu-vs-tks-viet-nam-nu-luc-1600-ngay-08-10-2026-ndqmliwnjp9hrkv": {
-      "match_url": "https://colatv66.live/truc-tiep/ho-chi-minh-nu-vs-tks-viet-nam-nu-luc-1600-ngay-08-10-2026-ndqmliwnjp9hrkv",
-      "name": "Ho Chi Minh Nu vs Tks Viet Nam Nu",
-      "home_name": "Ho Chi Minh Nu",
-      "away_name": "Tks Viet Nam Nu",
-      "date": "08/10/2026",
-      "time": "16:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/093bfeeaa5b64817e7ced2beada10b08.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/4535b4701b1056d0ddef43d6a19d8884.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv66.live/truc-tiep/wonju-dongbu-promy-vs-lg-sakers-luc-1700-ngay-08-10-2026-g676jslz5j2tokr": {
-      "match_url": "https://colatv66.live/truc-tiep/wonju-dongbu-promy-vs-lg-sakers-luc-1700-ngay-08-10-2026-g676jslz5j2tokr",
-      "name": "Wonju Dongbu Promy vs Lg Sakers",
-      "home_name": "Wonju Dongbu Promy",
-      "away_name": "Lg Sakers",
-      "date": "08/10/2026",
-      "time": "17:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/b3a61f88692a8a3836f3b93ba65b98da.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv66.live/truc-tiep/shakhtar-karagandy-vs-akademiya-ontustik-luc-1700-ngay-08-10-2026-63kv9ig61rysx7e": {
-      "match_url": "https://colatv66.live/truc-tiep/shakhtar-karagandy-vs-akademiya-ontustik-luc-1700-ngay-08-10-2026-63kv9ig61rysx7e",
-      "name": "Shakhtar Karagandy vs Akademiya Ontustik",
-      "home_name": "Shakhtar Karagandy",
-      "away_name": "Akademiya Ontustik",
-      "date": "08/10/2026",
-      "time": "17:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/7d7e431fc196682b785b0558b77d182a.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/9fd252984e0e48f24d736e43fec2cd2d.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv66.live/truc-tiep/fk-yelimay-semey-b-vs-fk-arys-luc-1700-ngay-08-10-2026-l6kegi84vm8iv75": {
-      "match_url": "https://colatv66.live/truc-tiep/fk-yelimay-semey-b-vs-fk-arys-luc-1700-ngay-08-10-2026-l6kegi84vm8iv75",
-      "name": "Fk Yelimay Semey B vs Fk Arys",
-      "home_name": "Fk Yelimay Semey B",
-      "away_name": "Fk Arys",
-      "date": "08/10/2026",
-      "time": "17:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/6e1508c9ed47664bfe25e353a37e4c50.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/dff243319f536af2557bca3e82143a73.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
