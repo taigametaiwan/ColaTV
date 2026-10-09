@@ -1,6 +1,6 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-10-09T02:52:36.522792+07:00",
+  "generated_at_vietnam": "2026-10-09T07:17:33.005667+07:00",
   "summary": {
     "discovered_match_pages": 12,
     "metadata_pages_read": 12,
@@ -11,54 +11,22 @@
   "discovery": {
     "start_url": "https://colatv77.live/",
     "match_urls": [
-      "https://colatv66.live/truc-tiep/clb-shamrock-rovers-vs-drogheda-utd-luc-0200-ngay-09-10-2026-vmqy9ivnr4rigk9",
-      "https://colatv66.live/truc-tiep/atletico-fc-vs-cartagena-luc-0330-ngay-09-10-2026-m2q15izyrzwfe76",
       "https://colatv66.live/truc-tiep/clb-santos-vs-clb-flamengo-luc-0530-ngay-09-10-2026-edq09ildm03ceqx",
+      "https://colatv66.live/truc-tiep/atletico-nacional-vs-deportes-tolima-luc-0605-ngay-09-10-2026-vrqwni4jgjgf4qn",
+      "https://colatv66.live/truc-tiep/athletico-pr-vs-clb-atletico-mineiro-luc-0600-ngay-09-10-2026-xvkjoi8z9olb879",
       "https://colatv66.live/truc-tiep/clb-ceara-vs-criciuma-luc-0530-ngay-09-10-2026-o17pjioozn1hy7j",
       "https://colatv66.live/truc-tiep/cleveland-cavaliers-vs-doi-bong-ro-boston-celtics-luc-0600-ngay-09-10-2026-9gkl6s62gr4umkx",
-      "https://colatv66.live/truc-tiep/athletico-pr-vs-clb-atletico-mineiro-luc-0600-ngay-09-10-2026-xvkjoi8z9olb879",
-      "https://colatv66.live/truc-tiep/atletico-nacional-vs-deportes-tolima-luc-0605-ngay-09-10-2026-vrqwni4jgjgf4qn",
       "https://colatv66.live/truc-tiep/new-york-knicks-vs-washington-wizards-luc-0630-ngay-09-10-2026-xvkjvszwvnmb8k9",
       "https://colatv66.live/truc-tiep/san-antonio-spurs-vs-atlanta-hawks-luc-0700-ngay-09-10-2026-527rjsw28l3h4ke",
-      "https://colatv66.live/truc-tiep/fluminense-rj-vs-coritiba-luc-0730-ngay-09-10-2026-ndkz6i3nz83sxq3",
       "https://colatv66.live/truc-tiep/palmeiras-vs-bahia-luc-0730-ngay-09-10-2026-34kgmio12xrfeko",
-      "https://colatv66.live/truc-tiep/alebrijes-de-oaxaca-vs-correcaminos-luc-0800-ngay-09-10-2026-l6kegi8dv3wcv75"
+      "https://colatv66.live/truc-tiep/fluminense-rj-vs-coritiba-luc-0730-ngay-09-10-2026-ndkz6i3nz83sxq3",
+      "https://colatv66.live/truc-tiep/alebrijes-de-oaxaca-vs-correcaminos-luc-0800-ngay-09-10-2026-l6kegi8dv3wcv75",
+      "https://colatv66.live/truc-tiep/international-san-carlos-vs-perez-zeledon-luc-0900-ngay-09-10-2026-edq09il1ogzseqx",
+      "https://colatv66.live/truc-tiep/los-angeles-lakers-vs-sacramento-kings-luc-0930-ngay-09-10-2026-zrknxs56j52iwql"
     ],
     "errors": {}
   },
   "matches": {
-    "https://colatv66.live/truc-tiep/clb-shamrock-rovers-vs-drogheda-utd-luc-0200-ngay-09-10-2026-vmqy9ivnr4rigk9": {
-      "match_url": "https://colatv66.live/truc-tiep/clb-shamrock-rovers-vs-drogheda-utd-luc-0200-ngay-09-10-2026-vmqy9ivnr4rigk9",
-      "name": "Clb Shamrock Rovers vs Drogheda Utd",
-      "home_name": "Clb Shamrock Rovers",
-      "away_name": "Drogheda Utd",
-      "date": "09/10/2026",
-      "time": "02:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/52a0b0ec8cb8af8d29711d63ed1d0c8c.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/2ab30f41e9c824b1cdd5ebcded771df2.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv66.live/truc-tiep/atletico-fc-vs-cartagena-luc-0330-ngay-09-10-2026-m2q15izyrzwfe76": {
-      "match_url": "https://colatv66.live/truc-tiep/atletico-fc-vs-cartagena-luc-0330-ngay-09-10-2026-m2q15izyrzwfe76",
-      "name": "Atletico Fc vs Cartagena",
-      "home_name": "Atletico Fc",
-      "away_name": "Cartagena",
-      "date": "09/10/2026",
-      "time": "03:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/2efb310d5e0ffe6cd96dcf192ae06624.jpg!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/043a70a1b54a7fcc970fbe3053996fa0.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
     "https://colatv66.live/truc-tiep/clb-santos-vs-clb-flamengo-luc-0530-ngay-09-10-2026-edq09ildm03ceqx": {
       "match_url": "https://colatv66.live/truc-tiep/clb-santos-vs-clb-flamengo-luc-0530-ngay-09-10-2026-edq09ildm03ceqx",
       "name": "Clb Santos vs Clb Flamengo",
@@ -69,6 +37,38 @@
       "league": "",
       "home_logo": "https://img.gvapi.cc/football/team/0840bace9b911b3f0dbadb710ea20316.png!w80",
       "away_logo": "https://img.gvapi.cc/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv66.live/truc-tiep/atletico-nacional-vs-deportes-tolima-luc-0605-ngay-09-10-2026-vrqwni4jgjgf4qn": {
+      "match_url": "https://colatv66.live/truc-tiep/atletico-nacional-vs-deportes-tolima-luc-0605-ngay-09-10-2026-vrqwni4jgjgf4qn",
+      "name": "Atletico Nacional vs Deportes Tolima",
+      "home_name": "Atletico Nacional",
+      "away_name": "Deportes Tolima",
+      "date": "09/10/2026",
+      "time": "06:05",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/4ee24366d09a9239bb2c4207a5008111.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/40f17f08ff7bb44a641273044db78c64.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv66.live/truc-tiep/athletico-pr-vs-clb-atletico-mineiro-luc-0600-ngay-09-10-2026-xvkjoi8z9olb879": {
+      "match_url": "https://colatv66.live/truc-tiep/athletico-pr-vs-clb-atletico-mineiro-luc-0600-ngay-09-10-2026-xvkjoi8z9olb879",
+      "name": "Athletico Pr vs Clb Atletico Mineiro",
+      "home_name": "Athletico Pr",
+      "away_name": "Clb Atletico Mineiro",
+      "date": "09/10/2026",
+      "time": "06:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/1b54e9fdbe9c936023c55299da4165b7.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/079e86cebd6511ce807cc6073a3e26ee.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
@@ -107,38 +107,6 @@
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv66.live/truc-tiep/athletico-pr-vs-clb-atletico-mineiro-luc-0600-ngay-09-10-2026-xvkjoi8z9olb879": {
-      "match_url": "https://colatv66.live/truc-tiep/athletico-pr-vs-clb-atletico-mineiro-luc-0600-ngay-09-10-2026-xvkjoi8z9olb879",
-      "name": "Athletico Pr vs Clb Atletico Mineiro",
-      "home_name": "Athletico Pr",
-      "away_name": "Clb Atletico Mineiro",
-      "date": "09/10/2026",
-      "time": "06:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/1b54e9fdbe9c936023c55299da4165b7.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/079e86cebd6511ce807cc6073a3e26ee.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv66.live/truc-tiep/atletico-nacional-vs-deportes-tolima-luc-0605-ngay-09-10-2026-vrqwni4jgjgf4qn": {
-      "match_url": "https://colatv66.live/truc-tiep/atletico-nacional-vs-deportes-tolima-luc-0605-ngay-09-10-2026-vrqwni4jgjgf4qn",
-      "name": "Atletico Nacional vs Deportes Tolima",
-      "home_name": "Atletico Nacional",
-      "away_name": "Deportes Tolima",
-      "date": "09/10/2026",
-      "time": "06:05",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/4ee24366d09a9239bb2c4207a5008111.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/40f17f08ff7bb44a641273044db78c64.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
     "https://colatv66.live/truc-tiep/new-york-knicks-vs-washington-wizards-luc-0630-ngay-09-10-2026-xvkjvszwvnmb8k9": {
       "match_url": "https://colatv66.live/truc-tiep/new-york-knicks-vs-washington-wizards-luc-0630-ngay-09-10-2026-xvkjvszwvnmb8k9",
       "name": "New York Knicks vs Washington Wizards",
@@ -171,22 +139,6 @@
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv66.live/truc-tiep/fluminense-rj-vs-coritiba-luc-0730-ngay-09-10-2026-ndkz6i3nz83sxq3": {
-      "match_url": "https://colatv66.live/truc-tiep/fluminense-rj-vs-coritiba-luc-0730-ngay-09-10-2026-ndkz6i3nz83sxq3",
-      "name": "Fluminense Rj vs Coritiba",
-      "home_name": "Fluminense Rj",
-      "away_name": "Coritiba",
-      "date": "09/10/2026",
-      "time": "07:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/4f7a0095b9a3a4756318efd55451badb.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
     "https://colatv66.live/truc-tiep/palmeiras-vs-bahia-luc-0730-ngay-09-10-2026-34kgmio12xrfeko": {
       "match_url": "https://colatv66.live/truc-tiep/palmeiras-vs-bahia-luc-0730-ngay-09-10-2026-34kgmio12xrfeko",
       "name": "Palmeiras vs Bahia",
@@ -203,6 +155,22 @@
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
+    "https://colatv66.live/truc-tiep/fluminense-rj-vs-coritiba-luc-0730-ngay-09-10-2026-ndkz6i3nz83sxq3": {
+      "match_url": "https://colatv66.live/truc-tiep/fluminense-rj-vs-coritiba-luc-0730-ngay-09-10-2026-ndkz6i3nz83sxq3",
+      "name": "Fluminense Rj vs Coritiba",
+      "home_name": "Fluminense Rj",
+      "away_name": "Coritiba",
+      "date": "09/10/2026",
+      "time": "07:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/4f7a0095b9a3a4756318efd55451badb.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
     "https://colatv66.live/truc-tiep/alebrijes-de-oaxaca-vs-correcaminos-luc-0800-ngay-09-10-2026-l6kegi8dv3wcv75": {
       "match_url": "https://colatv66.live/truc-tiep/alebrijes-de-oaxaca-vs-correcaminos-luc-0800-ngay-09-10-2026-l6kegi8dv3wcv75",
       "name": "Alebrijes De Oaxaca vs Correcaminos",
@@ -213,6 +181,38 @@
       "league": "",
       "home_logo": "https://img.gvapi.cc/football/team/96f56d32d59119eb9bf3cab69e9a19f8.png!w80",
       "away_logo": "https://img.gvapi.cc/football/team/6aa5e53f3b58a620f1f2b2fd589d9e7c.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv66.live/truc-tiep/international-san-carlos-vs-perez-zeledon-luc-0900-ngay-09-10-2026-edq09il1ogzseqx": {
+      "match_url": "https://colatv66.live/truc-tiep/international-san-carlos-vs-perez-zeledon-luc-0900-ngay-09-10-2026-edq09il1ogzseqx",
+      "name": "International San Carlos vs Perez Zeledon",
+      "home_name": "International San Carlos",
+      "away_name": "Perez Zeledon",
+      "date": "09/10/2026",
+      "time": "09:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/fc2983212373493c10636dc641310eea.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/e8d089f0d29477125a0393f01a260848.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv66.live/truc-tiep/los-angeles-lakers-vs-sacramento-kings-luc-0930-ngay-09-10-2026-zrknxs56j52iwql": {
+      "match_url": "https://colatv66.live/truc-tiep/los-angeles-lakers-vs-sacramento-kings-luc-0930-ngay-09-10-2026-zrknxs56j52iwql",
+      "name": "Los Angeles Lakers vs Sacramento Kings",
+      "home_name": "Los Angeles Lakers",
+      "away_name": "Sacramento Kings",
+      "date": "09/10/2026",
+      "time": "09:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
