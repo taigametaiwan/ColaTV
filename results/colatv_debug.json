@@ -1,19 +1,123 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-10-09T13:38:36.795095+07:00",
+  "generated_at_vietnam": "2026-10-09T21:19:35.576634+07:00",
   "summary": {
-    "discovered_match_pages": 0,
-    "metadata_pages_read": 0,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [],
+    "match_urls": [
+      "https://colatv66.live/truc-tiep/al-kholood-vs-al-qadisiya-luc-2050-ngay-09-10-2026-oj7x9ixgj0dt47g",
+      "https://colatv66.live/truc-tiep/al-wahda-vs-clb-al-dhafra-luc-2010-ngay-09-10-2026-g6763ipno50bo7r",
+      "https://colatv66.live/truc-tiep/clb-sivasspor-vs-clb-pendikspor-luc-2100-ngay-09-10-2026-zrkn6i4641otwql",
+      "https://colatv66.live/truc-tiep/dallas-mavericks-vs-houston-rockets-luc-1900-ngay-09-10-2026-wv784sx9omysoqr",
+      "https://colatv66.live/truc-tiep/clb-bodrumspor-vs-keciorengucu-luc-2100-ngay-09-10-2026-ndqmliw6wwrirkv",
+      "https://colatv66.live/truc-tiep/qatar-sc-vs-al-rayyan-luc-2145-ngay-09-10-2026-jek33i84jzpu9ko"
+    ],
     "errors": {}
   },
-  "matches": {},
+  "matches": {
+    "https://colatv66.live/truc-tiep/al-kholood-vs-al-qadisiya-luc-2050-ngay-09-10-2026-oj7x9ixgj0dt47g": {
+      "match_url": "https://colatv66.live/truc-tiep/al-kholood-vs-al-qadisiya-luc-2050-ngay-09-10-2026-oj7x9ixgj0dt47g",
+      "name": "Al Kholood vs Al Qadisiya",
+      "home_name": "Al Kholood",
+      "away_name": "Al Qadisiya",
+      "date": "09/10/2026",
+      "time": "20:50",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/068aa9b10aa4d47ab3a8fdbe8b716518.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/bc74439d19c8bbaa17c57406b120b86d.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv66.live/truc-tiep/al-wahda-vs-clb-al-dhafra-luc-2010-ngay-09-10-2026-g6763ipno50bo7r": {
+      "match_url": "https://colatv66.live/truc-tiep/al-wahda-vs-clb-al-dhafra-luc-2010-ngay-09-10-2026-g6763ipno50bo7r",
+      "name": "Al Wahda vs Clb Al Dhafra",
+      "home_name": "Al Wahda",
+      "away_name": "Clb Al Dhafra",
+      "date": "09/10/2026",
+      "time": "20:10",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/da5a07224920e4856d3b14e7e1a86741.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/8872919405e0076fb753ae6492a0a2db.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv66.live/truc-tiep/clb-sivasspor-vs-clb-pendikspor-luc-2100-ngay-09-10-2026-zrkn6i4641otwql": {
+      "match_url": "https://colatv66.live/truc-tiep/clb-sivasspor-vs-clb-pendikspor-luc-2100-ngay-09-10-2026-zrkn6i4641otwql",
+      "name": "Clb Sivasspor vs Clb Pendikspor",
+      "home_name": "Clb Sivasspor",
+      "away_name": "Clb Pendikspor",
+      "date": "09/10/2026",
+      "time": "21:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/228386b1b704899dc028000dbd27cac1.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/9a07394b2cdca16ac436a056d2acd4c9.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv66.live/truc-tiep/dallas-mavericks-vs-houston-rockets-luc-1900-ngay-09-10-2026-wv784sx9omysoqr": {
+      "match_url": "https://colatv66.live/truc-tiep/dallas-mavericks-vs-houston-rockets-luc-1900-ngay-09-10-2026-wv784sx9omysoqr",
+      "name": "Dallas Mavericks vs Houston Rockets",
+      "home_name": "Dallas Mavericks",
+      "away_name": "Houston Rockets",
+      "date": "09/10/2026",
+      "time": "19:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv66.live/truc-tiep/clb-bodrumspor-vs-keciorengucu-luc-2100-ngay-09-10-2026-ndqmliw6wwrirkv": {
+      "match_url": "https://colatv66.live/truc-tiep/clb-bodrumspor-vs-keciorengucu-luc-2100-ngay-09-10-2026-ndqmliw6wwrirkv",
+      "name": "Clb Bodrumspor vs Keciorengucu",
+      "home_name": "Clb Bodrumspor",
+      "away_name": "Keciorengucu",
+      "date": "09/10/2026",
+      "time": "21:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/52ad6d005782baec899d29055cbed020.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/8c04d7e93c287878ef0ddc9f8d214491.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv66.live/truc-tiep/qatar-sc-vs-al-rayyan-luc-2145-ngay-09-10-2026-jek33i84jzpu9ko": {
+      "match_url": "https://colatv66.live/truc-tiep/qatar-sc-vs-al-rayyan-luc-2145-ngay-09-10-2026-jek33i84jzpu9ko",
+      "name": "Qatar Sc vs Al Rayyan",
+      "home_name": "Qatar Sc",
+      "away_name": "Al Rayyan",
+      "date": "09/10/2026",
+      "time": "21:45",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/6bd99a31fd562a9e6b1db99d42d40b34.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/d36d53da32742efb1d00f27e959603a0.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    }
+  },
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
