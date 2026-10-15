@@ -1,9 +1,9 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-10-16T04:17:48.937672+07:00",
+  "generated_at_vietnam": "2026-10-16T06:49:11.326395+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 9,
+    "metadata_pages_read": 9,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
@@ -16,7 +16,10 @@
       "https://colatv55.live/truc-tiep/houston-rockets-vs-oklahoma-city-thunder-luc-0730-ngay-16-10-2026-o17p8sywn93sykj",
       "https://colatv55.live/truc-tiep/clb-estudiantes-la-plata-vs-clb-flamengo-luc-0730-ngay-16-10-2026-9gklzi5loe4cm7x",
       "https://colatv55.live/truc-tiep/clb-deportivo-saprissa-vs-clb-sporting-san-jose-luc-0900-ngay-16-10-2026-vrqwni4536os4qn",
-      "https://colatv55.live/truc-tiep/psim-yogyakarta-vs-psm-makassar-luc-1530-ngay-16-10-2026-g6763i5xjv5io7r"
+      "https://colatv55.live/truc-tiep/psim-yogyakarta-vs-psm-makassar-luc-1530-ngay-16-10-2026-g6763i5xjv5io7r",
+      "https://colatv55.live/truc-tiep/tasmania-jacknguoi-nhay-vs-adelaide-36ers-luc-1530-ngay-16-10-2026-vmqy6sn322ecgk9",
+      "https://colatv55.live/truc-tiep/sydney-fc-vs-clb-western-sydney-luc-1600-ngay-16-10-2026-527r3i4de4gh47e",
+      "https://colatv55.live/truc-tiep/thitsar-arman-fc-vs-ispe-fc-luc-1600-ngay-16-10-2026-o07dni5jp1gumkn"
     ],
     "errors": {}
   },
@@ -111,6 +114,54 @@
       "league": "",
       "home_logo": "https://img.gvapi.cc/football/team/1a64731cd883e9d734e29a83301ea849.png!w80",
       "away_logo": "https://img.gvapi.cc/football/team/0d74d0d263697b29a9ad3bfc78a6cc46.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv55.live/truc-tiep/tasmania-jacknguoi-nhay-vs-adelaide-36ers-luc-1530-ngay-16-10-2026-vmqy6sn322ecgk9": {
+      "match_url": "https://colatv55.live/truc-tiep/tasmania-jacknguoi-nhay-vs-adelaide-36ers-luc-1530-ngay-16-10-2026-vmqy6sn322ecgk9",
+      "name": "Tasmania Jacknguoi Nhay vs Adelaide 36Ers",
+      "home_name": "Tasmania Jacknguoi Nhay",
+      "away_name": "Adelaide 36Ers",
+      "date": "16/10/2026",
+      "time": "15:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/basketball/team/5bb229debebf925ddf93351301f54b40.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv55.live/truc-tiep/sydney-fc-vs-clb-western-sydney-luc-1600-ngay-16-10-2026-527r3i4de4gh47e": {
+      "match_url": "https://colatv55.live/truc-tiep/sydney-fc-vs-clb-western-sydney-luc-1600-ngay-16-10-2026-527r3i4de4gh47e",
+      "name": "Sydney Fc vs Clb Western Sydney",
+      "home_name": "Sydney Fc",
+      "away_name": "Clb Western Sydney",
+      "date": "16/10/2026",
+      "time": "16:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/65ad5821ea90c2eb91c4c159c6e62745.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv55.live/truc-tiep/thitsar-arman-fc-vs-ispe-fc-luc-1600-ngay-16-10-2026-o07dni5jp1gumkn": {
+      "match_url": "https://colatv55.live/truc-tiep/thitsar-arman-fc-vs-ispe-fc-luc-1600-ngay-16-10-2026-o07dni5jp1gumkn",
+      "name": "Thitsar Arman Fc vs Ispe Fc",
+      "home_name": "Thitsar Arman Fc",
+      "away_name": "Ispe Fc",
+      "date": "16/10/2026",
+      "time": "16:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/620580ad384044d097de6cc7c3a3cc45.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/47751f681935a504ad45c35e813c6baf.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
