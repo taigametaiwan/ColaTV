@@ -1,174 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-10-16T06:49:11.326395+07:00",
+  "generated_at_vietnam": "2026-10-16T11:22:24.462687+07:00",
   "summary": {
-    "discovered_match_pages": 9,
-    "metadata_pages_read": 9,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv55.live/truc-tiep/huracan-vs-clb-gimnasia-la-plata-luc-0600-ngay-16-10-2026-xvkjoi83v2ef879",
-      "https://colatv55.live/truc-tiep/new-york-knicks-vs-toronto-raptors-luc-0630-ngay-16-10-2026-34kgps1lwegfeko",
-      "https://colatv55.live/truc-tiep/houston-rockets-vs-oklahoma-city-thunder-luc-0730-ngay-16-10-2026-o17p8sywn93sykj",
-      "https://colatv55.live/truc-tiep/clb-estudiantes-la-plata-vs-clb-flamengo-luc-0730-ngay-16-10-2026-9gklzi5loe4cm7x",
-      "https://colatv55.live/truc-tiep/clb-deportivo-saprissa-vs-clb-sporting-san-jose-luc-0900-ngay-16-10-2026-vrqwni4536os4qn",
-      "https://colatv55.live/truc-tiep/psim-yogyakarta-vs-psm-makassar-luc-1530-ngay-16-10-2026-g6763i5xjv5io7r",
-      "https://colatv55.live/truc-tiep/tasmania-jacknguoi-nhay-vs-adelaide-36ers-luc-1530-ngay-16-10-2026-vmqy6sn322ecgk9",
-      "https://colatv55.live/truc-tiep/sydney-fc-vs-clb-western-sydney-luc-1600-ngay-16-10-2026-527r3i4de4gh47e",
-      "https://colatv55.live/truc-tiep/thitsar-arman-fc-vs-ispe-fc-luc-1600-ngay-16-10-2026-o07dni5jp1gumkn"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv55.live/truc-tiep/huracan-vs-clb-gimnasia-la-plata-luc-0600-ngay-16-10-2026-xvkjoi83v2ef879": {
-      "match_url": "https://colatv55.live/truc-tiep/huracan-vs-clb-gimnasia-la-plata-luc-0600-ngay-16-10-2026-xvkjoi83v2ef879",
-      "name": "Huracan vs Clb Gimnasia La Plata",
-      "home_name": "Huracan",
-      "away_name": "Clb Gimnasia La Plata",
-      "date": "16/10/2026",
-      "time": "06:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/3de7fff92c61b2ac93b08814386cf85d.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/f323884c2481d25aa4b316a43583b733.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv55.live/truc-tiep/new-york-knicks-vs-toronto-raptors-luc-0630-ngay-16-10-2026-34kgps1lwegfeko": {
-      "match_url": "https://colatv55.live/truc-tiep/new-york-knicks-vs-toronto-raptors-luc-0630-ngay-16-10-2026-34kgps1lwegfeko",
-      "name": "New York Knicks vs Toronto Raptors",
-      "home_name": "New York Knicks",
-      "away_name": "Toronto Raptors",
-      "date": "16/10/2026",
-      "time": "06:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv55.live/truc-tiep/houston-rockets-vs-oklahoma-city-thunder-luc-0730-ngay-16-10-2026-o17p8sywn93sykj": {
-      "match_url": "https://colatv55.live/truc-tiep/houston-rockets-vs-oklahoma-city-thunder-luc-0730-ngay-16-10-2026-o17p8sywn93sykj",
-      "name": "Houston Rockets vs Oklahoma City Thunder",
-      "home_name": "Houston Rockets",
-      "away_name": "Oklahoma City Thunder",
-      "date": "16/10/2026",
-      "time": "07:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/bcfe797437f18526ff4e62177021f638.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv55.live/truc-tiep/clb-estudiantes-la-plata-vs-clb-flamengo-luc-0730-ngay-16-10-2026-9gklzi5loe4cm7x": {
-      "match_url": "https://colatv55.live/truc-tiep/clb-estudiantes-la-plata-vs-clb-flamengo-luc-0730-ngay-16-10-2026-9gklzi5loe4cm7x",
-      "name": "Clb Estudiantes La Plata vs Clb Flamengo",
-      "home_name": "Clb Estudiantes La Plata",
-      "away_name": "Clb Flamengo",
-      "date": "16/10/2026",
-      "time": "07:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/815c22bf4ba2ec7ac989fe89c0dd6ecc.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/f19b2f9fa5b0c72acc262bc4f0d2cd77.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv55.live/truc-tiep/clb-deportivo-saprissa-vs-clb-sporting-san-jose-luc-0900-ngay-16-10-2026-vrqwni4536os4qn": {
-      "match_url": "https://colatv55.live/truc-tiep/clb-deportivo-saprissa-vs-clb-sporting-san-jose-luc-0900-ngay-16-10-2026-vrqwni4536os4qn",
-      "name": "Clb Deportivo Saprissa vs Clb Sporting San Jose",
-      "home_name": "Clb Deportivo Saprissa",
-      "away_name": "Clb Sporting San Jose",
-      "date": "16/10/2026",
-      "time": "09:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/9d9f49c182f05d684f38fbb480eba34b.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/168fd080867baf21c901a7eafd92ad41.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv55.live/truc-tiep/psim-yogyakarta-vs-psm-makassar-luc-1530-ngay-16-10-2026-g6763i5xjv5io7r": {
-      "match_url": "https://colatv55.live/truc-tiep/psim-yogyakarta-vs-psm-makassar-luc-1530-ngay-16-10-2026-g6763i5xjv5io7r",
-      "name": "Psim Yogyakarta vs Psm Makassar",
-      "home_name": "Psim Yogyakarta",
-      "away_name": "Psm Makassar",
-      "date": "16/10/2026",
-      "time": "15:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/1a64731cd883e9d734e29a83301ea849.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/0d74d0d263697b29a9ad3bfc78a6cc46.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv55.live/truc-tiep/tasmania-jacknguoi-nhay-vs-adelaide-36ers-luc-1530-ngay-16-10-2026-vmqy6sn322ecgk9": {
-      "match_url": "https://colatv55.live/truc-tiep/tasmania-jacknguoi-nhay-vs-adelaide-36ers-luc-1530-ngay-16-10-2026-vmqy6sn322ecgk9",
-      "name": "Tasmania Jacknguoi Nhay vs Adelaide 36Ers",
-      "home_name": "Tasmania Jacknguoi Nhay",
-      "away_name": "Adelaide 36Ers",
-      "date": "16/10/2026",
-      "time": "15:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/5bb229debebf925ddf93351301f54b40.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/af9d0a8374fb9658485eadbe1e224f4c.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv55.live/truc-tiep/sydney-fc-vs-clb-western-sydney-luc-1600-ngay-16-10-2026-527r3i4de4gh47e": {
-      "match_url": "https://colatv55.live/truc-tiep/sydney-fc-vs-clb-western-sydney-luc-1600-ngay-16-10-2026-527r3i4de4gh47e",
-      "name": "Sydney Fc vs Clb Western Sydney",
-      "home_name": "Sydney Fc",
-      "away_name": "Clb Western Sydney",
-      "date": "16/10/2026",
-      "time": "16:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/c834bd71b717263c6b93a5b5c1bf1ec7.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/65ad5821ea90c2eb91c4c159c6e62745.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv55.live/truc-tiep/thitsar-arman-fc-vs-ispe-fc-luc-1600-ngay-16-10-2026-o07dni5jp1gumkn": {
-      "match_url": "https://colatv55.live/truc-tiep/thitsar-arman-fc-vs-ispe-fc-luc-1600-ngay-16-10-2026-o07dni5jp1gumkn",
-      "name": "Thitsar Arman Fc vs Ispe Fc",
-      "home_name": "Thitsar Arman Fc",
-      "away_name": "Ispe Fc",
-      "date": "16/10/2026",
-      "time": "16:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/620580ad384044d097de6cc7c3a3cc45.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/47751f681935a504ad45c35e813c6baf.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
