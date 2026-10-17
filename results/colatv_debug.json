@@ -1,6 +1,6 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-10-17T04:39:06.901062+07:00",
+  "generated_at_vietnam": "2026-10-17T07:22:42.065123+07:00",
   "summary": {
     "discovered_match_pages": 9,
     "metadata_pages_read": 9,
@@ -11,7 +11,6 @@
   "discovery": {
     "start_url": "https://colatv77.live/",
     "match_urls": [
-      "https://colatv55.live/truc-tiep/defensa-y-justicia-vs-instituto-luc-0500-ngay-17-10-2026-j374oi0rw4mtgqo",
       "https://colatv55.live/truc-tiep/clb-mirassol-vs-clb-sport-club-internacional-luc-0600-ngay-17-10-2026-8lk2dir6gv0sz73",
       "https://colatv55.live/truc-tiep/philadelphia-76ers-vs-boston-celtics-luc-0600-ngay-17-10-2026-ezk90sp94p5c1kn",
       "https://colatv55.live/truc-tiep/dallas-mavericks-vs-atlanta-hawks-luc-0700-ngay-17-10-2026-l6kersmdlmpivq5",
@@ -19,27 +18,12 @@
       "https://colatv55.live/truc-tiep/golden-state-warriors-vs-portland-trail-blazers-luc-0900-ngay-17-10-2026-xvkjvszj6zlh8k9",
       "https://colatv55.live/truc-tiep/los-angeles-lakers-vs-denver-nuggets-luc-0930-ngay-17-10-2026-vmqy6sn32nzcgk9",
       "https://colatv55.live/truc-tiep/clb-atlante-vs-unam-pumas-luc-1000-ngay-17-10-2026-69759igez3xsgk2",
-      "https://colatv55.live/truc-tiep/auckland-fc-vs-clb-melbourne-city-luc-1100-ngay-17-10-2026-69759igp3g3igk2"
+      "https://colatv55.live/truc-tiep/auckland-fc-vs-clb-melbourne-city-luc-1100-ngay-17-10-2026-69759igp3g3igk2",
+      "https://colatv55.live/truc-tiep/shimizu-s-pulse-vs-gamba-osaka-luc-1100-ngay-17-10-2026-m2q15izxpwyhe76"
     ],
     "errors": {}
   },
   "matches": {
-    "https://colatv55.live/truc-tiep/defensa-y-justicia-vs-instituto-luc-0500-ngay-17-10-2026-j374oi0rw4mtgqo": {
-      "match_url": "https://colatv55.live/truc-tiep/defensa-y-justicia-vs-instituto-luc-0500-ngay-17-10-2026-j374oi0rw4mtgqo",
-      "name": "Defensa Y Justicia vs Instituto",
-      "home_name": "Defensa Y Justicia",
-      "away_name": "Instituto",
-      "date": "17/10/2026",
-      "time": "05:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/49a35dd00c51fc958ebf44054bce4c48.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/a01279fdf6589b3c11529ca1ab4201fc.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
     "https://colatv55.live/truc-tiep/clb-mirassol-vs-clb-sport-club-internacional-luc-0600-ngay-17-10-2026-8lk2dir6gv0sz73": {
       "match_url": "https://colatv55.live/truc-tiep/clb-mirassol-vs-clb-sport-club-internacional-luc-0600-ngay-17-10-2026-8lk2dir6gv0sz73",
       "name": "Clb Mirassol vs Clb Sport Club Internacional",
@@ -162,6 +146,22 @@
       "league": "",
       "home_logo": "https://img.gvapi.cc/football/team/1d4c98a8072a4c3c0efc42a790d9c8cb.png!w80",
       "away_logo": "https://img.gvapi.cc/football/team/36806061ca70613f4c30f1211ee0b1ba.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv55.live/truc-tiep/shimizu-s-pulse-vs-gamba-osaka-luc-1100-ngay-17-10-2026-m2q15izxpwyhe76": {
+      "match_url": "https://colatv55.live/truc-tiep/shimizu-s-pulse-vs-gamba-osaka-luc-1100-ngay-17-10-2026-m2q15izxpwyhe76",
+      "name": "Shimizu S Pulse vs Gamba Osaka",
+      "home_name": "Shimizu S Pulse",
+      "away_name": "Gamba Osaka",
+      "date": "17/10/2026",
+      "time": "11:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/fa4105f0408ef893d941e70ae003ab4c.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/91008a96b5de8c75376d17057f89890e.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
