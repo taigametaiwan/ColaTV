@@ -1,9 +1,9 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-10-18T04:42:38.893871+07:00",
+  "generated_at_vietnam": "2026-10-18T06:58:56.849350+07:00",
   "summary": {
-    "discovered_match_pages": 9,
-    "metadata_pages_read": 9,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
@@ -11,12 +11,9 @@
   "discovery": {
     "start_url": "https://colatv77.live/",
     "match_urls": [
-      "https://colatv55.live/truc-tiep/golden-state-valkyries-vs-atlanta-dream-luc-0230-ngay-18-10-2026-8lk2ys626ljhz73",
-      "https://colatv55.live/truc-tiep/minnesota-united-vs-thanh-pho-st-louis-sc-luc-0340-ngay-18-10-2026-vrqwni4325xc4qn",
-      "https://colatv55.live/truc-tiep/botafogo-rj-vs-clb-chapecoense-sc-luc-0400-ngay-18-10-2026-wv78xivxp34uokr",
+      "https://colatv55.live/truc-tiep/atlanta-utd-vs-inter-miami-luc-0640-ngay-18-10-2026-ndqmliw8yn1srkv",
       "https://colatv55.live/truc-tiep/atl-tucuman-vs-clb-rosario-central-luc-0600-ngay-18-10-2026-jek33i8n1mmh9ko",
-      "https://colatv55.live/truc-tiep/atlanta-utd-vs-inter-miami-luc-0630-ngay-18-10-2026-ndqmliw8yn1srkv",
-      "https://colatv55.live/truc-tiep/new-york-city-vs-los-angeles-fc-luc-0630-ngay-18-10-2026-g6763i5r98vio7r",
+      "https://colatv55.live/truc-tiep/new-york-city-vs-los-angeles-fc-luc-0640-ngay-18-10-2026-g6763i5r98vio7r",
       "https://colatv55.live/truc-tiep/austin-fc-vs-vancouver-whitecaps-luc-0730-ngay-18-10-2026-jek33i8gnjyc9ko",
       "https://colatv55.live/truc-tiep/toluca-vs-atletico-san-luis-luc-0800-ngay-18-10-2026-vrqwni453oda4qn",
       "https://colatv55.live/truc-tiep/wellington-phoenix-vs-melbourne-victory-luc-0900-ngay-18-10-2026-ndkz6i3pz6dhxq3"
@@ -24,48 +21,16 @@
     "errors": {}
   },
   "matches": {
-    "https://colatv55.live/truc-tiep/golden-state-valkyries-vs-atlanta-dream-luc-0230-ngay-18-10-2026-8lk2ys626ljhz73": {
-      "match_url": "https://colatv55.live/truc-tiep/golden-state-valkyries-vs-atlanta-dream-luc-0230-ngay-18-10-2026-8lk2ys626ljhz73",
-      "name": "Golden State Valkyries vs Atlanta Dream",
-      "home_name": "Golden State Valkyries",
-      "away_name": "Atlanta Dream",
+    "https://colatv55.live/truc-tiep/atlanta-utd-vs-inter-miami-luc-0640-ngay-18-10-2026-ndqmliw8yn1srkv": {
+      "match_url": "https://colatv55.live/truc-tiep/atlanta-utd-vs-inter-miami-luc-0640-ngay-18-10-2026-ndqmliw8yn1srkv",
+      "name": "Atlanta Utd vs Inter Miami",
+      "home_name": "Atlanta Utd",
+      "away_name": "Inter Miami",
       "date": "18/10/2026",
-      "time": "02:30",
+      "time": "06:40",
       "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv55.live/truc-tiep/minnesota-united-vs-thanh-pho-st-louis-sc-luc-0340-ngay-18-10-2026-vrqwni4325xc4qn": {
-      "match_url": "https://colatv55.live/truc-tiep/minnesota-united-vs-thanh-pho-st-louis-sc-luc-0340-ngay-18-10-2026-vrqwni4325xc4qn",
-      "name": "Minnesota United vs Thanh Pho St Louis Sc",
-      "home_name": "Minnesota United",
-      "away_name": "Thanh Pho St Louis Sc",
-      "date": "18/10/2026",
-      "time": "03:40",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/256ff71a20fb72145a66dcef2f604a48.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/8adf954bc3f72a6287b83d3b946b7d0b.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv55.live/truc-tiep/botafogo-rj-vs-clb-chapecoense-sc-luc-0400-ngay-18-10-2026-wv78xivxp34uokr": {
-      "match_url": "https://colatv55.live/truc-tiep/botafogo-rj-vs-clb-chapecoense-sc-luc-0400-ngay-18-10-2026-wv78xivxp34uokr",
-      "name": "Botafogo Rj vs Clb Chapecoense Sc",
-      "home_name": "Botafogo Rj",
-      "away_name": "Clb Chapecoense Sc",
-      "date": "18/10/2026",
-      "time": "04:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/5d83c47462e5afb6f1add0ad508c300b.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/4970b9a9a215c78759a6bb84ecaa3701.png!w80",
+      "home_logo": "https://img.gvapi.cc/football/team/dcb67dd58619e29d84853ac2e4ac5e27.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
@@ -88,29 +53,13 @@
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv55.live/truc-tiep/atlanta-utd-vs-inter-miami-luc-0630-ngay-18-10-2026-ndqmliw8yn1srkv": {
-      "match_url": "https://colatv55.live/truc-tiep/atlanta-utd-vs-inter-miami-luc-0630-ngay-18-10-2026-ndqmliw8yn1srkv",
-      "name": "Atlanta Utd vs Inter Miami",
-      "home_name": "Atlanta Utd",
-      "away_name": "Inter Miami",
-      "date": "18/10/2026",
-      "time": "06:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/dcb67dd58619e29d84853ac2e4ac5e27.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/976fe1d29c112f4baeb844cdda2f04cb.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv55.live/truc-tiep/new-york-city-vs-los-angeles-fc-luc-0630-ngay-18-10-2026-g6763i5r98vio7r": {
-      "match_url": "https://colatv55.live/truc-tiep/new-york-city-vs-los-angeles-fc-luc-0630-ngay-18-10-2026-g6763i5r98vio7r",
+    "https://colatv55.live/truc-tiep/new-york-city-vs-los-angeles-fc-luc-0640-ngay-18-10-2026-g6763i5r98vio7r": {
+      "match_url": "https://colatv55.live/truc-tiep/new-york-city-vs-los-angeles-fc-luc-0640-ngay-18-10-2026-g6763i5r98vio7r",
       "name": "New York City vs Los Angeles Fc",
       "home_name": "New York City",
       "away_name": "Los Angeles Fc",
       "date": "18/10/2026",
-      "time": "06:30",
+      "time": "06:40",
       "league": "",
       "home_logo": "https://img.gvapi.cc/football/team/f5bbc8573e1b019164b11b13c49598bd.png!w80",
       "away_logo": "https://img.gvapi.cc/football/team/9c5ad5227377e12b87f77790d3d88c1c.png!w80",
