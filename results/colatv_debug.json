@@ -1,19 +1,174 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-10-22T01:14:30.876214+07:00",
+  "generated_at_vietnam": "2026-10-22T04:57:45.229953+07:00",
   "summary": {
-    "discovered_match_pages": 0,
-    "metadata_pages_read": 0,
+    "discovered_match_pages": 9,
+    "metadata_pages_read": 9,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [],
+    "match_urls": [
+      "https://colatv55.live/truc-tiep/montevideo-city-vs-clb-atletico-mineiro-luc-0500-ngay-22-10-2026-ndqmli94pv4srkv",
+      "https://colatv55.live/truc-tiep/clb-cincinnati-vs-dc-united-luc-0600-ngay-22-10-2026-ezk96i3gz0ea1kn",
+      "https://colatv55.live/truc-tiep/washington-wizards-vs-milwaukee-bucks-luc-0600-ngay-22-10-2026-527rjswd645a4ke",
+      "https://colatv55.live/truc-tiep/miami-heat-vs-minnesota-timberwolves-luc-0630-ngay-22-10-2026-ezk90sp26njt1kn",
+      "https://colatv55.live/truc-tiep/atlanta-dream-vs-golden-state-valkyries-luc-0700-ngay-22-10-2026-jek3psdzd0xu9qo",
+      "https://colatv55.live/truc-tiep/palmeiras-vs-fluminense-rj-luc-0730-ngay-22-10-2026-9gklzi5l3x6hm7x",
+      "https://colatv55.live/truc-tiep/clb-puebla-vs-monterrey-luc-0800-ngay-22-10-2026-zrkn6i4gelncwql",
+      "https://colatv55.live/truc-tiep/portland-trail-blazers-vs-phoenix-suns-luc-0900-ngay-22-10-2026-63kvlsop2g1sx7e",
+      "https://colatv55.live/truc-tiep/los-angeles-lakers-vs-golden-state-warriors-luc-0900-ngay-22-10-2026-l6kersm23z4hvq5"
+    ],
     "errors": {}
   },
-  "matches": {},
+  "matches": {
+    "https://colatv55.live/truc-tiep/montevideo-city-vs-clb-atletico-mineiro-luc-0500-ngay-22-10-2026-ndqmli94pv4srkv": {
+      "match_url": "https://colatv55.live/truc-tiep/montevideo-city-vs-clb-atletico-mineiro-luc-0500-ngay-22-10-2026-ndqmli94pv4srkv",
+      "name": "Montevideo City vs Clb Atletico Mineiro",
+      "home_name": "Montevideo City",
+      "away_name": "Clb Atletico Mineiro",
+      "date": "22/10/2026",
+      "time": "05:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/bb5004650a388d73f47cc3ca08623cc8.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/079e86cebd6511ce807cc6073a3e26ee.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv55.live/truc-tiep/clb-cincinnati-vs-dc-united-luc-0600-ngay-22-10-2026-ezk96i3gz0ea1kn": {
+      "match_url": "https://colatv55.live/truc-tiep/clb-cincinnati-vs-dc-united-luc-0600-ngay-22-10-2026-ezk96i3gz0ea1kn",
+      "name": "Clb Cincinnati vs Dc United",
+      "home_name": "Clb Cincinnati",
+      "away_name": "Dc United",
+      "date": "22/10/2026",
+      "time": "06:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/1d14acf20b6647d3bf1f70959a875c8f.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/2d846f3eea3e2d5067b26de498f83d94.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv55.live/truc-tiep/washington-wizards-vs-milwaukee-bucks-luc-0600-ngay-22-10-2026-527rjswd645a4ke": {
+      "match_url": "https://colatv55.live/truc-tiep/washington-wizards-vs-milwaukee-bucks-luc-0600-ngay-22-10-2026-527rjswd645a4ke",
+      "name": "Washington Wizards vs Milwaukee Bucks",
+      "home_name": "Washington Wizards",
+      "away_name": "Milwaukee Bucks",
+      "date": "22/10/2026",
+      "time": "06:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/basketball/team/ac18ecfecac3af349477383866cf8ef5.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/172138a954c51bb257ac1ebaa52f01a1.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv55.live/truc-tiep/miami-heat-vs-minnesota-timberwolves-luc-0630-ngay-22-10-2026-ezk90sp26njt1kn": {
+      "match_url": "https://colatv55.live/truc-tiep/miami-heat-vs-minnesota-timberwolves-luc-0630-ngay-22-10-2026-ezk90sp26njt1kn",
+      "name": "Miami Heat vs Minnesota Timberwolves",
+      "home_name": "Miami Heat",
+      "away_name": "Minnesota Timberwolves",
+      "date": "22/10/2026",
+      "time": "06:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv55.live/truc-tiep/atlanta-dream-vs-golden-state-valkyries-luc-0700-ngay-22-10-2026-jek3psdzd0xu9qo": {
+      "match_url": "https://colatv55.live/truc-tiep/atlanta-dream-vs-golden-state-valkyries-luc-0700-ngay-22-10-2026-jek3psdzd0xu9qo",
+      "name": "Atlanta Dream vs Golden State Valkyries",
+      "home_name": "Atlanta Dream",
+      "away_name": "Golden State Valkyries",
+      "date": "22/10/2026",
+      "time": "07:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/380d81d4050b81debf9a5500239e96d0.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv55.live/truc-tiep/palmeiras-vs-fluminense-rj-luc-0730-ngay-22-10-2026-9gklzi5l3x6hm7x": {
+      "match_url": "https://colatv55.live/truc-tiep/palmeiras-vs-fluminense-rj-luc-0730-ngay-22-10-2026-9gklzi5l3x6hm7x",
+      "name": "Palmeiras vs Fluminense Rj",
+      "home_name": "Palmeiras",
+      "away_name": "Fluminense Rj",
+      "date": "22/10/2026",
+      "time": "07:30",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/e6a85b64d28f448601e90857eb799140.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv55.live/truc-tiep/clb-puebla-vs-monterrey-luc-0800-ngay-22-10-2026-zrkn6i4gelncwql": {
+      "match_url": "https://colatv55.live/truc-tiep/clb-puebla-vs-monterrey-luc-0800-ngay-22-10-2026-zrkn6i4gelncwql",
+      "name": "Clb Puebla vs Monterrey",
+      "home_name": "Clb Puebla",
+      "away_name": "Monterrey",
+      "date": "22/10/2026",
+      "time": "08:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/football/team/a98bd615308472b65dc82bcc3a2d54fb.png!w80",
+      "away_logo": "https://img.gvapi.cc/football/team/5c3f819a35454f424d85df5757650f8b.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv55.live/truc-tiep/portland-trail-blazers-vs-phoenix-suns-luc-0900-ngay-22-10-2026-63kvlsop2g1sx7e": {
+      "match_url": "https://colatv55.live/truc-tiep/portland-trail-blazers-vs-phoenix-suns-luc-0900-ngay-22-10-2026-63kvlsop2g1sx7e",
+      "name": "Portland Trail Blazers vs Phoenix Suns",
+      "home_name": "Portland Trail Blazers",
+      "away_name": "Phoenix Suns",
+      "date": "22/10/2026",
+      "time": "09:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/basketball/team/4512175b1415f69816e816160093bcc0.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv55.live/truc-tiep/los-angeles-lakers-vs-golden-state-warriors-luc-0900-ngay-22-10-2026-l6kersm23z4hvq5": {
+      "match_url": "https://colatv55.live/truc-tiep/los-angeles-lakers-vs-golden-state-warriors-luc-0900-ngay-22-10-2026-l6kersm23z4hvq5",
+      "name": "Los Angeles Lakers vs Golden State Warriors",
+      "home_name": "Los Angeles Lakers",
+      "away_name": "Golden State Warriors",
+      "date": "22/10/2026",
+      "time": "09:00",
+      "league": "",
+      "home_logo": "https://img.gvapi.cc/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png!w80",
+      "away_logo": "https://img.gvapi.cc/basketball/team/df3f6f8bb17fd1c618f60f0b14637140.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    }
+  },
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
