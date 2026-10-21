@@ -1,174 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-10-21T20:11:26.635240+07:00",
+  "generated_at_vietnam": "2026-10-22T01:14:30.876214+07:00",
   "summary": {
-    "discovered_match_pages": 9,
-    "metadata_pages_read": 9,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv55.live/truc-tiep/persija-jakarta-vs-arema-malang-luc-1900-ngay-21-10-2026-527r3i4g29ei47e",
-      "https://colatv55.live/truc-tiep/qingdao-guoxin-aquatic-products-vs-liaoning-bengang-luc-1835-ngay-21-10-2026-xvkjvsz4mo4c8k9",
-      "https://colatv55.live/truc-tiep/lille-u19-vs-galatasaray-u19-luc-1900-ngay-21-10-2026-xvkjoi8680mb879",
-      "https://colatv55.live/truc-tiep/hang-yuen-vs-manila-digger-fc-luc-1930-ngay-21-10-2026-jek33i8l14mb9ko",
-      "https://colatv55.live/truc-tiep/aston-villa-u19-vs-viking-u19-luc-2000-ngay-21-10-2026-j374oi0p092cgqo",
-      "https://colatv55.live/truc-tiep/ghazl-el-mahallah-vs-al-ittihad-alexandria-luc-2100-ngay-21-10-2026-8lk2dir2mwosz73",
-      "https://colatv55.live/truc-tiep/bayern-u19-vs-arsenal-u19-luc-2100-ngay-21-10-2026-g6763i5g5lgbo7r",
-      "https://colatv55.live/truc-tiep/real-madrid-u19-vs-rb-leipzig-u19-luc-2100-ngay-21-10-2026-m2q15izozpgue76",
-      "https://colatv55.live/truc-tiep/al-jeel-vs-al-jndal-luc-2145-ngay-21-10-2026-l6kegi82o4vsv75"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv55.live/truc-tiep/persija-jakarta-vs-arema-malang-luc-1900-ngay-21-10-2026-527r3i4g29ei47e": {
-      "match_url": "https://colatv55.live/truc-tiep/persija-jakarta-vs-arema-malang-luc-1900-ngay-21-10-2026-527r3i4g29ei47e",
-      "name": "Persija Jakarta vs Arema Malang",
-      "home_name": "Persija Jakarta",
-      "away_name": "Arema Malang",
-      "date": "21/10/2026",
-      "time": "19:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/10db29eabad13994d9729d8983f8d21a.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/55cba4a142146e2cdc317d21eb4daf76.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv55.live/truc-tiep/qingdao-guoxin-aquatic-products-vs-liaoning-bengang-luc-1835-ngay-21-10-2026-xvkjvsz4mo4c8k9": {
-      "match_url": "https://colatv55.live/truc-tiep/qingdao-guoxin-aquatic-products-vs-liaoning-bengang-luc-1835-ngay-21-10-2026-xvkjvsz4mo4c8k9",
-      "name": "Qingdao Guoxin Aquatic Products vs Liaoning Bengang",
-      "home_name": "Qingdao Guoxin Aquatic Products",
-      "away_name": "Liaoning Bengang",
-      "date": "21/10/2026",
-      "time": "18:35",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/basketball/team/8265cde14b18d7e3716bb1e0b0aed623.png!w80",
-      "away_logo": "https://img.gvapi.cc/basketball/team/03173dab50b9418d1a834a91104d90a4.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv55.live/truc-tiep/lille-u19-vs-galatasaray-u19-luc-1900-ngay-21-10-2026-xvkjoi8680mb879": {
-      "match_url": "https://colatv55.live/truc-tiep/lille-u19-vs-galatasaray-u19-luc-1900-ngay-21-10-2026-xvkjoi8680mb879",
-      "name": "Lille U19 vs Galatasaray U19",
-      "home_name": "Lille U19",
-      "away_name": "Galatasaray U19",
-      "date": "21/10/2026",
-      "time": "19:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/ada208e7101560665bdcb350110f7fe3.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/2b07ea8e719d99bf398ff01df64d6828.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv55.live/truc-tiep/hang-yuen-vs-manila-digger-fc-luc-1930-ngay-21-10-2026-jek33i8l14mb9ko": {
-      "match_url": "https://colatv55.live/truc-tiep/hang-yuen-vs-manila-digger-fc-luc-1930-ngay-21-10-2026-jek33i8l14mb9ko",
-      "name": "Hang Yuen vs Manila Digger Fc",
-      "home_name": "Hang Yuen",
-      "away_name": "Manila Digger Fc",
-      "date": "21/10/2026",
-      "time": "19:30",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/91e49a523ef52f9b264ce8c5a56d432b.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/9d79080ca3ed7143abccd7eda30cf692.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv55.live/truc-tiep/aston-villa-u19-vs-viking-u19-luc-2000-ngay-21-10-2026-j374oi0p092cgqo": {
-      "match_url": "https://colatv55.live/truc-tiep/aston-villa-u19-vs-viking-u19-luc-2000-ngay-21-10-2026-j374oi0p092cgqo",
-      "name": "Aston Villa U19 vs Viking U19",
-      "home_name": "Aston Villa U19",
-      "away_name": "Viking U19",
-      "date": "21/10/2026",
-      "time": "20:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/c85a464071814796e66c456abcdaf5f1.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/23654f1579e0f35249ae08aefbbece18.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv55.live/truc-tiep/ghazl-el-mahallah-vs-al-ittihad-alexandria-luc-2100-ngay-21-10-2026-8lk2dir2mwosz73": {
-      "match_url": "https://colatv55.live/truc-tiep/ghazl-el-mahallah-vs-al-ittihad-alexandria-luc-2100-ngay-21-10-2026-8lk2dir2mwosz73",
-      "name": "Ghazl El Mahallah vs Al Ittihad Alexandria",
-      "home_name": "Ghazl El Mahallah",
-      "away_name": "Al Ittihad Alexandria",
-      "date": "21/10/2026",
-      "time": "21:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/dc6da5d579f4ffcc2574f14a19ce7a98.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/56484f26eac26f8e279ea2172c48632d.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv55.live/truc-tiep/bayern-u19-vs-arsenal-u19-luc-2100-ngay-21-10-2026-g6763i5g5lgbo7r": {
-      "match_url": "https://colatv55.live/truc-tiep/bayern-u19-vs-arsenal-u19-luc-2100-ngay-21-10-2026-g6763i5g5lgbo7r",
-      "name": "Bayern U19 vs Arsenal U19",
-      "home_name": "Bayern U19",
-      "away_name": "Arsenal U19",
-      "date": "21/10/2026",
-      "time": "21:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/4f4aae5e4a7655d1651159a883f55478.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/361260e39f38a6fdd23d64eec1530ba1.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv55.live/truc-tiep/real-madrid-u19-vs-rb-leipzig-u19-luc-2100-ngay-21-10-2026-m2q15izozpgue76": {
-      "match_url": "https://colatv55.live/truc-tiep/real-madrid-u19-vs-rb-leipzig-u19-luc-2100-ngay-21-10-2026-m2q15izozpgue76",
-      "name": "Real Madrid U19 vs Rb Leipzig U19",
-      "home_name": "Real Madrid U19",
-      "away_name": "Rb Leipzig U19",
-      "date": "21/10/2026",
-      "time": "21:00",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/5e754f0f66a62ae8806a63677b45caa4.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/bd0c22cff2e624f23ac7d4ae4ecbf59a.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv55.live/truc-tiep/al-jeel-vs-al-jndal-luc-2145-ngay-21-10-2026-l6kegi82o4vsv75": {
-      "match_url": "https://colatv55.live/truc-tiep/al-jeel-vs-al-jndal-luc-2145-ngay-21-10-2026-l6kegi82o4vsv75",
-      "name": "Al Jeel vs Al Jndal",
-      "home_name": "Al Jeel",
-      "away_name": "Al Jndal",
-      "date": "21/10/2026",
-      "time": "21:45",
-      "league": "",
-      "home_logo": "https://img.gvapi.cc/football/team/c263c2074d8bb88b9f85b0bd573f2d53.png!w80",
-      "away_logo": "https://img.gvapi.cc/football/team/fd5aee9ffe07250e37324ffc26a296a3.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
