@@ -1,6 +1,6 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-10-27T11:55:25.422643+07:00",
+  "generated_at_vietnam": "2026-10-27T17:26:51.270642+07:00",
   "summary": {
     "discovered_match_pages": 9,
     "metadata_pages_read": 9,
@@ -11,35 +11,19 @@
   "discovery": {
     "start_url": "https://colatv77.live/",
     "match_urls": [
-      "https://colatv22.live/truc-tiep/lam-dong-vs-pvf-cand-luc-1530-ngay-27-10-2026-edq09il6w8rseqx",
       "https://colatv22.live/truc-tiep/shanghai-port-vs-cong-an-ha-noi-fc-luc-1700-ngay-27-10-2026-69759igo1zwfgk2",
-      "https://colatv22.live/truc-tiep/kyoto-sanga-vs-newcastle-jets-luc-1700-ngay-27-10-2026-527r3i4omwds47e",
       "https://colatv22.live/truc-tiep/daejeon-vs-vissel-kobe-luc-1700-ngay-27-10-2026-ezk96i3vep6u1kn",
-      "https://colatv22.live/truc-tiep/seoul-knights-vs-kcc-egis-luc-1700-ngay-27-10-2026-ezk90sp232la1kn",
+      "https://colatv22.live/truc-tiep/kyoto-sanga-vs-newcastle-jets-luc-1700-ngay-27-10-2026-527r3i4omwds47e",
       "https://colatv22.live/truc-tiep/clb-johor-darul-takzim-vs-port-fc-luc-1700-ngay-27-10-2026-wv78xiv03xlfokr",
+      "https://colatv22.live/truc-tiep/lam-dong-vs-pvf-cand-luc-1530-ngay-27-10-2026-edq09il6w8rseqx",
+      "https://colatv22.live/truc-tiep/khanh-hoa-vs-dong-thap-luc-1615-ngay-27-10-2026-69759ig2x1ohgk2",
+      "https://colatv22.live/truc-tiep/seoul-knights-vs-kcc-egis-luc-1700-ngay-27-10-2026-ezk90sp232la1kn",
       "https://colatv22.live/truc-tiep/dai-hoc-van-hien-vs-gia-dinh-luc-1700-ngay-27-10-2026-34kgmio940jteko",
-      "https://colatv22.live/truc-tiep/khanh-hoa-vs-dong-thap-luc-1700-ngay-27-10-2026-69759ig2x1ohgk2",
       "https://colatv22.live/truc-tiep/estoril-u23-vs-santa-clara-u23-luc-1800-ngay-27-10-2026-8lk2dir24d9az73"
     ],
     "errors": {}
   },
   "matches": {
-    "https://colatv22.live/truc-tiep/lam-dong-vs-pvf-cand-luc-1530-ngay-27-10-2026-edq09il6w8rseqx": {
-      "match_url": "https://colatv22.live/truc-tiep/lam-dong-vs-pvf-cand-luc-1530-ngay-27-10-2026-edq09il6w8rseqx",
-      "name": "Lam Dong vs Pvf Cand",
-      "home_name": "Lam Dong",
-      "away_name": "Pvf Cand",
-      "date": "27/10/2026",
-      "time": "15:30",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/775fb8eca2172951b0f3d904cabfd337.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/16b802abec41440eb4996fc68f16125b.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
     "https://colatv22.live/truc-tiep/shanghai-port-vs-cong-an-ha-noi-fc-luc-1700-ngay-27-10-2026-69759igo1zwfgk2": {
       "match_url": "https://colatv22.live/truc-tiep/shanghai-port-vs-cong-an-ha-noi-fc-luc-1700-ngay-27-10-2026-69759igo1zwfgk2",
       "name": "Shanghai Port vs Cong An Ha Noi Fc",
@@ -50,22 +34,6 @@
       "league": "",
       "home_logo": "https://img.cltvap.cc/football/team/c4e143e537412003565cdb7c2d212538.png!w80",
       "away_logo": "https://img.cltvap.cc/football/team/f3dde7370cf875e4e657b4331b1b4a31.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv22.live/truc-tiep/kyoto-sanga-vs-newcastle-jets-luc-1700-ngay-27-10-2026-527r3i4omwds47e": {
-      "match_url": "https://colatv22.live/truc-tiep/kyoto-sanga-vs-newcastle-jets-luc-1700-ngay-27-10-2026-527r3i4omwds47e",
-      "name": "Kyoto Sanga vs Newcastle Jets",
-      "home_name": "Kyoto Sanga",
-      "away_name": "Newcastle Jets",
-      "date": "27/10/2026",
-      "time": "17:00",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/7d6fa50ea67cde7d66612a8189897ba5.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/cb7c21cdf0ae82e8a97065118f89f816.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
@@ -88,16 +56,16 @@
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv22.live/truc-tiep/seoul-knights-vs-kcc-egis-luc-1700-ngay-27-10-2026-ezk90sp232la1kn": {
-      "match_url": "https://colatv22.live/truc-tiep/seoul-knights-vs-kcc-egis-luc-1700-ngay-27-10-2026-ezk90sp232la1kn",
-      "name": "Seoul Knights vs Kcc Egis",
-      "home_name": "Seoul Knights",
-      "away_name": "Kcc Egis",
+    "https://colatv22.live/truc-tiep/kyoto-sanga-vs-newcastle-jets-luc-1700-ngay-27-10-2026-527r3i4omwds47e": {
+      "match_url": "https://colatv22.live/truc-tiep/kyoto-sanga-vs-newcastle-jets-luc-1700-ngay-27-10-2026-527r3i4omwds47e",
+      "name": "Kyoto Sanga vs Newcastle Jets",
+      "home_name": "Kyoto Sanga",
+      "away_name": "Newcastle Jets",
       "date": "27/10/2026",
       "time": "17:00",
       "league": "",
-      "home_logo": "https://img.cltvap.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80",
-      "away_logo": "https://img.cltvap.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80",
+      "home_logo": "https://img.cltvap.cc/football/team/7d6fa50ea67cde7d66612a8189897ba5.png!w80",
+      "away_logo": "https://img.cltvap.cc/football/team/cb7c21cdf0ae82e8a97065118f89f816.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
@@ -120,6 +88,54 @@
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
+    "https://colatv22.live/truc-tiep/lam-dong-vs-pvf-cand-luc-1530-ngay-27-10-2026-edq09il6w8rseqx": {
+      "match_url": "https://colatv22.live/truc-tiep/lam-dong-vs-pvf-cand-luc-1530-ngay-27-10-2026-edq09il6w8rseqx",
+      "name": "Lam Dong vs Pvf Cand",
+      "home_name": "Lam Dong",
+      "away_name": "Pvf Cand",
+      "date": "27/10/2026",
+      "time": "15:30",
+      "league": "",
+      "home_logo": "https://img.cltvap.cc/football/team/775fb8eca2172951b0f3d904cabfd337.png!w80",
+      "away_logo": "https://img.cltvap.cc/football/team/16b802abec41440eb4996fc68f16125b.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv22.live/truc-tiep/khanh-hoa-vs-dong-thap-luc-1615-ngay-27-10-2026-69759ig2x1ohgk2": {
+      "match_url": "https://colatv22.live/truc-tiep/khanh-hoa-vs-dong-thap-luc-1615-ngay-27-10-2026-69759ig2x1ohgk2",
+      "name": "Khanh Hoa vs Dong Thap",
+      "home_name": "Khanh Hoa",
+      "away_name": "Dong Thap",
+      "date": "27/10/2026",
+      "time": "16:15",
+      "league": "",
+      "home_logo": "https://img.cltvap.cc/football/team/6d4c74bfc709d561f3bed627af4218f3.png!w80",
+      "away_logo": "https://img.cltvap.cc/football/team/aaf7ff777567dba636caf52a05a45c31.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv22.live/truc-tiep/seoul-knights-vs-kcc-egis-luc-1700-ngay-27-10-2026-ezk90sp232la1kn": {
+      "match_url": "https://colatv22.live/truc-tiep/seoul-knights-vs-kcc-egis-luc-1700-ngay-27-10-2026-ezk90sp232la1kn",
+      "name": "Seoul Knights vs Kcc Egis",
+      "home_name": "Seoul Knights",
+      "away_name": "Kcc Egis",
+      "date": "27/10/2026",
+      "time": "17:00",
+      "league": "",
+      "home_logo": "https://img.cltvap.cc/basketball/team/2ff3c6a0bc1b8b688fb0b8fa15c34b0a.png!w80",
+      "away_logo": "https://img.cltvap.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
     "https://colatv22.live/truc-tiep/dai-hoc-van-hien-vs-gia-dinh-luc-1700-ngay-27-10-2026-34kgmio940jteko": {
       "match_url": "https://colatv22.live/truc-tiep/dai-hoc-van-hien-vs-gia-dinh-luc-1700-ngay-27-10-2026-34kgmio940jteko",
       "name": "Dai Hoc Van Hien vs Gia Dinh",
@@ -130,22 +146,6 @@
       "league": "",
       "home_logo": "https://img.cltvap.cc/football/team/9610ddd41e9e46f5db6a61850e1e0183.png!w80",
       "away_logo": "https://img.cltvap.cc/football/team/a3fa1f2bd7dbd79b0c531417b56647d6.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv22.live/truc-tiep/khanh-hoa-vs-dong-thap-luc-1700-ngay-27-10-2026-69759ig2x1ohgk2": {
-      "match_url": "https://colatv22.live/truc-tiep/khanh-hoa-vs-dong-thap-luc-1700-ngay-27-10-2026-69759ig2x1ohgk2",
-      "name": "Khanh Hoa vs Dong Thap",
-      "home_name": "Khanh Hoa",
-      "away_name": "Dong Thap",
-      "date": "27/10/2026",
-      "time": "17:00",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/6d4c74bfc709d561f3bed627af4218f3.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/aaf7ff777567dba636caf52a05a45c31.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
