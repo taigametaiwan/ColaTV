@@ -1,9 +1,9 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-10-30T22:18:17.281931+07:00",
+  "generated_at_vietnam": "2026-10-31T03:05:23.023055+07:00",
   "summary": {
-    "discovered_match_pages": 12,
-    "metadata_pages_read": 12,
+    "discovered_match_pages": 6,
+    "metadata_pages_read": 6,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
@@ -11,208 +11,106 @@
   "discovery": {
     "start_url": "https://colatv77.live/",
     "match_urls": [
-      "https://colatv22.live/truc-tiep/xorazm-urganch-vs-clb-pakhtakor-luc-2030-ngay-30-10-2026-ndkz6i3ld54cxq3",
-      "https://colatv22.live/truc-tiep/north-east-utd-vs-bengaluru-luc-2100-ngay-30-10-2026-vrqwni01p8oc4qn",
-      "https://colatv22.live/truc-tiep/al-shahaniya-vs-al-ahli-doha-luc-2115-ngay-30-10-2026-jr7owipgl5ztgq0",
-      "https://colatv22.live/truc-tiep/clb-turan-tovuz-vs-sabah-fc-luc-2130-ngay-30-10-2026-ndqmliwe82rirkv",
-      "https://colatv22.live/truc-tiep/al-draih-vs-neom-sports-club-luc-2150-ngay-30-10-2026-wv78xiv4zxgaokr",
-      "https://colatv22.live/truc-tiep/asyut-petroleum-vs-el-gouna-luc-2200-ngay-30-10-2026-ezk96i389zgc1kn",
-      "https://colatv22.live/truc-tiep/cska-1948-sofia-vs-spartak-varna-luc-2210-ngay-30-10-2026-wv78xivzmx0uokr",
-      "https://colatv22.live/truc-tiep/cau-lac-bo-bong-da-shakhtar-donetsk-vs-obolon-kyiv-luc-2300-ngay-30-10-2026-g6763i585omio7r",
-      "https://colatv22.live/truc-tiep/clb-al-sadd-vs-al-shamal-luc-2330-ngay-30-10-2026-527r3i4d9o1a47e",
-      "https://colatv22.live/truc-tiep/clb-al-gharafa-vs-qatar-sc-luc-2330-ngay-30-10-2026-jr7owipgl51hgq0",
-      "https://colatv22.live/truc-tiep/konyaspor-vs-galatasaray-luc-0000-ngay-31-10-2026-ndkz6i346ywixq3",
-      "https://colatv22.live/truc-tiep/cracovia-krakow-vs-lublin-luc-0000-ngay-31-10-2026-vrqwni45p48s4qn"
+      "https://colatv22.live/truc-tiep/villarreal-vs-clb-espanyol-luc-0300-ngay-31-10-2026-ndkz6i30rx6txq3",
+      "https://colatv22.live/truc-tiep/clb-elversberg-vs-1-fsv-mainz-05-luc-0230-ngay-31-10-2026-zrkn6i4w2g6hwql",
+      "https://colatv22.live/truc-tiep/lille-osc-vs-rc-lens-luc-0305-ngay-31-10-2026-63kv9ige9yosx7e",
+      "https://colatv22.live/truc-tiep/zulte-waregem-vs-club-brugge-luc-0245-ngay-31-10-2026-8lk2dirpll2cz73",
+      "https://colatv22.live/truc-tiep/clb-sheffield-united-vs-clb-wrexham-luc-0300-ngay-31-10-2026-9gklzi1d3lpam7x",
+      "https://colatv22.live/truc-tiep/casa-pia-ac-vs-sporting-luc-0315-ngay-31-10-2026-34kgmio8p08seko"
     ],
     "errors": {}
   },
   "matches": {
-    "https://colatv22.live/truc-tiep/xorazm-urganch-vs-clb-pakhtakor-luc-2030-ngay-30-10-2026-ndkz6i3ld54cxq3": {
-      "match_url": "https://colatv22.live/truc-tiep/xorazm-urganch-vs-clb-pakhtakor-luc-2030-ngay-30-10-2026-ndkz6i3ld54cxq3",
-      "name": "Xorazm Urganch vs Clb Pakhtakor",
-      "home_name": "Xorazm Urganch",
-      "away_name": "Clb Pakhtakor",
-      "date": "30/10/2026",
-      "time": "20:30",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/cb045077b1cf7fa3c7a1aec74546bb15.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/78dd333913352de8fc4e8b0834636245.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv22.live/truc-tiep/north-east-utd-vs-bengaluru-luc-2100-ngay-30-10-2026-vrqwni01p8oc4qn": {
-      "match_url": "https://colatv22.live/truc-tiep/north-east-utd-vs-bengaluru-luc-2100-ngay-30-10-2026-vrqwni01p8oc4qn",
-      "name": "North East Utd vs Bengaluru",
-      "home_name": "North East Utd",
-      "away_name": "Bengaluru",
-      "date": "30/10/2026",
-      "time": "21:00",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/b019c0b2f14edb23e5c9a10a37a2e548.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/fb65f54d32791e1207403258907bfea3.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv22.live/truc-tiep/al-shahaniya-vs-al-ahli-doha-luc-2115-ngay-30-10-2026-jr7owipgl5ztgq0": {
-      "match_url": "https://colatv22.live/truc-tiep/al-shahaniya-vs-al-ahli-doha-luc-2115-ngay-30-10-2026-jr7owipgl5ztgq0",
-      "name": "Al Shahaniya vs Al Ahli Doha",
-      "home_name": "Al Shahaniya",
-      "away_name": "Al Ahli Doha",
-      "date": "30/10/2026",
-      "time": "21:15",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/7e9f03a408f176192cac0fbe6185f2d6.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/48feed47ac02cae502daed358319eec0.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv22.live/truc-tiep/clb-turan-tovuz-vs-sabah-fc-luc-2130-ngay-30-10-2026-ndqmliwe82rirkv": {
-      "match_url": "https://colatv22.live/truc-tiep/clb-turan-tovuz-vs-sabah-fc-luc-2130-ngay-30-10-2026-ndqmliwe82rirkv",
-      "name": "Clb Turan Tovuz vs Sabah Fc",
-      "home_name": "Clb Turan Tovuz",
-      "away_name": "Sabah Fc",
-      "date": "30/10/2026",
-      "time": "21:30",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/14215ad91a839ba1b4f216001eb02d91.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/44cc5a54d7859b9d062a6f56a39819f8.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv22.live/truc-tiep/al-draih-vs-neom-sports-club-luc-2150-ngay-30-10-2026-wv78xiv4zxgaokr": {
-      "match_url": "https://colatv22.live/truc-tiep/al-draih-vs-neom-sports-club-luc-2150-ngay-30-10-2026-wv78xiv4zxgaokr",
-      "name": "Al Draih vs Neom Sports Club",
-      "home_name": "Al Draih",
-      "away_name": "Neom Sports Club",
-      "date": "30/10/2026",
-      "time": "21:50",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/ecb7f0a3b58c3e6c3e6f42b8be226e20.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/e5516d35314acec9169f33834a199842.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv22.live/truc-tiep/asyut-petroleum-vs-el-gouna-luc-2200-ngay-30-10-2026-ezk96i389zgc1kn": {
-      "match_url": "https://colatv22.live/truc-tiep/asyut-petroleum-vs-el-gouna-luc-2200-ngay-30-10-2026-ezk96i389zgc1kn",
-      "name": "Asyut Petroleum vs El Gouna",
-      "home_name": "Asyut Petroleum",
-      "away_name": "El Gouna",
-      "date": "30/10/2026",
-      "time": "22:00",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/8ae657d992b70843447d0e50108cbf37.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/35e665fa4086e183fda582249d625c2b.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv22.live/truc-tiep/cska-1948-sofia-vs-spartak-varna-luc-2210-ngay-30-10-2026-wv78xivzmx0uokr": {
-      "match_url": "https://colatv22.live/truc-tiep/cska-1948-sofia-vs-spartak-varna-luc-2210-ngay-30-10-2026-wv78xivzmx0uokr",
-      "name": "Cska 1948 Sofia vs Spartak Varna",
-      "home_name": "Cska 1948 Sofia",
-      "away_name": "Spartak Varna",
-      "date": "30/10/2026",
-      "time": "22:10",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/182f01e096ad1f495cc88d2369c45224.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/075bb7a438193c9a2f71330a817c0058.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv22.live/truc-tiep/cau-lac-bo-bong-da-shakhtar-donetsk-vs-obolon-kyiv-luc-2300-ngay-30-10-2026-g6763i585omio7r": {
-      "match_url": "https://colatv22.live/truc-tiep/cau-lac-bo-bong-da-shakhtar-donetsk-vs-obolon-kyiv-luc-2300-ngay-30-10-2026-g6763i585omio7r",
-      "name": "Cau Lac Bo Bong Da Shakhtar Donetsk vs Obolon Kyiv",
-      "home_name": "Cau Lac Bo Bong Da Shakhtar Donetsk",
-      "away_name": "Obolon Kyiv",
-      "date": "30/10/2026",
-      "time": "23:00",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/141bcf6ab6d0bc7b8c67dc5eeb9f347d.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/260dd85236710e5fe82be0480ce4764c.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv22.live/truc-tiep/clb-al-sadd-vs-al-shamal-luc-2330-ngay-30-10-2026-527r3i4d9o1a47e": {
-      "match_url": "https://colatv22.live/truc-tiep/clb-al-sadd-vs-al-shamal-luc-2330-ngay-30-10-2026-527r3i4d9o1a47e",
-      "name": "Clb Al Sadd vs Al Shamal",
-      "home_name": "Clb Al Sadd",
-      "away_name": "Al Shamal",
-      "date": "30/10/2026",
-      "time": "23:30",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/5c794bfbf3227563c85323bb624721ec.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/af47207f36a49c89502312138e54f6a7.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv22.live/truc-tiep/clb-al-gharafa-vs-qatar-sc-luc-2330-ngay-30-10-2026-jr7owipgl51hgq0": {
-      "match_url": "https://colatv22.live/truc-tiep/clb-al-gharafa-vs-qatar-sc-luc-2330-ngay-30-10-2026-jr7owipgl51hgq0",
-      "name": "Clb Al Gharafa vs Qatar Sc",
-      "home_name": "Clb Al Gharafa",
-      "away_name": "Qatar Sc",
-      "date": "30/10/2026",
-      "time": "23:30",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/fcac1eae493c493061e66608158b40ef.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/6bd99a31fd562a9e6b1db99d42d40b34.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv22.live/truc-tiep/konyaspor-vs-galatasaray-luc-0000-ngay-31-10-2026-ndkz6i346ywixq3": {
-      "match_url": "https://colatv22.live/truc-tiep/konyaspor-vs-galatasaray-luc-0000-ngay-31-10-2026-ndkz6i346ywixq3",
-      "name": "Konyaspor vs Galatasaray",
-      "home_name": "Konyaspor",
-      "away_name": "Galatasaray",
+    "https://colatv22.live/truc-tiep/villarreal-vs-clb-espanyol-luc-0300-ngay-31-10-2026-ndkz6i30rx6txq3": {
+      "match_url": "https://colatv22.live/truc-tiep/villarreal-vs-clb-espanyol-luc-0300-ngay-31-10-2026-ndkz6i30rx6txq3",
+      "name": "Villarreal vs Clb Espanyol",
+      "home_name": "Villarreal",
+      "away_name": "Clb Espanyol",
       "date": "31/10/2026",
-      "time": "00:00",
+      "time": "03:00",
       "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/e75f8b4e1baab3060dbe5ba983a3b49c.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/c25f0689a67120aa381d434bbc896050.png!w80",
+      "home_logo": "https://img.cltvap.cc/football/team/aee62af96a956756cc29fe4831286357.png!w80",
+      "away_logo": "https://img.cltvap.cc/football/team/214049d4df11756a2eb21bbd8266e2a1.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv22.live/truc-tiep/cracovia-krakow-vs-lublin-luc-0000-ngay-31-10-2026-vrqwni45p48s4qn": {
-      "match_url": "https://colatv22.live/truc-tiep/cracovia-krakow-vs-lublin-luc-0000-ngay-31-10-2026-vrqwni45p48s4qn",
-      "name": "Cracovia Krakow vs Lublin",
-      "home_name": "Cracovia Krakow",
-      "away_name": "Lublin",
+    "https://colatv22.live/truc-tiep/clb-elversberg-vs-1-fsv-mainz-05-luc-0230-ngay-31-10-2026-zrkn6i4w2g6hwql": {
+      "match_url": "https://colatv22.live/truc-tiep/clb-elversberg-vs-1-fsv-mainz-05-luc-0230-ngay-31-10-2026-zrkn6i4w2g6hwql",
+      "name": "Clb Elversberg vs 1 Fsv Mainz 05",
+      "home_name": "Clb Elversberg",
+      "away_name": "1 Fsv Mainz 05",
       "date": "31/10/2026",
-      "time": "00:00",
+      "time": "02:30",
       "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/181ad56f9efa4afb8872971448266f51.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/35a7a15e3999424a0c7161e876e9afc9.png!w80",
+      "home_logo": "https://img.cltvap.cc/football/team/20f905fb0975e88482cf157ad9da4874.png!w80",
+      "away_logo": "https://img.cltvap.cc/football/team/903089d338485f6c68fbc5da690a0628.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv22.live/truc-tiep/lille-osc-vs-rc-lens-luc-0305-ngay-31-10-2026-63kv9ige9yosx7e": {
+      "match_url": "https://colatv22.live/truc-tiep/lille-osc-vs-rc-lens-luc-0305-ngay-31-10-2026-63kv9ige9yosx7e",
+      "name": "Lille Osc vs Rc Lens",
+      "home_name": "Lille Osc",
+      "away_name": "Rc Lens",
+      "date": "31/10/2026",
+      "time": "03:05",
+      "league": "",
+      "home_logo": "https://img.cltvap.cc/football/team/28e94925fdcc848f86a544a1cedcceed.png!w80",
+      "away_logo": "https://img.cltvap.cc/football/team/b8c5038ebb0e21b09a72008b7cb6219f.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv22.live/truc-tiep/zulte-waregem-vs-club-brugge-luc-0245-ngay-31-10-2026-8lk2dirpll2cz73": {
+      "match_url": "https://colatv22.live/truc-tiep/zulte-waregem-vs-club-brugge-luc-0245-ngay-31-10-2026-8lk2dirpll2cz73",
+      "name": "Zulte Waregem vs Club Brugge",
+      "home_name": "Zulte Waregem",
+      "away_name": "Club Brugge",
+      "date": "31/10/2026",
+      "time": "02:45",
+      "league": "",
+      "home_logo": "https://img.cltvap.cc/football/team/1818ea30e1a1e461dd571d54e19962a0.png!w80",
+      "away_logo": "https://img.cltvap.cc/football/team/2e9f652d28ec91e0b66c0b714bff8d78.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv22.live/truc-tiep/clb-sheffield-united-vs-clb-wrexham-luc-0300-ngay-31-10-2026-9gklzi1d3lpam7x": {
+      "match_url": "https://colatv22.live/truc-tiep/clb-sheffield-united-vs-clb-wrexham-luc-0300-ngay-31-10-2026-9gklzi1d3lpam7x",
+      "name": "Clb Sheffield United vs Clb Wrexham",
+      "home_name": "Clb Sheffield United",
+      "away_name": "Clb Wrexham",
+      "date": "31/10/2026",
+      "time": "03:00",
+      "league": "",
+      "home_logo": "https://img.cltvap.cc/football/team/008437c93501963e6ca1b2450994007a.png!w80",
+      "away_logo": "https://img.cltvap.cc/football/team/6ee72ef6dd0d994c0fd5fb7d82d5acc9.png!w80",
+      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL.",
+        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+      ]
+    },
+    "https://colatv22.live/truc-tiep/casa-pia-ac-vs-sporting-luc-0315-ngay-31-10-2026-34kgmio8p08seko": {
+      "match_url": "https://colatv22.live/truc-tiep/casa-pia-ac-vs-sporting-luc-0315-ngay-31-10-2026-34kgmio8p08seko",
+      "name": "Casa Pia Ac vs Sporting",
+      "home_name": "Casa Pia Ac",
+      "away_name": "Sporting",
+      "date": "31/10/2026",
+      "time": "03:15",
+      "league": "",
+      "home_logo": "https://img.cltvap.cc/football/team/0ee6b6e8c21275bb7a79e64c4baf90c1.png!w80",
+      "away_logo": "https://img.cltvap.cc/football/team/6a5153c73922a32013b9bc6cfbc20b26.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
