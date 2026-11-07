@@ -1,6 +1,6 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-11-07T05:20:44.845953+07:00",
+  "generated_at_vietnam": "2026-11-07T09:19:53.187332+07:00",
   "summary": {
     "discovered_match_pages": 9,
     "metadata_pages_read": 9,
@@ -11,77 +11,45 @@
   "discovery": {
     "start_url": "https://colatv77.live/",
     "match_urls": [
-      "https://colatv11.live/truc-tiep/famalicao-vs-arouca-luc-0345-ngay-07-11-2026-j374oi0xlnebgqo",
-      "https://colatv11.live/truc-tiep/union-de-santa-fe-vs-clb-velez-sarsfield-luc-0515-ngay-07-11-2026-ezk96i3z6rnh1kn",
-      "https://colatv11.live/truc-tiep/clb-vitoria-ba-vs-fluminense-rj-luc-0600-ngay-07-11-2026-l6kegi8mz1rhv75",
-      "https://colatv11.live/truc-tiep/clb-boyaca-chico-vs-la-equidad-luc-0600-ngay-07-11-2026-527r3i4zno1b47e",
+      "https://colatv11.live/truc-tiep/necaxa-vs-club-tijuana-luc-0800-ngay-07-11-2026-m2q15izxwggue76",
+      "https://colatv11.live/truc-tiep/atletico-san-luis-vs-juarez-luc-0800-ngay-07-11-2026-xvkjoi8ynoms879",
       "https://colatv11.live/truc-tiep/charlotte-hornets-vs-doi-bong-ro-boston-celtics-luc-0700-ngay-07-11-2026-vmqy6sn1znrtgk9",
       "https://colatv11.live/truc-tiep/cleveland-cavaliers-vs-philadelphia-76ers-luc-0730-ngay-07-11-2026-o17p8sywny3uykj",
       "https://colatv11.live/truc-tiep/new-orleans-pelicans-vs-minnesota-timberwolves-luc-0800-ngay-07-11-2026-527rjswd6wwb4ke",
-      "https://colatv11.live/truc-tiep/atletico-san-luis-vs-juarez-luc-0800-ngay-07-11-2026-xvkjoi8ynoms879",
-      "https://colatv11.live/truc-tiep/necaxa-vs-club-tijuana-luc-0800-ngay-07-11-2026-m2q15izxwggue76"
+      "https://colatv11.live/truc-tiep/memphis-grizzlies-vs-oklahoma-city-thunder-luc-0800-ngay-07-11-2026-9gkl6s6xp6ptmkx",
+      "https://colatv11.live/truc-tiep/los-angeles-lakers-vs-portland-trail-blazers-luc-1000-ngay-07-11-2026-wv784sx4ex8soqr",
+      "https://colatv11.live/truc-tiep/sacramento-kings-vs-san-antonio-spurs-luc-1000-ngay-07-11-2026-edq0esdrndlaekx",
+      "https://colatv11.live/truc-tiep/clb-atlante-vs-santos-laguna-luc-1000-ngay-07-11-2026-zrkn6i4ge9nfwql"
     ],
     "errors": {}
   },
   "matches": {
-    "https://colatv11.live/truc-tiep/famalicao-vs-arouca-luc-0345-ngay-07-11-2026-j374oi0xlnebgqo": {
-      "match_url": "https://colatv11.live/truc-tiep/famalicao-vs-arouca-luc-0345-ngay-07-11-2026-j374oi0xlnebgqo",
-      "name": "Famalicao vs Arouca",
-      "home_name": "Famalicao",
-      "away_name": "Arouca",
+    "https://colatv11.live/truc-tiep/necaxa-vs-club-tijuana-luc-0800-ngay-07-11-2026-m2q15izxwggue76": {
+      "match_url": "https://colatv11.live/truc-tiep/necaxa-vs-club-tijuana-luc-0800-ngay-07-11-2026-m2q15izxwggue76",
+      "name": "Necaxa vs Club Tijuana",
+      "home_name": "Necaxa",
+      "away_name": "Club Tijuana",
       "date": "07/11/2026",
-      "time": "03:45",
+      "time": "08:00",
       "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/abd59f62f69ef9f59a8121c3baadd882.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/04de5924a46acce3fb629534c4e039be.png!w80",
+      "home_logo": "https://img.cltvap.cc/football/team/05321a8272ff8e7ff2eb7eae2e0b72a6.png!w80",
+      "away_logo": "https://img.cltvap.cc/football/team/6090f28bfc40d2169607b23256e5a151.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv11.live/truc-tiep/union-de-santa-fe-vs-clb-velez-sarsfield-luc-0515-ngay-07-11-2026-ezk96i3z6rnh1kn": {
-      "match_url": "https://colatv11.live/truc-tiep/union-de-santa-fe-vs-clb-velez-sarsfield-luc-0515-ngay-07-11-2026-ezk96i3z6rnh1kn",
-      "name": "Union De Santa Fe vs Clb Velez Sarsfield",
-      "home_name": "Union De Santa Fe",
-      "away_name": "Clb Velez Sarsfield",
+    "https://colatv11.live/truc-tiep/atletico-san-luis-vs-juarez-luc-0800-ngay-07-11-2026-xvkjoi8ynoms879": {
+      "match_url": "https://colatv11.live/truc-tiep/atletico-san-luis-vs-juarez-luc-0800-ngay-07-11-2026-xvkjoi8ynoms879",
+      "name": "Atletico San Luis vs Juarez",
+      "home_name": "Atletico San Luis",
+      "away_name": "Juarez",
       "date": "07/11/2026",
-      "time": "05:15",
+      "time": "08:00",
       "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/c5d75265caa6875d9ea84f36027312d5.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/2e02d3f27830c7f3642e6592e6b922dd.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv11.live/truc-tiep/clb-vitoria-ba-vs-fluminense-rj-luc-0600-ngay-07-11-2026-l6kegi8mz1rhv75": {
-      "match_url": "https://colatv11.live/truc-tiep/clb-vitoria-ba-vs-fluminense-rj-luc-0600-ngay-07-11-2026-l6kegi8mz1rhv75",
-      "name": "Clb Vitoria Ba vs Fluminense Rj",
-      "home_name": "Clb Vitoria Ba",
-      "away_name": "Fluminense Rj",
-      "date": "07/11/2026",
-      "time": "06:00",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/b44aef0db79a96caff676333b2e5ff7b.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/a6bce9adfac7903426bed2b253991a18.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv11.live/truc-tiep/clb-boyaca-chico-vs-la-equidad-luc-0600-ngay-07-11-2026-527r3i4zno1b47e": {
-      "match_url": "https://colatv11.live/truc-tiep/clb-boyaca-chico-vs-la-equidad-luc-0600-ngay-07-11-2026-527r3i4zno1b47e",
-      "name": "Clb Boyaca Chico vs La Equidad",
-      "home_name": "Clb Boyaca Chico",
-      "away_name": "La Equidad",
-      "date": "07/11/2026",
-      "time": "06:00",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/1cd42bcb186830f2cffdeef6df5fd2b0.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/265454b5fee1950f8aa1173147c8c593.png!w80",
+      "home_logo": "https://img.cltvap.cc/football/team/f6c489e1e71d37e301b30df37a43b8a4.png!w80",
+      "away_logo": "https://img.cltvap.cc/football/team/2ef06350057f561b5dce57c7fca99a74.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
@@ -136,36 +104,65 @@
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv11.live/truc-tiep/atletico-san-luis-vs-juarez-luc-0800-ngay-07-11-2026-xvkjoi8ynoms879": {
-      "match_url": "https://colatv11.live/truc-tiep/atletico-san-luis-vs-juarez-luc-0800-ngay-07-11-2026-xvkjoi8ynoms879",
-      "name": "Atletico San Luis vs Juarez",
-      "home_name": "Atletico San Luis",
-      "away_name": "Juarez",
+    "https://colatv11.live/truc-tiep/memphis-grizzlies-vs-oklahoma-city-thunder-luc-0800-ngay-07-11-2026-9gkl6s6xp6ptmkx": {
+      "match_url": "https://colatv11.live/truc-tiep/memphis-grizzlies-vs-oklahoma-city-thunder-luc-0800-ngay-07-11-2026-9gkl6s6xp6ptmkx",
+      "name": "Memphis Grizzlies vs Oklahoma City Thunder",
+      "home_name": "Memphis Grizzlies",
+      "away_name": "Oklahoma City Thunder",
       "date": "07/11/2026",
       "time": "08:00",
       "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/f6c489e1e71d37e301b30df37a43b8a4.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/2ef06350057f561b5dce57c7fca99a74.png!w80",
+      "home_logo": "https://img.cltvap.cc/basketball/team/5150102b33043405b63b2e7c72759fa8.png!w80",
+      "away_logo": "https://img.cltvap.cc/basketball/team/319e03be75fee4098a83b1d0e01940b7.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv11.live/truc-tiep/necaxa-vs-club-tijuana-luc-0800-ngay-07-11-2026-m2q15izxwggue76": {
-      "match_url": "https://colatv11.live/truc-tiep/necaxa-vs-club-tijuana-luc-0800-ngay-07-11-2026-m2q15izxwggue76",
-      "name": "Necaxa vs Club Tijuana",
-      "home_name": "Necaxa",
-      "away_name": "Club Tijuana",
+    "https://colatv11.live/truc-tiep/los-angeles-lakers-vs-portland-trail-blazers-luc-1000-ngay-07-11-2026-wv784sx4ex8soqr": {
+      "match_url": "https://colatv11.live/truc-tiep/los-angeles-lakers-vs-portland-trail-blazers-luc-1000-ngay-07-11-2026-wv784sx4ex8soqr",
+      "name": "Los Angeles Lakers vs Portland Trail Blazers",
+      "home_name": "Los Angeles Lakers",
+      "away_name": "Portland Trail Blazers",
       "date": "07/11/2026",
-      "time": "08:00",
+      "time": "10:00",
       "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/05321a8272ff8e7ff2eb7eae2e0b72a6.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/6090f28bfc40d2169607b23256e5a151.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
+      "home_logo": "",
+      "away_logo": "",
+      "page_title": "503 Backend fetch failed",
       "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
+        "Ngày giờ ưu tiên lấy từ slug URL."
+      ]
+    },
+    "https://colatv11.live/truc-tiep/sacramento-kings-vs-san-antonio-spurs-luc-1000-ngay-07-11-2026-edq0esdrndlaekx": {
+      "match_url": "https://colatv11.live/truc-tiep/sacramento-kings-vs-san-antonio-spurs-luc-1000-ngay-07-11-2026-edq0esdrndlaekx",
+      "name": "Sacramento Kings vs San Antonio Spurs",
+      "home_name": "Sacramento Kings",
+      "away_name": "San Antonio Spurs",
+      "date": "07/11/2026",
+      "time": "10:00",
+      "league": "",
+      "home_logo": "",
+      "away_logo": "",
+      "page_title": "503 Backend fetch failed",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL."
+      ]
+    },
+    "https://colatv11.live/truc-tiep/clb-atlante-vs-santos-laguna-luc-1000-ngay-07-11-2026-zrkn6i4ge9nfwql": {
+      "match_url": "https://colatv11.live/truc-tiep/clb-atlante-vs-santos-laguna-luc-1000-ngay-07-11-2026-zrkn6i4ge9nfwql",
+      "name": "Clb Atlante vs Santos Laguna",
+      "home_name": "Clb Atlante",
+      "away_name": "Santos Laguna",
+      "date": "07/11/2026",
+      "time": "10:00",
+      "league": "",
+      "home_logo": "",
+      "away_logo": "",
+      "page_title": "503 Backend fetch failed",
+      "extraction_notes": [
+        "Ngày giờ ưu tiên lấy từ slug URL."
       ]
     }
   },
