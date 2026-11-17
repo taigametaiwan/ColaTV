@@ -1,123 +1,19 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-11-17T16:06:21.801388+07:00",
+  "generated_at_vietnam": "2026-11-18T01:31:07.349646+07:00",
   "summary": {
-    "discovered_match_pages": 6,
-    "metadata_pages_read": 6,
+    "discovered_match_pages": 0,
+    "metadata_pages_read": 0,
     "authorized_stream_rows": 0,
     "playlist_entries": 0,
     "verified_ok": 0
   },
   "discovery": {
     "start_url": "https://colatv77.live/",
-    "match_urls": [
-      "https://colatv89.live/truc-tiep/myanmar-u17-vs-campuchia-u17-luc-1530-ngay-17-11-2026-ndkz6i353vpuxq3",
-      "https://colatv89.live/truc-tiep/afghanistan-u17-vs-indonesia-u17-luc-1530-ngay-17-11-2026-9gklzi1g1w2fm7x",
-      "https://colatv89.live/truc-tiep/jordan-u17-vs-iran-u17-luc-1600-ngay-17-11-2026-69759ig2g43hgk2",
-      "https://colatv89.live/truc-tiep/brunei-vs-oman-luc-1600-ngay-17-11-2026-oj7x9imrlmei47g",
-      "https://colatv89.live/truc-tiep/singapore-vs-brazil-luc-1700-ngay-17-11-2026-jr7owiyxmjwagq0",
-      "https://colatv89.live/truc-tiep/wonju-dongbu-promy-vs-anyang-kgc-luc-1700-ngay-17-11-2026-ezk90sp23l6f1kn"
-    ],
+    "match_urls": [],
     "errors": {}
   },
-  "matches": {
-    "https://colatv89.live/truc-tiep/myanmar-u17-vs-campuchia-u17-luc-1530-ngay-17-11-2026-ndkz6i353vpuxq3": {
-      "match_url": "https://colatv89.live/truc-tiep/myanmar-u17-vs-campuchia-u17-luc-1530-ngay-17-11-2026-ndkz6i353vpuxq3",
-      "name": "Myanmar U17 vs Campuchia U17",
-      "home_name": "Myanmar U17",
-      "away_name": "Campuchia U17",
-      "date": "17/11/2026",
-      "time": "15:30",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/7a2ca0a9a53ae410965c536014cbe3ba.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/31d64389a45aaeb7a61c9b76b72be555.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv89.live/truc-tiep/afghanistan-u17-vs-indonesia-u17-luc-1530-ngay-17-11-2026-9gklzi1g1w2fm7x": {
-      "match_url": "https://colatv89.live/truc-tiep/afghanistan-u17-vs-indonesia-u17-luc-1530-ngay-17-11-2026-9gklzi1g1w2fm7x",
-      "name": "Afghanistan U17 vs Indonesia U17",
-      "home_name": "Afghanistan U17",
-      "away_name": "Indonesia U17",
-      "date": "17/11/2026",
-      "time": "15:30",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/a4cc3a85c7cda24dd3e028306403697d.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/e81f6728fe895a302503f09082469b9e.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv89.live/truc-tiep/jordan-u17-vs-iran-u17-luc-1600-ngay-17-11-2026-69759ig2g43hgk2": {
-      "match_url": "https://colatv89.live/truc-tiep/jordan-u17-vs-iran-u17-luc-1600-ngay-17-11-2026-69759ig2g43hgk2",
-      "name": "Jordan U17 vs Iran U17",
-      "home_name": "Jordan U17",
-      "away_name": "Iran U17",
-      "date": "17/11/2026",
-      "time": "16:00",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/a54769d9dca7f2ac5a2e1b261c868993.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/56de534cf589f6d0ca09630db803ba00.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv89.live/truc-tiep/brunei-vs-oman-luc-1600-ngay-17-11-2026-oj7x9imrlmei47g": {
-      "match_url": "https://colatv89.live/truc-tiep/brunei-vs-oman-luc-1600-ngay-17-11-2026-oj7x9imrlmei47g",
-      "name": "Brunei vs Oman",
-      "home_name": "Brunei",
-      "away_name": "Oman",
-      "date": "17/11/2026",
-      "time": "16:00",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/10d4b366f410a1275f7b684f07a28456.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/500739868ce9f7f0857260404eab4d41.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv89.live/truc-tiep/singapore-vs-brazil-luc-1700-ngay-17-11-2026-jr7owiyxmjwagq0": {
-      "match_url": "https://colatv89.live/truc-tiep/singapore-vs-brazil-luc-1700-ngay-17-11-2026-jr7owiyxmjwagq0",
-      "name": "Singapore vs Brazil",
-      "home_name": "Singapore",
-      "away_name": "Brazil",
-      "date": "17/11/2026",
-      "time": "17:00",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/bfa20d86a59044ef90a4609dde03985c.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/99bf3d153d4bf67d640051a1af322505.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    },
-    "https://colatv89.live/truc-tiep/wonju-dongbu-promy-vs-anyang-kgc-luc-1700-ngay-17-11-2026-ezk90sp23l6f1kn": {
-      "match_url": "https://colatv89.live/truc-tiep/wonju-dongbu-promy-vs-anyang-kgc-luc-1700-ngay-17-11-2026-ezk90sp23l6f1kn",
-      "name": "Wonju Dongbu Promy vs Anyang Kgc",
-      "home_name": "Wonju Dongbu Promy",
-      "away_name": "Anyang Kgc",
-      "date": "17/11/2026",
-      "time": "17:00",
-      "league": "",
-      "home_logo": "https://img.cltvap.cc/basketball/team/e94f441698752284a7b2f6c37ea3aee6.png!w80",
-      "away_logo": "https://img.cltvap.cc/basketball/team/30683c359531664a5b97f129c047fcdc.png!w80",
-      "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
-      "extraction_notes": [
-        "Ngày giờ ưu tiên lấy từ slug URL.",
-        "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
-      ]
-    }
-  },
+  "matches": {},
   "authorized_streams": [],
   "verification": {},
   "notice": "Công cụ chỉ ghép URL phát trong authorized_streams.json. Nó không bắt request Network, giải mã player hoặc tự trích xuất URL phát từ website."
