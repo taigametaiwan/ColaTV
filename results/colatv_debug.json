@@ -1,6 +1,6 @@
 {
   "version": "0.1.0-COLATV-METADATA-AUTHORIZED-PLAYLIST",
-  "generated_at_vietnam": "2026-11-24T13:55:25.379587+07:00",
+  "generated_at_vietnam": "2026-11-25T10:00:39.428088+07:00",
   "summary": {
     "discovered_match_pages": 6,
     "metadata_pages_read": 6,
@@ -11,106 +11,106 @@
   "discovery": {
     "start_url": "https://colatv77.live/",
     "match_urls": [
-      "https://colatv111.live/truc-tiep/newcastle-jets-vs-kashiwa-reysol-luc-1445-ngay-24-11-2026-ndkz6i3egn4fxq3",
-      "https://colatv111.live/truc-tiep/persebaya-vs-psbs-biak-numfor-luc-1600-ngay-24-11-2026-xvkjoi29vdxi879",
-      "https://colatv111.live/truc-tiep/garudayaksa-fc-vs-clb-pss-sleman-luc-1600-ngay-24-11-2026-ezk96ijn6odu1kn",
-      "https://colatv111.live/truc-tiep/kyoto-sanga-vs-clb-pohang-steelers-luc-1700-ngay-24-11-2026-j374oi025o5igqo",
-      "https://colatv111.live/truc-tiep/perth-lynx-nu-vs-uc-capitals-women-luc-1700-ngay-24-11-2026-oj7x6szpomxf47g",
-      "https://colatv111.live/truc-tiep/shanxi-xing-rui-nu-vs-wuhan-nu-luc-1830-ngay-24-11-2026-jek3psd21jgt9qo"
+      "https://colatv222.live/truc-tiep/clb-america-de-cali-vs-clb-deportivo-cali-luc-0830-ngay-25-11-2026-vmqy9iyj3lwhgk9",
+      "https://colatv222.live/truc-tiep/washington-wizards-vs-doi-bong-ro-boston-celtics-luc-0800-ngay-25-11-2026-9gkl6s6xp4pcmkx",
+      "https://colatv222.live/truc-tiep/san-jose-earthquakes-vs-houston-dynamo-luc-1000-ngay-25-11-2026-jek33im68v4i9ko",
+      "https://colatv222.live/truc-tiep/fc-ryukyu-vs-roasso-kumamoto-luc-1000-ngay-25-11-2026-m2q15izxzypce76",
+      "https://colatv222.live/truc-tiep/denver-nuggets-vs-dallas-mavericks-luc-1000-ngay-25-11-2026-ndkzysnp6ljix73",
+      "https://colatv222.live/truc-tiep/giravanz-kitakyushu-vs-kanazawa-luc-1200-ngay-25-11-2026-zrkn6i4g464hwql"
     ],
     "errors": {}
   },
   "matches": {
-    "https://colatv111.live/truc-tiep/newcastle-jets-vs-kashiwa-reysol-luc-1445-ngay-24-11-2026-ndkz6i3egn4fxq3": {
-      "match_url": "https://colatv111.live/truc-tiep/newcastle-jets-vs-kashiwa-reysol-luc-1445-ngay-24-11-2026-ndkz6i3egn4fxq3",
-      "name": "Newcastle Jets vs Kashiwa Reysol",
-      "home_name": "Newcastle Jets",
-      "away_name": "Kashiwa Reysol",
-      "date": "24/11/2026",
-      "time": "14:45",
+    "https://colatv222.live/truc-tiep/clb-america-de-cali-vs-clb-deportivo-cali-luc-0830-ngay-25-11-2026-vmqy9iyj3lwhgk9": {
+      "match_url": "https://colatv222.live/truc-tiep/clb-america-de-cali-vs-clb-deportivo-cali-luc-0830-ngay-25-11-2026-vmqy9iyj3lwhgk9",
+      "name": "Clb America De Cali vs Clb Deportivo Cali",
+      "home_name": "Clb America De Cali",
+      "away_name": "Clb Deportivo Cali",
+      "date": "25/11/2026",
+      "time": "08:30",
       "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/cb7c21cdf0ae82e8a97065118f89f816.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/d272859d78eb8ca7a14753f4293fbf45.png!w80",
+      "home_logo": "https://img.cltvap.cc/football/team/ed6ae7fa894cb5bdbccfd605d1d6ad04.png!w80",
+      "away_logo": "https://img.cltvap.cc/football/team/b997a2811a0caed43ff38b631a708420.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv111.live/truc-tiep/persebaya-vs-psbs-biak-numfor-luc-1600-ngay-24-11-2026-xvkjoi29vdxi879": {
-      "match_url": "https://colatv111.live/truc-tiep/persebaya-vs-psbs-biak-numfor-luc-1600-ngay-24-11-2026-xvkjoi29vdxi879",
-      "name": "Persebaya vs Psbs Biak Numfor",
-      "home_name": "Persebaya",
-      "away_name": "Psbs Biak Numfor",
-      "date": "24/11/2026",
-      "time": "16:00",
+    "https://colatv222.live/truc-tiep/washington-wizards-vs-doi-bong-ro-boston-celtics-luc-0800-ngay-25-11-2026-9gkl6s6xp4pcmkx": {
+      "match_url": "https://colatv222.live/truc-tiep/washington-wizards-vs-doi-bong-ro-boston-celtics-luc-0800-ngay-25-11-2026-9gkl6s6xp4pcmkx",
+      "name": "Washington Wizards vs Doi Bong Ro Boston Celtics",
+      "home_name": "Washington Wizards",
+      "away_name": "Doi Bong Ro Boston Celtics",
+      "date": "25/11/2026",
+      "time": "08:00",
       "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/66307444901ddb38c881129b7ea0105e.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/cbd5d35d354519a981a2a97f5c41bcbb.png!w80",
+      "home_logo": "https://img.cltvap.cc/basketball/team/ac18ecfecac3af349477383866cf8ef5.png!w80",
+      "away_logo": "https://img.cltvap.cc/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv111.live/truc-tiep/garudayaksa-fc-vs-clb-pss-sleman-luc-1600-ngay-24-11-2026-ezk96ijn6odu1kn": {
-      "match_url": "https://colatv111.live/truc-tiep/garudayaksa-fc-vs-clb-pss-sleman-luc-1600-ngay-24-11-2026-ezk96ijn6odu1kn",
-      "name": "Garudayaksa Fc vs Clb Pss Sleman",
-      "home_name": "Garudayaksa Fc",
-      "away_name": "Clb Pss Sleman",
-      "date": "24/11/2026",
-      "time": "16:00",
+    "https://colatv222.live/truc-tiep/san-jose-earthquakes-vs-houston-dynamo-luc-1000-ngay-25-11-2026-jek33im68v4i9ko": {
+      "match_url": "https://colatv222.live/truc-tiep/san-jose-earthquakes-vs-houston-dynamo-luc-1000-ngay-25-11-2026-jek33im68v4i9ko",
+      "name": "San Jose Earthquakes vs Houston Dynamo",
+      "home_name": "San Jose Earthquakes",
+      "away_name": "Houston Dynamo",
+      "date": "25/11/2026",
+      "time": "10:00",
       "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/015df51660b2918c97305936453e454c.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/20bf90d9a55ef5dc4a503754db3f8b49.png!w80",
+      "home_logo": "https://img.cltvap.cc/football/team/7079d708b4e391c0c26b20da7b2fb32c.png!w80",
+      "away_logo": "https://img.cltvap.cc/football/team/2d21e6bbd505075b1bc6df8b5a887e8f.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv111.live/truc-tiep/kyoto-sanga-vs-clb-pohang-steelers-luc-1700-ngay-24-11-2026-j374oi025o5igqo": {
-      "match_url": "https://colatv111.live/truc-tiep/kyoto-sanga-vs-clb-pohang-steelers-luc-1700-ngay-24-11-2026-j374oi025o5igqo",
-      "name": "Kyoto Sanga vs Clb Pohang Steelers",
-      "home_name": "Kyoto Sanga",
-      "away_name": "Clb Pohang Steelers",
-      "date": "24/11/2026",
-      "time": "17:00",
+    "https://colatv222.live/truc-tiep/fc-ryukyu-vs-roasso-kumamoto-luc-1000-ngay-25-11-2026-m2q15izxzypce76": {
+      "match_url": "https://colatv222.live/truc-tiep/fc-ryukyu-vs-roasso-kumamoto-luc-1000-ngay-25-11-2026-m2q15izxzypce76",
+      "name": "Fc Ryukyu vs Roasso Kumamoto",
+      "home_name": "Fc Ryukyu",
+      "away_name": "Roasso Kumamoto",
+      "date": "25/11/2026",
+      "time": "10:00",
       "league": "",
-      "home_logo": "https://img.cltvap.cc/football/team/7d6fa50ea67cde7d66612a8189897ba5.png!w80",
-      "away_logo": "https://img.cltvap.cc/football/team/6f05c460789939ac83282bd0686446f1.png!w80",
+      "home_logo": "https://img.cltvap.cc/football/team/78032edddbd8c3c0c21c79f259b2185a.png!w80",
+      "away_logo": "https://img.cltvap.cc/football/team/809e95942827f1fca7b6c5cffd4777cb.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv111.live/truc-tiep/perth-lynx-nu-vs-uc-capitals-women-luc-1700-ngay-24-11-2026-oj7x6szpomxf47g": {
-      "match_url": "https://colatv111.live/truc-tiep/perth-lynx-nu-vs-uc-capitals-women-luc-1700-ngay-24-11-2026-oj7x6szpomxf47g",
-      "name": "Perth Lynx Nu vs Uc Capitals Women",
-      "home_name": "Perth Lynx Nu",
-      "away_name": "Uc Capitals Women",
-      "date": "24/11/2026",
-      "time": "17:00",
+    "https://colatv222.live/truc-tiep/denver-nuggets-vs-dallas-mavericks-luc-1000-ngay-25-11-2026-ndkzysnp6ljix73": {
+      "match_url": "https://colatv222.live/truc-tiep/denver-nuggets-vs-dallas-mavericks-luc-1000-ngay-25-11-2026-ndkzysnp6ljix73",
+      "name": "Denver Nuggets vs Dallas Mavericks",
+      "home_name": "Denver Nuggets",
+      "away_name": "Dallas Mavericks",
+      "date": "25/11/2026",
+      "time": "10:00",
       "league": "",
-      "home_logo": "https://img.cltvap.cc/basketball/team/1813b3b36d7d59bc02b28035db7aed23.png!w80",
-      "away_logo": "https://img.cltvap.cc/basketball/team/0bf8d00e9a4df141d819d0be02302d42.png!w80",
+      "home_logo": "https://img.cltvap.cc/basketball/team/403a12aa187f47045c18d137cd8103dc.png!w80",
+      "away_logo": "https://img.cltvap.cc/basketball/team/42d7b5ec22b2eb411d68f94a04eab742.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
         "Logo đội được chấm điểm theo tên đội, alt/title, class và kích thước ảnh."
       ]
     },
-    "https://colatv111.live/truc-tiep/shanxi-xing-rui-nu-vs-wuhan-nu-luc-1830-ngay-24-11-2026-jek3psd21jgt9qo": {
-      "match_url": "https://colatv111.live/truc-tiep/shanxi-xing-rui-nu-vs-wuhan-nu-luc-1830-ngay-24-11-2026-jek3psd21jgt9qo",
-      "name": "Shanxi Xing Rui Nu vs Wuhan Nu",
-      "home_name": "Shanxi Xing Rui Nu",
-      "away_name": "Wuhan Nu",
-      "date": "24/11/2026",
-      "time": "18:30",
+    "https://colatv222.live/truc-tiep/giravanz-kitakyushu-vs-kanazawa-luc-1200-ngay-25-11-2026-zrkn6i4g464hwql": {
+      "match_url": "https://colatv222.live/truc-tiep/giravanz-kitakyushu-vs-kanazawa-luc-1200-ngay-25-11-2026-zrkn6i4g464hwql",
+      "name": "Giravanz Kitakyushu vs Kanazawa",
+      "home_name": "Giravanz Kitakyushu",
+      "away_name": "Kanazawa",
+      "date": "25/11/2026",
+      "time": "12:00",
       "league": "",
-      "home_logo": "https://img.cltvap.cc/basketball/team/3afdfda57ca6ef4d3d875f098902f58f.png!w80",
-      "away_logo": "https://img.cltvap.cc/basketball/team/c654d3c56f74e62af5ceb3c9fb7451de.png!w80",
+      "home_logo": "https://img.cltvap.cc/football/team/fefa11f94d0efff34a0f98ee4440a34b.png!w80",
+      "away_logo": "https://img.cltvap.cc/football/team/646d000d7498d416110aad94ff53e8fb.png!w80",
       "page_title": "Cola TV - Trực Tiếp Bóng đá Miễn Phí, Xem ColaTV TTBD HD",
       "extraction_notes": [
         "Ngày giờ ưu tiên lấy từ slug URL.",
